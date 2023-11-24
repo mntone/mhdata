@@ -1,0 +1,87 @@
+{
+	"id": "pukei_pukei",
+	"version": "16.0.0",
+	"physiology": [
+		[
+			{
+				"head": {
+					"slash": 75,
+					"strike": 80,
+					"shell": 70,
+					"fire": 15,
+					"water": 0,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				"leg": {
+					"slash": 45,
+					"strike": 45,
+					"shell": 40,
+					"fire": 0,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				"neck": {
+					"slash": 40,
+					"strike": 35,
+					"shell": 30,
+					"fire": 5,
+					"water": 0,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				"tail": {
+					"slash": 55,
+					"strike": 50,
+					"shell": 45,
+					"fire": 10,
+					"water": 0,
+					"thunder": 25,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				"tongue": {
+					"slash": 95,
+					"strike": 90,
+					"shell": 85,
+					"fire": 15,
+					"water": 0,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				"torso": {
+					"slash": 35,
+					"strike": 35,
+					"shell": 30,
+					"fire": 0,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				"wing": {
+					"slash": 50,
+					"strike": 45,
+					"shell": 40,
+					"fire": 10,
+					"water": 0,
+					"thunder": 25,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			}
+		]
+	]
+}

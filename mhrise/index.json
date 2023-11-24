@@ -1,0 +1,15 @@
+{
+	"localization": [
+		"ar",
+		"en",
+		"ja",
+		"ko",
+		"ru",
+		"zh-cmn-Hans",
+		"zh-cmn-Hant"
+	],
+	"monsters": [
+		"kulu_ya_ku",
+		"pukei_pukei"
+	]
+}
