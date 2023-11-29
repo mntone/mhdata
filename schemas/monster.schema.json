@@ -1,0 +1,133 @@
+{
+	"title": "Monster Data",
+	"type": "object",
+	"properties": {
+		"id": {
+			"title": "Monster ID",
+			"type": "string"
+		},
+		"version": {
+			"title": "Game Version",
+			"type": "string"
+		},
+		"physiologies": {
+			"title": "Physiologies",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Physiology",
+				"type": "object",
+				"properties": {
+					"parts": {
+						"title": "Parts",
+						"type": "array",
+						"minItems": 1,
+						"items": {
+							"title": "Part",
+							"type": "string",
+							"enum": [
+								"head",
+								"tongue",
+								"neck",
+								"torso",
+								"wing",
+								"leg",
+								"foreleg",
+								"tail",
+								"boulder",
+								"pod"
+							]
+						}
+					},
+					"values": {
+						"title": "Physiology for States",
+						"type": "array",
+						"minItems": 1,
+						"items": {
+							"title": "Physiology for State",
+							"type": "object",
+							"properties": {
+								"state": {
+									"title": "State Name",
+									"type": "string",
+									"enum": [
+										"default",
+										"angry",
+										"postbreak"
+									],
+									"default": "default"
+								},
+								"slash": {
+									"title": "Slash",
+									"type": "integer",
+									"minimum": 0,
+									"maximum": 100
+								},
+								"strike": {
+									"title": "Strike",
+									"type": "integer",
+									"minimum": 0,
+									"maximum": 100
+								},
+								"shell": {
+									"title": "Shell",
+									"type": "integer",
+									"minimum": 0,
+									"maximum": 100
+								},
+								"fire": {
+									"title": "Fire",
+									"type": "integer",
+									"minimum": 0
+								},
+								"water": {
+									"title": "Water",
+									"type": "integer",
+									"minimum": 0
+								},
+								"thunder": {
+									"title": "Thunder",
+									"type": "integer",
+									"minimum": 0
+								},
+								"ice": {
+									"title": "Ice",
+									"type": "integer",
+									"minimum": 0
+								},
+								"dragon": {
+									"title": "Dragon",
+									"type": "integer",
+									"minimum": 0
+								},
+								"stun": {
+									"title": "Stun",
+									"type": "integer",
+									"minimum": 0,
+									"maximum": 100
+								}
+							},
+							"required": [
+								"state",
+								"slash",
+								"strike",
+								"shell",
+								"fire",
+								"water",
+								"thunder",
+								"ice",
+								"dragon",
+								"stun"
+							]
+						}
+					}
+				}
+			}
+		}
+	},
+	"required": [
+		"id",
+		"version",
+		"physiologies"
+	]
+}
