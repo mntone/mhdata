@@ -5,8 +5,8 @@
 		"ja",
 		"ko",
 		"ru",
-		"zh-cmn-Hans",
-		"zh-cmn-Hant"
+		"zh-Hans",
+		"zh-Hant"
 	],
 	"monsters": [
 		"khezu",
