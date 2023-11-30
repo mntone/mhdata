@@ -1,0 +1,44 @@
+{
+	"id": "great_baggi",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 75,
+					"strike": 65,
+					"shell": 60,
+					"fire": 40,
+					"water": 20,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"body"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 50,
+					"strike": 50,
+					"shell": 40,
+					"fire": 40,
+					"water": 20,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
