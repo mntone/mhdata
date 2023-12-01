@@ -1,0 +1,114 @@
+{
+	"id": "arzuros",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 55,
+					"strike": 55,
+					"shell": 55,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"upper_half"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 50,
+					"strike": 50,
+					"shell": 62,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 33,
+					"strike": 33,
+					"shell": 28,
+					"fire": 30,
+					"water": 5,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"state": "postbreak",
+					"slash": 42,
+					"strike": 45,
+					"shell": 36,
+					"fire": 38,
+					"water": 5,
+					"thunder": 38,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen",
+				"hindleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 55,
+					"strike": 55,
+					"shell": 38,
+					"fire": 15,
+					"water": 5,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"rear"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 66,
+					"strike": 66,
+					"shell": 43,
+					"fire": 15,
+					"water": 5,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
