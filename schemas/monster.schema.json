@@ -26,6 +26,7 @@
 							"title": "Part",
 							"type": "string",
 							"enum": [
+								"all",
 								"head",
 								"tongue",
 								"neck",
@@ -37,6 +38,7 @@
 								"leg",
 								"foreleg",
 								"hindleg",
+								"back",
 								"rear",
 								"tail",
 								"tail_tip",
@@ -59,7 +61,8 @@
 									"enum": [
 										"default",
 										"angry",
-										"postbreak"
+										"postbreak",
+										"rolling"
 									],
 									"default": "default"
 								},
