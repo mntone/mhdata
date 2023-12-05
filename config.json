@@ -1,12 +1,16 @@
 {
 	"version": 1,
-	"titles": {
-		"mhrise": {
+	"titles": [
+		{
 			"id": "mhrise",
 			"names": {
+				"en": "Rise / Sunbreak",
+				"ja": "ライズ・サンブレイク"
+			},
+			"full_names": {
 				"en": "Monster Hunter Rise / Sunbreak",
-				"ja": "モンスターハンターライズ / サンブレイク"
+				"ja": "モンスターハンターライズ・サンブレイク"
 			}
 		}
-	}
+	]
 }
