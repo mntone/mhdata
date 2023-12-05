@@ -63,6 +63,7 @@
 									"enum": [
 										"default",
 										"angry",
+										"mud",
 										"postbreak",
 										"rolling"
 									],
