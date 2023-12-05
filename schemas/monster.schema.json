@@ -28,6 +28,7 @@
 							"enum": [
 								"all",
 								"head",
+								"mane",
 								"tongue",
 								"neck",
 								"crest",
