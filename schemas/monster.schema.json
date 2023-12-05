@@ -36,10 +36,13 @@
 								"body",
 								"torso",
 								"abdomen",
+								"shell",
 								"wing",
+								"claw",
 								"leg",
 								"foreleg",
 								"hindleg",
+								"arm",
 								"back",
 								"rear",
 								"tail",
@@ -63,6 +66,7 @@
 									"enum": [
 										"default",
 										"angry",
+										"guarding",
 										"mud",
 										"postbreak",
 										"rolling"
