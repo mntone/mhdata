@@ -1,0 +1,151 @@
+{
+	"id": "tetranadon",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 65,
+					"strike": 70,
+					"shell": 60,
+					"fire": 20,
+					"water": 0,
+					"thunder": 30,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 50,
+					"strike": 55,
+					"shell": 40,
+					"fire": 10,
+					"water": 0,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 40,
+					"strike": 40,
+					"shell": 30,
+					"fire": 10,
+					"water": 0,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"state": "distending",
+					"slash": 45,
+					"strike": 45,
+					"shell": 35,
+					"fire": 20,
+					"water": 0,
+					"thunder": 30,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 50,
+					"strike": 45,
+					"shell": 40,
+					"fire": 15,
+					"water": 0,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 35,
+					"shell": 25,
+					"fire": 5,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 35,
+					"strike": 30,
+					"shell": 25,
+					"fire": 5,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 30,
+					"strike": 30,
+					"shell": 25,
+					"fire": 5,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

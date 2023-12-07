@@ -66,6 +66,7 @@
 									"enum": [
 										"default",
 										"angry",
+										"distending",
 										"guarding",
 										"mud",
 										"postbreak",
