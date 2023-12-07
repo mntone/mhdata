@@ -1,0 +1,120 @@
+{
+	"id": "bishaten_blood_orange",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 70,
+					"strike": 70,
+					"shell": 60,
+					"fire": 0,
+					"water": 25,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 25,
+					"shell": 30,
+					"fire": 0,
+					"water": 15,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 25,
+					"shell": 30,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 40,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 60,
+					"strike": 40,
+					"shell": 40,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
