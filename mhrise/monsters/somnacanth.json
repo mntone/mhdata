@@ -1,0 +1,158 @@
+{
+	"id": "somnacanth",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 65,
+					"strike": 55,
+					"shell": 45,
+					"fire": 15,
+					"water": 0,
+					"thunder": 25,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"head_fin"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 40,
+					"strike": 40,
+					"shell": 20,
+					"fire": 0,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 25
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 70,
+					"strike": 70,
+					"shell": 60,
+					"fire": 15,
+					"water": 0,
+					"thunder": 25,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 45,
+					"strike": 45,
+					"shell": 35,
+					"fire": 5,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 30,
+					"strike": 40,
+					"shell": 20,
+					"fire": 10,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 25,
+					"shell": 15,
+					"fire": 10,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 30,
+					"shell": 25,
+					"fire": 10,
+					"water": 0,
+					"thunder": 25,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 60,
+					"strike": 55,
+					"shell": 35,
+					"fire": 15,
+					"water": 0,
+					"thunder": 30,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

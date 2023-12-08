@@ -28,6 +28,7 @@
 							"enum": [
 								"all",
 								"head",
+								"head_fin",
 								"mane",
 								"tongue",
 								"neck",
