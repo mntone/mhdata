@@ -1,0 +1,223 @@
+{
+	"id": "jyuratodus",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 63,
+					"strike": 63,
+					"shell": 53,
+					"fire": 5,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"state": "mud",
+					"slash": 50,
+					"strike": 50,
+					"shell": 40,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 43,
+					"strike": 43,
+					"shell": 43,
+					"fire": 5,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"state": "mud",
+					"slash": 43,
+					"strike": 43,
+					"shell": 43,
+					"fire": 5,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 35,
+					"strike": 35,
+					"shell": 35,
+					"fire": 10,
+					"water": 0,
+					"thunder": 25,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"state": "mud",
+					"slash": 30,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 25,
+					"shell": 25,
+					"fire": 5,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"state": "mud",
+					"slash": 30,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"fin"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 25,
+					"strike": 25,
+					"shell": 25,
+					"fire": 10,
+					"water": 0,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"state": "mud",
+					"slash": 30,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 45,
+					"strike": 45,
+					"shell": 40,
+					"fire": 15,
+					"water": 0,
+					"thunder": 30,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"state": "mud",
+					"slash": 45,
+					"strike": 45,
+					"shell": 40,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 55,
+					"strike": 50,
+					"shell": 45,
+					"fire": 5,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"state": "mud",
+					"slash": 50,
+					"strike": 50,
+					"shell": 40,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
