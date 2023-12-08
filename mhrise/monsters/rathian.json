@@ -1,0 +1,121 @@
+{
+	"id": "rathian",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 70,
+					"strike": 75,
+					"shell": 65,
+					"fire": 0,
+					"water": 15,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 30,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 40,
+					"strike": 45,
+					"shell": 35,
+					"fire": 0,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso",
+				"back"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 35,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 45,
+					"strike": 45,
+					"shell": 35,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 40,
+					"strike": 40,
+					"shell": 35,
+					"fire": 0,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"state": "default",
+					"slash": 45,
+					"strike": 40,
+					"shell": 35,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
