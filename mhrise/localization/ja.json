@@ -1,24 +1,84 @@
 {
-	"monsters": {
-		"aknosom": "アケノシルム",
-		"arzuros": "アオアシラ",
-		"barroth": "ボルボロス",
-		"bishaten": "ビシュテンゴ",
-		"bishaten_blood_orange": "ビシュテンゴ亜種",
-		"daimyo_hermitaur": "ダイミョウザザミ",
-		"great_baggi": "ドスバギィ",
-		"great_izuchi": "オサイズチ",
-		"great_wroggi": "ドスフロギィ",
-		"jyuratodus": "ジュラトドス",
-		"khezu": "フルフル",
-		"kulu_ya_ku": "クルルヤック",
-		"lagombi": "ウルクスス",
-		"pukei_pukei": "プケプケ",
-		"rathian": "リオレイア",
-		"royal_ludroth": "ロアルドロス",
-		"somnacanth": "イソネミクニ",
-		"somnacanth_aurora": "イソネミクニ亜種",
-		"tetranadon": "ヨツミワドウ",
-		"volvidon": "ラングロトラ"
-	}
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "アケノシルム"
+		},
+		{
+			"id": "arzuros",
+			"name": "アオアシラ"
+		},
+		{
+			"id": "barroth",
+			"name": "ボルボロス"
+		},
+		{
+			"id": "bishaten",
+			"name": "ビシュテンゴ"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "ビシュテンゴ亜種"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "ダイミョウザザミ"
+		},
+		{
+			"id": "great_baggi",
+			"name": "ドスバギィ"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "オサイズチ"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "ドスフロギィ"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "ジュラトドス"
+		},
+		{
+			"id": "khezu",
+			"name": "フルフル"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "クルルヤック"
+		},
+		{
+			"id": "lagombi",
+			"name": "ウルクスス"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "プケプケ"
+		},
+		{
+			"id": "rathian",
+			"name": "リオレイア"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "ロアルドロス"
+		},
+		{
+			"id": "somnacanth",
+			"name": "イソネミクニ"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "イソネミクニ亜種"
+		},
+		{
+			"id": "tetranadon",
+			"name": "ヨツミワドウ"
+		},
+		{
+			"id": "volvidon",
+			"name": "ラングロトラ"
+		}
+	]
 }

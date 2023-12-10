@@ -1,24 +1,84 @@
 {
-	"monsters": {
-		"aknosom": "أكنوسوم",
-		"arzuros": "أرزوروس",
-		"barroth": "باروث",
-		"bishaten": "بيشاتن",
-		"bishaten_blood_orange": "بيشاتن ذو الدم البرتقالي",
-		"daimyo_hermitaur": "دايمياو هيرميتور",
-		"great_baggi": "باجي العظيم",
-		"great_izuchi": "إيزوتشي العظيم",
-		"great_wroggi": "روجي العظيم",
-		"jyuratodus": "جيوراتودوس",
-		"khezu": "خيزو",
-		"kulu_ya_ku": "كولو-يا-كو",
-		"lagombi": "لاجومبي",
-		"pukei_pukei": "بوكي-بوكي",
-		"rathian": "راثيان",
-		"royal_ludroth": "لودروث الملكي",
-		"somnacanth": "سومناكانث",
-		"somnacanth_aurora": "أورورا سومناكانث",
-		"tetranadon": "تيترانادون",
-		"volvidon": "فولفيدون"
-	}
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "أكنوسوم"
+		},
+		{
+			"id": "arzuros",
+			"name": "أرزوروس"
+		},
+		{
+			"id": "barroth",
+			"name": "باروث"
+		},
+		{
+			"id": "bishaten",
+			"name": "بيشاتن"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "بيشاتن ذو الدم البرتقالي"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "دايمياو هيرميتور"
+		},
+		{
+			"id": "great_baggi",
+			"name": "باجي العظيم"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "إيزوتشي العظيم"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "روجي العظيم"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "جيوراتودوس"
+		},
+		{
+			"id": "khezu",
+			"name": "خيزو"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "كولو-يا-كو"
+		},
+		{
+			"id": "lagombi",
+			"name": "لاجومبي"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "بوكي-بوكي"
+		},
+		{
+			"id": "rathian",
+			"name": "راثيان"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "لودروث الملكي"
+		},
+		{
+			"id": "somnacanth",
+			"name": "سومناكانث"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "أورورا سومناكانث"
+		},
+		{
+			"id": "tetranadon",
+			"name": "تيترانادون"
+		},
+		{
+			"id": "volvidon",
+			"name": "فولفيدون"
+		}
+	]
 }

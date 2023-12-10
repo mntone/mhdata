@@ -1,24 +1,84 @@
 {
-	"monsters": {
-		"aknosom": "Aknosom",
-		"arzuros": "Arzuros",
-		"barroth": "Barroth",
-		"bishaten": "Bishaten",
-		"bishaten_blood_orange": "Krwistopomarań. Bishaten",
-		"daimyo_hermitaur": "Daimyo Hermitaur",
-		"great_baggi": "Wielki Baggi",
-		"great_izuchi": "Wielki Izuchi",
-		"great_wroggi": "Wielki Wroggi",
-		"jyuratodus": "Jyuratodus",
-		"khezu": "Khezu",
-		"kulu_ya_ku": "Kulu-Ya-Ku",
-		"lagombi": "Lagombi",
-		"pukei_pukei": "Pukei-Pukei",
-		"rathian": "Rathiana",
-		"royal_ludroth": "Ludroth Królewski",
-		"somnacanth": "Somnacanth",
-		"somnacanth_aurora": "Aurora Somnacanth",
-		"tetranadon": "Tetranadon",
-		"volvidon": "Volvidon"
-	}
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "Aknosom"
+		},
+		{
+			"id": "arzuros",
+			"name": "Arzuros"
+		},
+		{
+			"id": "barroth",
+			"name": "Barroth"
+		},
+		{
+			"id": "bishaten",
+			"name": "Bishaten"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "Krwistopomarań. Bishaten"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "Daimyo Hermitaur"
+		},
+		{
+			"id": "great_baggi",
+			"name": "Wielki Baggi"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "Wielki Izuchi"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "Wielki Wroggi"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "Jyuratodus"
+		},
+		{
+			"id": "khezu",
+			"name": "Khezu"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "Kulu-Ya-Ku"
+		},
+		{
+			"id": "lagombi",
+			"name": "Lagombi"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "Pukei-Pukei"
+		},
+		{
+			"id": "rathian",
+			"name": "Rathiana"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "Ludroth Królewski"
+		},
+		{
+			"id": "somnacanth",
+			"name": "Somnacanth"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "Aurora Somnacanth"
+		},
+		{
+			"id": "tetranadon",
+			"name": "Tetranadon"
+		},
+		{
+			"id": "volvidon",
+			"name": "Volvidon"
+		}
+	]
 }

@@ -1,24 +1,84 @@
 {
-	"monsters": {
-		"aknosom": "Акносом",
-		"arzuros": "Арзурос",
-		"barroth": "Баррот",
-		"bishaten": "Бисятэн",
-		"bishaten_blood_orange": "Кровавый Бисятэн",
-		"daimyo_hermitaur": "Гермитавр Даймё",
-		"great_baggi": "Большой Багги",
-		"great_izuchi": "Большой Идзути",
-		"great_wroggi": "Большой Врогги",
-		"jyuratodus": "Юратод",
-		"khezu": "Кезу",
-		"kulu_ya_ku": "Кулу-Йа-Ку",
-		"lagombi": "Лагомби",
-		"pukei_pukei": "Поки-Поки",
-		"rathian": "Ратиана",
-		"royal_ludroth": "Королевский Лудрот",
-		"somnacanth": "Сомнакант",
-		"somnacanth_aurora": "Сомнакант Авроры",
-		"tetranadon": "Тетранадон",
-		"volvidon": "Вольвидон"
-	}
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "Акносом"
+		},
+		{
+			"id": "arzuros",
+			"name": "Арзурос"
+		},
+		{
+			"id": "barroth",
+			"name": "Баррот"
+		},
+		{
+			"id": "bishaten",
+			"name": "Бисятэн"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "Кровавый Бисятэн"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "Гермитавр Даймё"
+		},
+		{
+			"id": "great_baggi",
+			"name": "Большой Багги"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "Большой Идзути"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "Большой Врогги"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "Юратод"
+		},
+		{
+			"id": "khezu",
+			"name": "Кезу"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "Кулу-Йа-Ку"
+		},
+		{
+			"id": "lagombi",
+			"name": "Лагомби"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "Поки-Поки"
+		},
+		{
+			"id": "rathian",
+			"name": "Ратиана"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "Королевский Лудрот"
+		},
+		{
+			"id": "somnacanth",
+			"name": "Сомнакант"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "Сомнакант Авроры"
+		},
+		{
+			"id": "tetranadon",
+			"name": "Тетранадон"
+		},
+		{
+			"id": "volvidon",
+			"name": "Вольвидон"
+		}
+	]
 }

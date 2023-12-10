@@ -1,24 +1,84 @@
 {
-	"monsters": {
-		"aknosom": "傘鳥",
-		"arzuros": "青熊獸",
-		"barroth": "土砂龍",
-		"bishaten": "天狗獸",
-		"bishaten_blood_orange": "緋天狗獸",
-		"daimyo_hermitaur": "大名蟹",
-		"great_baggi": "眠狗龍王",
-		"great_izuchi": "鐮鼬龍王",
-		"great_wroggi": "毒狗龍王",
-		"jyuratodus": "泥魚龍",
-		"khezu": "奇怪龍",
-		"kulu_ya_ku": "搔鳥",
-		"lagombi": "白兔獸",
-		"pukei_pukei": "毒妖鳥",
-		"rathian": "雌火龍",
-		"royal_ludroth": "水獸",
-		"somnacanth": "人魚龍",
-		"somnacanth_aurora": "冰人魚龍",
-		"tetranadon": "河童蛙",
-		"volvidon": "赤甲獸"
-	}
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "傘鳥"
+		},
+		{
+			"id": "arzuros",
+			"name": "青熊獸"
+		},
+		{
+			"id": "barroth",
+			"name": "土砂龍"
+		},
+		{
+			"id": "bishaten",
+			"name": "天狗獸"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "緋天狗獸"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "大名蟹"
+		},
+		{
+			"id": "great_baggi",
+			"name": "眠狗龍王"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "鐮鼬龍王"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "毒狗龍王"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "泥魚龍"
+		},
+		{
+			"id": "khezu",
+			"name": "奇怪龍"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "搔鳥"
+		},
+		{
+			"id": "lagombi",
+			"name": "白兔獸"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "毒妖鳥"
+		},
+		{
+			"id": "rathian",
+			"name": "雌火龍"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "水獸"
+		},
+		{
+			"id": "somnacanth",
+			"name": "人魚龍"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "冰人魚龍"
+		},
+		{
+			"id": "tetranadon",
+			"name": "河童蛙"
+		},
+		{
+			"id": "volvidon",
+			"name": "赤甲獸"
+		}
+	]
 }

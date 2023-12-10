@@ -1,24 +1,84 @@
 {
-	"monsters": {
-		"aknosom": "Aknosom",
-		"arzuros": "Arzuros",
-		"barroth": "Barroth",
-		"bishaten": "Bishaten",
-		"bishaten_blood_orange": "Bishaten sanguigno",
-		"daimyo_hermitaur": "Daimyo Hermitaur",
-		"great_baggi": "Gran Baggi",
-		"great_izuchi": "Gran Izuchi",
-		"great_wroggi": "Gran Wroggi",
-		"jyuratodus": "Jyuratodus",
-		"khezu": "Khezu",
-		"kulu_ya_ku": "Kulu-Ya-Ku",
-		"lagombi": "Lagombi",
-		"pukei_pukei": "Pukei-Pukei",
-		"rathian": "Rathian",
-		"royal_ludroth": "Ludroth reale",
-		"somnacanth": "Somnacanth",
-		"somnacanth_aurora": "Somnacanth fulgido",
-		"tetranadon": "Tetranadon",
-		"volvidon": "Volvidon"
-	}
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "Aknosom"
+		},
+		{
+			"id": "arzuros",
+			"name": "Arzuros"
+		},
+		{
+			"id": "barroth",
+			"name": "Barroth"
+		},
+		{
+			"id": "bishaten",
+			"name": "Bishaten"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "Bishaten sanguigno"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "Daimyo Hermitaur"
+		},
+		{
+			"id": "great_baggi",
+			"name": "Gran Baggi"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "Gran Izuchi"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "Gran Wroggi"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "Jyuratodus"
+		},
+		{
+			"id": "khezu",
+			"name": "Khezu"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "Kulu-Ya-Ku"
+		},
+		{
+			"id": "lagombi",
+			"name": "Lagombi"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "Pukei-Pukei"
+		},
+		{
+			"id": "rathian",
+			"name": "Rathian"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "Ludroth reale"
+		},
+		{
+			"id": "somnacanth",
+			"name": "Somnacanth"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "Somnacanth fulgido"
+		},
+		{
+			"id": "tetranadon",
+			"name": "Tetranadon"
+		},
+		{
+			"id": "volvidon",
+			"name": "Volvidon"
+		}
+	]
 }
