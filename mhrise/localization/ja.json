@@ -2,83 +2,173 @@
 	"monsters": [
 		{
 			"id": "aknosom",
-			"name": "アケノシルム"
+			"name": "アケノシルム",
+			"another_name": "傘鳥",
+			"keywords": [
+				"変幻の唐傘"
+			]
 		},
 		{
 			"id": "arzuros",
-			"name": "アオアシラ"
+			"name": "アオアシラ",
+			"another_name": "青熊獣",
+			"keywords": [
+				"熊",
+				"大食いの暴れ熊"
+			]
 		},
 		{
 			"id": "barroth",
-			"name": "ボルボロス"
+			"name": "ボルボロス",
+			"another_name": "土砂竜",
+			"keywords": [
+				"荒地の暴走者"
+			]
 		},
 		{
 			"id": "bishaten",
-			"name": "ビシュテンゴ"
+			"name": "ビシュテンゴ",
+			"another_name": "天狗獣",
+			"keywords": [
+				"山林の荒法師"
+			]
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "ビシュテンゴ亜種"
+			"name": "ビシュテンゴ亜種",
+			"another_name": "緋天狗獣",
+			"keywords": [
+				"天狗獣",
+				"嘲笑う道化"
+			]
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "ダイミョウザザミ"
+			"name": "ダイミョウザザミ",
+			"another_name": "盾蟹",
+			"keywords": [
+				"一本角の盾大名"
+			]
 		},
 		{
 			"id": "great_baggi",
-			"name": "ドスバギィ"
+			"name": "ドスバギィ",
+			"another_name": "眠狗竜",
+			"keywords": [
+				"狡猾なる簒奪者"
+			]
 		},
 		{
 			"id": "great_izuchi",
-			"name": "オサイズチ"
+			"name": "オサイズチ",
+			"another_name": "鎌鼬竜",
+			"keywords": [
+				"三位一体の鎌風"
+			]
 		},
 		{
 			"id": "great_wroggi",
-			"name": "ドスフロギィ"
+			"name": "ドスフロギィ",
+			"another_name": "毒狗竜",
+			"keywords": [
+				"毒霧の統率者"
+			]
 		},
 		{
 			"id": "jyuratodus",
-			"name": "ジュラトドス"
+			"name": "ジュラトドス",
+			"another_name": "泥魚竜",
+			"keywords": [
+				"不穏の沼影"
+			]
 		},
 		{
 			"id": "khezu",
-			"name": "フルフル"
+			"name": "フルフル",
+			"another_name": "奇怪竜",
+			"keywords": [
+				"白影",
+				"白い虚無"
+			]
 		},
 		{
 			"id": "kulu_ya_ku",
-			"name": "クルルヤック"
+			"name": "クルルヤック",
+			"another_name": "掻鳥",
+			"keywords": [
+				"泥棒",
+				"荒地の泥棒"
+			]
 		},
 		{
 			"id": "lagombi",
-			"name": "ウルクスス"
+			"name": "ウルクスス",
+			"another_name": "白兎獣",
+			"keywords": [
+				"白銀の滑走者"
+			]
 		},
 		{
 			"id": "pukei_pukei",
-			"name": "プケプケ"
+			"name": "プケプケ",
+			"another_name": "毒妖鳥",
+			"keywords": [
+				"貪欲な喉舌"
+			]
 		},
 		{
 			"id": "rathian",
-			"name": "リオレイア"
+			"name": "リオレイア",
+			"another_name": "雌火竜",
+			"keywords": [
+				"リオレイヤ",
+				"女王",
+				"陸の女王"
+			]
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "ロアルドロス"
+			"name": "ロアルドロス",
+			"another_name": "水獣",
+			"keywords": [
+				"地を這う水流"
+			]
 		},
 		{
 			"id": "somnacanth",
-			"name": "イソネミクニ"
+			"name": "イソネミクニ",
+			"another_name": "人魚竜",
+			"keywords": [
+				"歌姫",
+				"黄泉の歌姫"
+			]
 		},
 		{
 			"id": "somnacanth_aurora",
-			"name": "イソネミクニ亜種"
+			"name": "イソネミクニ亜種",
+			"another_name": "氷人魚竜",
+			"keywords": [
+				"人魚竜",
+				"歌姫",
+				"果てへ誘う歌姫"
+			]
 		},
 		{
 			"id": "tetranadon",
-			"name": "ヨツミワドウ"
+			"name": "ヨツミワドウ",
+			"another_name": "河童蛙",
+			"keywords": [
+				"力士",
+				"丸呑み力士"
+			]
 		},
 		{
 			"id": "volvidon",
-			"name": "ラングロトラ"
+			"name": "ラングロトラ",
+			"another_name": "赤甲獣",
+			"keywords": [
+				"赤き獣弾"
+			]
 		}
 	]
 }

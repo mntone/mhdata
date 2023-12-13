@@ -3,6 +3,12 @@
 	"json.schemas": [
 		{
 			"fileMatch": [
+				"/localization/*.json"
+			],
+			"url": "./schemas/localization.schema.json"
+		},
+		{
+			"fileMatch": [
 				"/monsters/*.json"
 			],
 			"url": "./schemas/monster.schema.json"

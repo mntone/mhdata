@@ -1,0 +1,45 @@
+{
+	"title": "Localization Data",
+	"type": "object",
+	"properties": {
+		"monsters": {
+			"title": "Array of Monster Localization",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Monster Localization",
+				"type": "object",
+				"properties": {
+					"id": {
+						"title": "Monster ID",
+						"type": "string"
+					},
+					"name": {
+						"title": "Monster Name",
+						"type": "string"
+					},
+					"another_name": {
+						"title": "Monster Another Name",
+						"type": "string"
+					},
+					"keywords": {
+						"title": "Monster Keywords",
+						"type": "array",
+						"minItems": 1,
+						"items": {
+							"title": "Monster Keyword",
+							"type": "string"
+						}
+					}
+				},
+				"required": [
+					"id",
+					"name"
+				]
+			}
+		}
+	},
+	"required": [
+		"monsters"
+	]
+}
