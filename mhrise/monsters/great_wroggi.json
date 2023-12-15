@@ -8,7 +8,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 75,
 					"strike": 60,
 					"shell": 60,
@@ -27,7 +29,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 50,
 					"strike": 50,
 					"shell": 50,

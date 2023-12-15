@@ -8,7 +8,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 65,
 					"strike": 70,
 					"shell": 60,
@@ -27,7 +29,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 50,
 					"strike": 55,
 					"shell": 40,
@@ -46,7 +50,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 40,
 					"strike": 40,
 					"shell": 30,
@@ -58,7 +64,9 @@
 					"stun": 0
 				},
 				{
-					"state": "distending",
+					"states": [
+						"distending"
+					],
 					"slash": 45,
 					"strike": 45,
 					"shell": 35,
@@ -77,7 +85,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 50,
 					"strike": 45,
 					"shell": 40,
@@ -96,7 +106,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 25,
 					"strike": 35,
 					"shell": 25,
@@ -115,7 +127,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 35,
 					"strike": 30,
 					"shell": 25,
@@ -134,7 +148,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 30,
 					"strike": 30,
 					"shell": 25,

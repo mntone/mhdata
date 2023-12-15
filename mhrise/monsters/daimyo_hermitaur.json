@@ -8,7 +8,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 50,
 					"strike": 60,
 					"shell": 45,
@@ -20,7 +22,9 @@
 					"stun": 100
 				},
 				{
-					"state": "guarding",
+					"states": [
+						"guarding"
+					],
 					"slash": 20,
 					"strike": 40,
 					"shell": 20,
@@ -39,7 +43,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 40,
 					"strike": 50,
 					"shell": 30,
@@ -51,7 +57,9 @@
 					"stun": 0
 				},
 				{
-					"state": "guarding",
+					"states": [
+						"guarding"
+					],
 					"slash": 20,
 					"strike": 30,
 					"shell": 15,
@@ -70,7 +78,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 22,
 					"strike": 40,
 					"shell": 25,
@@ -82,7 +92,9 @@
 					"stun": 0
 				},
 				{
-					"state": "guarding",
+					"states": [
+						"guarding"
+					],
 					"slash": 20,
 					"strike": 30,
 					"shell": 15,
@@ -94,7 +106,9 @@
 					"stun": 0
 				},
 				{
-					"state": "postbreak",
+					"states": [
+						"broken"
+					],
 					"slash": 30,
 					"strike": 40,
 					"shell": 25,
@@ -113,7 +127,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 25,
 					"strike": 30,
 					"shell": 15,
@@ -125,7 +141,9 @@
 					"stun": 0
 				},
 				{
-					"state": "guarding",
+					"states": [
+						"guarding"
+					],
 					"slash": 15,
 					"strike": 30,
 					"shell": 15,
@@ -137,7 +155,9 @@
 					"stun": 0
 				},
 				{
-					"state": "postbreak",
+					"states": [
+						"broken"
+					],
 					"slash": 30,
 					"strike": 40,
 					"shell": 25,
@@ -156,7 +176,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 35,
 					"strike": 40,
 					"shell": 30,
@@ -168,7 +190,9 @@
 					"stun": 0
 				},
 				{
-					"state": "guarding",
+					"states": [
+						"guarding"
+					],
 					"slash": 20,
 					"strike": 30,
 					"shell": 15,
@@ -187,7 +211,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 40,
 					"strike": 45,
 					"shell": 30,
@@ -199,7 +225,9 @@
 					"stun": 0
 				},
 				{
-					"state": "guarding",
+					"states": [
+						"guarding"
+					],
 					"slash": 20,
 					"strike": 30,
 					"shell": 15,

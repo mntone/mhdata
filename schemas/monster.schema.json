@@ -62,19 +62,25 @@
 							"title": "Physiology for State",
 							"type": "object",
 							"properties": {
-								"state": {
-									"title": "State Name",
-									"type": "string",
-									"enum": [
-										"default",
-										"angry",
-										"distending",
-										"guarding",
-										"mud",
-										"postbreak",
-										"rolling"
-									],
-									"default": "default"
+								"states": {
+									"title": "Array of State",
+									"type": "array",
+									"minItems": 1,
+									"items": {
+										"title": "State Name",
+										"type": "string",
+										"enum": [
+											"default",
+											"broken",
+											"angry",
+											"distending",
+											"enraged",
+											"guarding",
+											"mud",
+											"rolling"
+										],
+										"default": "default"
+									}
 								},
 								"slash": {
 									"title": "Slash",
@@ -127,7 +133,7 @@
 								}
 							},
 							"required": [
-								"state",
+								"states",
 								"slash",
 								"strike",
 								"shell",

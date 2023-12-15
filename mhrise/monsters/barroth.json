@@ -8,7 +8,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 22,
 					"strike": 25,
 					"shell": 15,
@@ -20,7 +22,9 @@
 					"stun": 100
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 22,
 					"strike": 25,
 					"shell": 15,
@@ -39,7 +43,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 36,
 					"strike": 45,
 					"shell": 35,
@@ -51,7 +57,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 36,
 					"strike": 45,
 					"shell": 35,
@@ -70,7 +78,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 50,
 					"strike": 55,
 					"shell": 50,
@@ -82,7 +92,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 45,
 					"strike": 50,
 					"shell": 45,
@@ -101,7 +113,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 36,
 					"strike": 30,
 					"shell": 25,
@@ -113,7 +127,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 36,
 					"strike": 30,
 					"shell": 25,
@@ -132,7 +148,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 47,
 					"strike": 47,
 					"shell": 50,
@@ -144,7 +162,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 42,
 					"strike": 42,
 					"shell": 45,

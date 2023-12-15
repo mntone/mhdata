@@ -8,7 +8,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 63,
 					"strike": 63,
 					"shell": 53,
@@ -20,7 +22,9 @@
 					"stun": 100
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 50,
 					"strike": 50,
 					"shell": 40,
@@ -39,7 +43,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 43,
 					"strike": 43,
 					"shell": 43,
@@ -51,7 +57,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 43,
 					"strike": 43,
 					"shell": 43,
@@ -70,7 +78,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 35,
 					"strike": 35,
 					"shell": 35,
@@ -82,7 +92,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 30,
 					"strike": 30,
 					"shell": 25,
@@ -101,7 +113,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 25,
 					"strike": 25,
 					"shell": 25,
@@ -113,7 +127,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 30,
 					"strike": 30,
 					"shell": 25,
@@ -132,7 +148,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 25,
 					"strike": 25,
 					"shell": 25,
@@ -144,7 +162,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 30,
 					"strike": 30,
 					"shell": 25,
@@ -163,7 +183,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 45,
 					"strike": 45,
 					"shell": 40,
@@ -175,7 +197,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 45,
 					"strike": 45,
 					"shell": 40,
@@ -194,7 +218,9 @@
 			],
 			"values": [
 				{
-					"state": "default",
+					"states": [
+						"default"
+					],
 					"slash": 55,
 					"strike": 50,
 					"shell": 45,
@@ -206,7 +232,9 @@
 					"stun": 0
 				},
 				{
-					"state": "mud",
+					"states": [
+						"mud"
+					],
 					"slash": 50,
 					"strike": 50,
 					"shell": 40,
