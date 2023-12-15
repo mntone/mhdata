@@ -61,6 +61,10 @@
 			"name": "Rathian"
 		},
 		{
+			"id": "rathian_gold",
+			"name": "Goldene Rathian"
+		},
+		{
 			"id": "royal_ludroth",
 			"name": "Königs-Ludroth"
 		},

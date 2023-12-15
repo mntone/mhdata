@@ -61,6 +61,10 @@
 			"name": "Rathian"
 		},
 		{
+			"id": "rathian_gold",
+			"name": "Rathian dorata"
+		},
+		{
 			"id": "royal_ludroth",
 			"name": "Ludroth reale"
 		},

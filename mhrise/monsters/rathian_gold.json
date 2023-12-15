@@ -1,0 +1,260 @@
+{
+	"id": "rathian_gold",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 22,
+					"strike": 22,
+					"shell": 22,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 45,
+					"fire": 0,
+					"water": 15,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 45,
+					"fire": 0,
+					"water": 15,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken",
+						"enraged"
+					],
+					"slash": 65,
+					"strike": 70,
+					"shell": 50,
+					"fire": 0,
+					"water": 20,
+					"thunder": 25,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 22,
+					"strike": 22,
+					"shell": 22,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 30,
+					"fire": 0,
+					"water": 15,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 38,
+					"strike": 38,
+					"shell": 30,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken",
+						"enraged"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 35,
+					"fire": 0,
+					"water": 20,
+					"thunder": 25,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 30,
+					"shell": 30,
+					"fire": 5,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 22,
+					"strike": 22,
+					"shell": 15,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 35,
+					"fire": 0,
+					"water": 15,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 44,
+					"strike": 44,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 20,
+					"strike": 20,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

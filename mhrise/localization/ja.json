@@ -127,6 +127,16 @@
 			]
 		},
 		{
+			"id": "rathian_gold",
+			"name": "リオレイア希少種",
+			"another_name": "金火竜",
+			"keywords": [
+				"リオレイヤ希少種",
+				"女王",
+				"眩き金の女王"
+			]
+		},
+		{
 			"id": "royal_ludroth",
 			"name": "ロアルドロス",
 			"another_name": "水獣",
