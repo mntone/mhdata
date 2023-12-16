@@ -18,6 +18,14 @@
 			]
 		},
 		{
+			"id": "barioth",
+			"name": "ベリオロス",
+			"another_name": "氷牙竜",
+			"keywords": [
+				"迅速の騎士"
+			]
+		},
+		{
 			"id": "barroth",
 			"name": "ボルボロス",
 			"another_name": "土砂竜",
