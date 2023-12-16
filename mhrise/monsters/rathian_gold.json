@@ -37,7 +37,7 @@
 				},
 				{
 					"states": [
-						"enraged"
+						"flame"
 					],
 					"slash": 55,
 					"strike": 60,
@@ -52,7 +52,7 @@
 				{
 					"states": [
 						"broken",
-						"enraged"
+						"flame"
 					],
 					"slash": 65,
 					"strike": 70,
@@ -89,20 +89,6 @@
 					"states": [
 						"broken"
 					],
-					"slash": 40,
-					"strike": 40,
-					"shell": 30,
-					"fire": 0,
-					"water": 15,
-					"thunder": 20,
-					"ice": 15,
-					"dragon": 0,
-					"stun": 0
-				},
-				{
-					"states": [
-						"enraged"
-					],
 					"slash": 38,
 					"strike": 38,
 					"shell": 30,
@@ -115,8 +101,22 @@
 				},
 				{
 					"states": [
+						"flame"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 30,
+					"fire": 0,
+					"water": 15,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
 						"broken",
-						"enraged"
+						"flame"
 					],
 					"slash": 45,
 					"strike": 45,
