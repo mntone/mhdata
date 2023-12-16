@@ -32,6 +32,7 @@
 								"mane",
 								"tongue",
 								"neck",
+								"lower_neck",
 								"crest",
 								"upper_half",
 								"body",
@@ -49,6 +50,7 @@
 								"back",
 								"rear",
 								"tail",
+								"tail_lower",
 								"tail_tip",
 								"boulder",
 								"pod"
@@ -77,6 +79,7 @@
 											"distending",
 											"enraged",
 											"guarding",
+											"hot_shell",
 											"mud",
 											"rolling"
 										],

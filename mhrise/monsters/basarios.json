@@ -1,0 +1,273 @@
+{
+	"id": "basarios",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 20,
+					"strike": 20,
+					"shell": 20,
+					"fire": 10,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 18,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 38,
+					"strike": 43,
+					"shell": 35,
+					"fire": 15,
+					"water": 20,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 23,
+					"stun": 100
+				},
+				{
+					"states": [
+						"hot_shell"
+					],
+					"slash": 48,
+					"strike": 55,
+					"shell": 48,
+					"fire": 15,
+					"water": 20,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 23,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"lower_neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 15,
+					"strike": 20,
+					"shell": 20,
+					"fire": 10,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 18,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 24,
+					"strike": 25,
+					"shell": 30,
+					"fire": 10,
+					"water": 10,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 48,
+					"strike": 44,
+					"shell": 40,
+					"fire": 12,
+					"water": 18,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hot_shell"
+					],
+					"slash": 60,
+					"strike": 55,
+					"shell": 50,
+					"fire": 12,
+					"water": 18,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken",
+						"hot_shell"
+					],
+					"slash": 62,
+					"strike": 55,
+					"shell": 50,
+					"fire": 12,
+					"water": 18,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 15,
+					"strike": 20,
+					"shell": 20,
+					"fire": 10,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 18,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 38,
+					"strike": 35,
+					"shell": 43,
+					"fire": 15,
+					"water": 20,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 23,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hot_shell"
+					],
+					"slash": 48,
+					"strike": 48,
+					"shell": 55,
+					"fire": 15,
+					"water": 20,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 23,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 20,
+					"strike": 20,
+					"shell": 20,
+					"fire": 10,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 18,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 26,
+					"shell": 30,
+					"fire": 10,
+					"water": 10,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_lower"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 15,
+					"strike": 15,
+					"shell": 15,
+					"fire": 10,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 18,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 28,
+					"strike": 15,
+					"shell": 15,
+					"fire": 10,
+					"water": 10,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

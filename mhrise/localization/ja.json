@@ -34,6 +34,14 @@
 			]
 		},
 		{
+			"id": "basarios",
+			"name": "バサルモス",
+			"another_name": "岩竜",
+			"keywords": [
+				"夜泣く岩石"
+			]
+		},
+		{
 			"id": "bishaten",
 			"name": "ビシュテンゴ",
 			"another_name": "天狗獣",
