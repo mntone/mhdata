@@ -204,5 +204,16 @@
 				"赤き獣弾"
 			]
 		}
-	]
+	],
+	"states": {
+		"default": "通常状態",
+		"broken": "破壊後",
+		"angry": "怒り状態",
+		"distending": "膨腹状態",
+		"flame": "劫炎状態",
+		"guarding": "防御状態",
+		"hot_shell": "熱殻状態",
+		"mud": "泥纏い時",
+		"rolling": "回転中"
+	}
 }

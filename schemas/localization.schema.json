@@ -37,6 +37,15 @@
 					"name"
 				]
 			}
+		},
+		"states": {
+			"title": "Dictionary of State Localization",
+			"type": "object",
+			"minItems": 2,
+			"items": {
+				"title": "State Localization",
+				"type": "string"
+			}
 		}
 	},
 	"required": [
