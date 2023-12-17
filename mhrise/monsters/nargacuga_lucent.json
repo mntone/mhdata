@@ -1,0 +1,217 @@
+{
+	"id": "nargacuga_lucent",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"states": [
+						"angry"
+					],
+					"slash": 65,
+					"strike": 70,
+					"shell": 47,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 25,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck",
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 15,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 38,
+					"strike": 43,
+					"shell": 30,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"cutwing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 21,
+					"strike": 24,
+					"shell": 21,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 30,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 40,
+					"shell": 30,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 35,
+					"shell": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"angry"
+					],
+					"slash": 50,
+					"strike": 60,
+					"shell": 50,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 25,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 35,
+					"shell": 50,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"strike": 60,
+					"shell": 60,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 25,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

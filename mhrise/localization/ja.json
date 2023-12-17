@@ -133,6 +133,14 @@
 			]
 		},
 		{
+			"id": "nargacuga_lucent",
+			"name": "ナルガクルガ希少種",
+			"another_name": "月迅竜",
+			"keywords": [
+				"月に潜む迅影"
+			]
+		},
+		{
 			"id": "pukei_pukei",
 			"name": "プケプケ",
 			"another_name": "毒妖鳥",
