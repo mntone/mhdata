@@ -125,6 +125,14 @@
 			]
 		},
 		{
+			"id": "nargacuga",
+			"name": "ナルガクルガ",
+			"another_name": "迅竜",
+			"keywords": [
+				"漆黒の影"
+			]
+		},
+		{
 			"id": "pukei_pukei",
 			"name": "プケプケ",
 			"another_name": "毒妖鳥",
