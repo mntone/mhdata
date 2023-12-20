@@ -141,6 +141,14 @@
 			]
 		},
 		{
+			"id": "mizutsune_violet",
+			"name": "タマミツネ希少種",
+			"another_name": "焔狐竜",
+			"keywords": [
+				"妖炎なる舞"
+			]
+		},
+		{
 			"id": "nargacuga",
 			"name": "ナルガクルガ",
 			"another_name": "迅竜",
