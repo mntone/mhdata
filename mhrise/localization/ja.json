@@ -133,6 +133,14 @@
 			]
 		},
 		{
+			"id": "mizutsune",
+			"name": "タマミツネ",
+			"another_name": "泡狐竜",
+			"keywords": [
+				"妖艶なる舞"
+			]
+		},
+		{
 			"id": "nargacuga",
 			"name": "ナルガクルガ",
 			"another_name": "迅竜",
@@ -233,6 +241,7 @@
 		"default": "通常状態",
 		"broken": "破壊後",
 		"angry": "怒り状態",
+		"bubble": "泡状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",
 		"guarding": "防御状態",
