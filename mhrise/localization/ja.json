@@ -197,6 +197,14 @@
 			]
 		},
 		{
+			"id": "rathalos_silver",
+			"name": "リオレウス希少種",
+			"another_name": "銀火竜",
+			"keywords": [
+				"銀翼の覇者"
+			]
+		},
+		{
 			"id": "rathian",
 			"name": "リオレイア",
 			"another_name": "雌火竜",
