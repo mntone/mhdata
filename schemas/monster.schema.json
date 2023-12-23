@@ -46,6 +46,7 @@
 								"wing",
 								"cutwing",
 								"claw",
+								"ice_clump",
 								"leg",
 								"foreleg",
 								"hindleg",
@@ -85,6 +86,7 @@
 											"guarding",
 											"hot_shell",
 											"mud",
+											"overheat",
 											"rolling"
 										],
 										"default": "default"
@@ -137,7 +139,7 @@
 									"title": "Stun",
 									"type": "integer",
 									"minimum": 0,
-									"maximum": 100
+									"maximum": 120
 								}
 							},
 							"required": [

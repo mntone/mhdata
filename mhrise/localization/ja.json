@@ -75,6 +75,14 @@
 			]
 		},
 		{
+			"id": "goss_harag",
+			"name": "ゴシャハギ",
+			"another_name": "雪鬼獣",
+			"keywords": [
+				"荒切りの凶猛"
+			]
+		},
+		{
 			"id": "great_baggi",
 			"name": "ドスバギィ",
 			"another_name": "眠狗竜",
@@ -255,6 +263,7 @@
 		"guarding": "防御状態",
 		"hot_shell": "熱殻状態",
 		"mud": "泥纏い時",
+		"overheat": "過熱状態",
 		"rolling": "回転中"
 	}
 }
