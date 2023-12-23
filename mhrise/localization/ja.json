@@ -189,6 +189,14 @@
 			]
 		},
 		{
+			"id": "rathalos",
+			"name": "リオレウス",
+			"another_name": "火竜",
+			"keywords": [
+				"天空の王者"
+			]
+		},
+		{
 			"id": "rathian",
 			"name": "リオレイア",
 			"another_name": "雌火竜",
