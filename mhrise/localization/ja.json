@@ -217,6 +217,14 @@
 			]
 		},
 		{
+			"id": "shogun_ceanataur",
+			"name": "ショウグンギザミ",
+			"another_name": "鎌蟹",
+			"keywords": [
+				"一閃必死"
+			]
+		},
+		{
 			"id": "somnacanth",
 			"name": "イソネミクニ",
 			"another_name": "人魚竜",

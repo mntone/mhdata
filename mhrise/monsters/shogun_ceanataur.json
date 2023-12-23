@@ -1,0 +1,132 @@
+{
+	"id": "shogun_ceanataur",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"strike": 45,
+					"shell": 45,
+					"fire": 10,
+					"water": 10,
+					"thunder": 35,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 25,
+					"fire": 15,
+					"water": 5,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"shell"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 45,
+					"shell": 25,
+					"fire": 20,
+					"water": 5,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"claw"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 30,
+					"shell": 15,
+					"fire": 35,
+					"water": 5,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 30,
+					"shell": 30,
+					"fire": 15,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"arm"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 35,
+					"shell": 25,
+					"fire": 15,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
