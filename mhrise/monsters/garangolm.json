@@ -1,0 +1,188 @@
+{
+	"id": "garangolm",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"strike": 45,
+					"shell": 35,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"covering"
+					],
+					"slash": 60,
+					"strike": 55,
+					"shell": 35,
+					"fire": 20,
+					"water": 20,
+					"thunder": 30,
+					"ice": 30,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 15,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"arm_left"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 50,
+					"shell": 45,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"covering"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 45,
+					"fire": 25,
+					"water": 0,
+					"thunder": 25,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"arm_right"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 50,
+					"shell": 45,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"covering"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 45,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 20,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 30,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"covering"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 20,
+					"fire": 8,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

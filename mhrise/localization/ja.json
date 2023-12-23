@@ -75,6 +75,14 @@
 			]
 		},
 		{
+			"id": "garangolm",
+			"name": "ガランゴルム",
+			"another_name": "剛纏獣",
+			"keywords": [
+				"無垢なる巨影"
+			]
+		},
+		{
 			"id": "goss_harag",
 			"name": "ゴシャハギ",
 			"another_name": "雪鬼獣",
@@ -258,6 +266,7 @@
 		"broken": "破壊後",
 		"angry": "怒り状態",
 		"bubble": "泡状態",
+		"covering": "付着物纏い状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",
 		"guarding": "防御状態",
