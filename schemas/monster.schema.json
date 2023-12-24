@@ -60,7 +60,8 @@
 								"tail_tip",
 								"boulder",
 								"pod",
-								"mudball"
+								"mudball",
+								"rockball"
 							]
 						}
 					},
@@ -89,6 +90,8 @@
 											"flame",
 											"guarding",
 											"hot_shell",
+											"magma",
+											"molten",
 											"mud",
 											"overheat",
 											"rolling"

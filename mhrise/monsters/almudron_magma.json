@@ -1,0 +1,273 @@
+{
+	"id": "almudron_magma",
+	"version": "16.0.0",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"magma"
+					],
+					"slash": 60,
+					"strike": 65,
+					"shell": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"molten"
+					],
+					"slash": 80,
+					"strike": 85,
+					"shell": 50,
+					"fire": 0,
+					"water": 28,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 40,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 50,
+					"strike": 50,
+					"shell": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"molten"
+					],
+					"slash": 70,
+					"strike": 70,
+					"shell": 60,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken",
+						"molten"
+					],
+					"slash": 75,
+					"strike": 75,
+					"shell": 60,
+					"fire": 0,
+					"water": 25,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 25,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 30,
+					"shell": 20,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 21,
+					"strike": 23,
+					"shell": 20,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"molten"
+					],
+					"slash": 70,
+					"strike": 70,
+					"shell": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 24,
+					"strike": 24,
+					"shell": 15,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"strike": 45,
+					"shell": 25,
+					"fire": 0,
+					"water": 25,
+					"thunder": 15,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"magma"
+					],
+					"slash": 55,
+					"strike": 50,
+					"shell": 30,
+					"fire": 0,
+					"water": 25,
+					"thunder": 15,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"rockball"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 30,
+					"shell": 20,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

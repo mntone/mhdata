@@ -17,6 +17,14 @@
 			]
 		},
 		{
+			"id": "almudron_magma",
+			"name": "オロミドロ亜種",
+			"another_name": "溶翁竜",
+			"keywords": [
+				"水泥燃やす隠者"
+			]
+		},
+		{
 			"id": "anjanath",
 			"name": "アンジャナフ",
 			"another_name": "蛮顎竜",
@@ -303,6 +311,8 @@
 		"flame": "劫炎状態",
 		"guarding": "防御状態",
 		"hot_shell": "熱殻状態",
+		"magma": "岩漿纏い状態",
+		"molten": "溶熱状態",
 		"mud": "泥纏い時",
 		"overheat": "過熱状態",
 		"rolling": "回転中"
