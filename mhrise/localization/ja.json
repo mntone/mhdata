@@ -165,6 +165,14 @@
 			]
 		},
 		{
+			"id": "lunagaron",
+			"name": "ルナガロン",
+			"another_name": "氷狼竜",
+			"keywords": [
+				"月光賛歌"
+			]
+		},
+		{
 			"id": "mizutsune",
 			"name": "タマミツネ",
 			"another_name": "泡狐竜",
@@ -320,6 +328,7 @@
 		"flame": "劫炎状態",
 		"guarding": "防御状態",
 		"hot_shell": "熱殻状態",
+		"ice": "氷衣状態",
 		"magma": "岩漿纏い状態",
 		"molten": "溶熱状態",
 		"mud": "泥纏い時",
