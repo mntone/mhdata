@@ -299,6 +299,14 @@
 			"keywords": [
 				"赤き獣弾"
 			]
+		},
+		{
+			"id": "zinogre",
+			"name": "ジンオウガ",
+			"another_name": "雷狼竜",
+			"keywords": [
+				"無双の狩人"
+			]
 		}
 	],
 	"states": {
@@ -306,6 +314,7 @@
 		"broken": "破壊後",
 		"angry": "怒り状態",
 		"bubble": "泡状態",
+		"charged": "超帯電状態",
 		"covering": "付着物纏い状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",

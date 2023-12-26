@@ -143,6 +143,10 @@
 		{
 			"id": "volvidon",
 			"name": "Volvidon"
+		},
+		{
+			"id": "zinogre",
+			"name": "Zinogr"
 		}
 	]
 }
