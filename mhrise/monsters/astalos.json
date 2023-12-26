@@ -1,142 +1,93 @@
 {
-	"id": "zinogre",
+	"id": "astalos",
 	"version": "16.0.0",
 	"physiologies": [
 		{
 			"parts": [
-				"head"
+				"crest"
 			],
 			"values": [
 				{
 					"states": [
 						"default"
 					],
-					"slash": 65,
-					"strike": 65,
-					"shell": 70,
-					"fire": 10,
-					"water": 10,
+					"slash": 55,
+					"strike": 55,
+					"shell": 30,
+					"fire": 5,
+					"water": 5,
 					"thunder": 0,
-					"ice": 15,
+					"ice": 10,
 					"dragon": 5,
 					"stun": 100
 				},
 				{
 					"states": [
-						"electrifying"
+						"broken"
 					],
-					"slash": 65,
-					"strike": 65,
-					"shell": 70,
-					"fire": 10,
-					"water": 10,
+					"slash": 57,
+					"strike": 57,
+					"shell": 30,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"charge"
+					],
+					"slash": 63,
+					"strike": 63,
+					"shell": 50,
+					"fire": 5,
+					"water": 15,
 					"thunder": 0,
 					"ice": 15,
-					"dragon": 10,
-					"stun": 120
+					"dragon": 5,
+					"stun": 100
 				}
 			]
 		},
 		{
 			"parts": [
-				"torso"
+				"abdomen"
 			],
 			"values": [
 				{
 					"states": [
 						"default"
 					],
-					"slash": 25,
-					"strike": 25,
+					"slash": 24,
+					"strike": 24,
+					"shell": 15,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 55,
 					"shell": 30,
 					"fire": 5,
 					"water": 5,
 					"thunder": 0,
 					"ice": 5,
-					"dragon": 5,
-					"stun": 0
-				},
-				{
-					"states": [
-						"electrifying"
-					],
-					"slash": 30,
-					"strike": 30,
-					"shell": 35,
-					"fire": 5,
-					"water": 10,
-					"thunder": 0,
-					"ice": 10,
-					"dragon": 5,
-					"stun": 0
-				}
-			]
-		},
-		{
-			"parts": [
-				"hip"
-			],
-			"values": [
-				{
-					"states": [
-						"default"
-					],
-					"slash": 44,
-					"strike": 44,
-					"shell": 30,
-					"fire": 5,
-					"water": 5,
-					"thunder": 0,
-					"ice": 10,
-					"dragon": 5,
-					"stun": 0
-				},
-				{
-					"states": [
-						"electrifying"
-					],
-					"slash": 45,
-					"strike": 45,
-					"shell": 35,
-					"fire": 10,
-					"water": 10,
-					"thunder": 0,
-					"ice": 15,
-					"dragon": 5,
-					"stun": 0
-				}
-			]
-		},
-		{
-			"parts": [
-				"foreleg"
-			],
-			"values": [
-				{
-					"states": [
-						"default"
-					],
-					"slash": 25,
-					"strike": 30,
-					"shell": 30,
-					"fire": 5,
-					"water": 5,
-					"thunder": 0,
-					"ice": 10,
-					"dragon": 5,
-					"stun": 0
-				},
-				{
-					"states": [
-						"electrifying"
-					],
-					"slash": 43,
-					"strike": 46,
-					"shell": 30,
-					"fire": 5,
-					"water": 5,
-					"thunder": 0,
-					"ice": 15,
 					"dragon": 5,
 					"stun": 0
 				}
@@ -151,44 +102,9 @@
 					"states": [
 						"default"
 					],
-					"slash": 45,
-					"strike": 40,
-					"shell": 35,
-					"fire": 10,
-					"water": 20,
-					"thunder": 0,
-					"ice": 25,
-					"dragon": 5,
-					"stun": 0
-				},
-				{
-					"states": [
-						"electrifying"
-					],
-					"slash": 70,
-					"strike": 65,
-					"shell": 55,
-					"fire": 15,
-					"water": 25,
-					"thunder": 0,
-					"ice": 30,
-					"dragon": 5,
-					"stun": 0
-				}
-			]
-		},
-		{
-			"parts": [
-				"hindleg"
-			],
-			"values": [
-				{
-					"states": [
-						"default"
-					],
-					"slash": 45,
-					"strike": 45,
-					"shell": 35,
+					"slash": 25,
+					"strike": 25,
+					"shell": 20,
 					"fire": 5,
 					"water": 5,
 					"thunder": 0,
@@ -198,15 +114,85 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"broken"
 					],
-					"slash": 50,
-					"strike": 50,
-					"shell": 40,
-					"fire": 10,
+					"slash": 26,
+					"strike": 26,
+					"shell": 20,
+					"fire": 5,
 					"water": 10,
 					"thunder": 0,
 					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 20,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 25,
+					"fire": 5,
+					"water": 10,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charge"
+					],
+					"slash": 55,
+					"strike": 55,
+					"shell": 40,
+					"fire": 10,
+					"water": 12,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 15,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
 					"dragon": 5,
 					"stun": 0
 				}
@@ -221,13 +207,13 @@
 					"states": [
 						"default"
 					],
-					"slash": 30,
-					"strike": 25,
-					"shell": 25,
+					"slash": 35,
+					"strike": 35,
+					"shell": 20,
 					"fire": 5,
-					"water": 5,
+					"water": 10,
 					"thunder": 0,
-					"ice": 5,
+					"ice": 15,
 					"dragon": 5,
 					"stun": 0
 				}
@@ -242,13 +228,41 @@
 					"states": [
 						"default"
 					],
-					"slash": 21,
-					"strike": 19,
-					"shell": 10,
-					"fire": 10,
+					"slash": 35,
+					"strike": 35,
+					"shell": 20,
+					"fire": 5,
+					"water": 10,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 37,
+					"strike": 37,
+					"shell": 22,
+					"fire": 5,
+					"water": 10,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charge"
+					],
+					"slash": 55,
+					"strike": 55,
+					"shell": 45,
+					"fire": 5,
 					"water": 15,
 					"thunder": 0,
-					"ice": 20,
+					"ice": 25,
 					"dragon": 5,
 					"stun": 0
 				}

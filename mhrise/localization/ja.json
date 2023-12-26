@@ -50,6 +50,14 @@
 			]
 		},
 		{
+			"id": "astalos",
+			"name": "ライゼクス",
+			"another_name": "電竜",
+			"keywords": [
+				"激怒招雷"
+			]
+		},
+		{
 			"id": "barroth",
 			"name": "ボルボロス",
 			"another_name": "土砂竜",
@@ -322,8 +330,9 @@
 		"broken": "破壊後",
 		"angry": "怒り状態",
 		"bubble": "泡状態",
-		"charged": "超帯電状態",
+		"charge": "電荷状態",
 		"covering": "付着物纏い状態",
+		"electrifying": "超帯電状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",
 		"guarding": "防御状態",
