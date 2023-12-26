@@ -99,6 +99,14 @@
 			]
 		},
 		{
+			"id": "espinas",
+			"name": "エスピナス",
+			"another_name": "棘竜",
+			"keywords": [
+				"禁忌の邪毒"
+			]
+		},
+		{
 			"id": "garangolm",
 			"name": "ガランゴルム",
 			"another_name": "剛纏獣",
@@ -342,6 +350,7 @@
 		"molten": "溶熱状態",
 		"mud": "泥纏い時",
 		"overheat": "過熱状態",
-		"rolling": "回転中"
+		"rolling": "回転中",
+		"sleep": "自発睡眠中"
 	}
 }

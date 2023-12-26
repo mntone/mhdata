@@ -98,7 +98,8 @@
 											"molten",
 											"mud",
 											"overheat",
-											"rolling"
+											"rolling",
+											"sleep"
 										],
 										"default": "default"
 									}
