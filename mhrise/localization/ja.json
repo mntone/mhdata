@@ -107,6 +107,15 @@
 			]
 		},
 		{
+			"id": "espinas_flaming",
+			"name": "エスピナス亜種",
+			"another_name": "棘茶竜",
+			"keywords": [
+				"茶ナス",
+				"激情する邪毒"
+			]
+		},
+		{
 			"id": "garangolm",
 			"name": "ガランゴルム",
 			"another_name": "剛纏獣",
@@ -339,6 +348,7 @@
 		"angry": "怒り状態",
 		"bubble": "泡状態",
 		"charge": "電荷状態",
+		"charging": "溜め中",
 		"covering": "付着物纏い状態",
 		"electrifying": "超帯電状態",
 		"distending": "膨腹状態",
