@@ -1,6 +1,7 @@
 {
 	"id": "garangolm",
 	"version": "16.0.0",
+	"type": "fanged_beast",
 	"physiologies": [
 		{
 			"parts": [

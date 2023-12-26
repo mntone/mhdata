@@ -1,6 +1,7 @@
 {
 	"id": "aknosom",
 	"version": "16.0.0",
+	"type": "bird_wyvern",
 	"physiologies": [
 		{
 			"parts": [

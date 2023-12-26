@@ -1,6 +1,7 @@
 {
 	"id": "almudron_magma",
 	"version": "16.0.0",
+	"type": "leviathan",
 	"physiologies": [
 		{
 			"parts": [

@@ -1,6 +1,7 @@
 {
 	"id": "jyuratodus",
 	"version": "16.0.0",
+	"type": "piscine_wyvern",
 	"physiologies": [
 		{
 			"parts": [

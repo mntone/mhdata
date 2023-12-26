@@ -1,6 +1,7 @@
 {
 	"id": "shogun_ceanataur",
 	"version": "16.0.0",
+	"type": "carapaceon",
 	"physiologies": [
 		{
 			"parts": [

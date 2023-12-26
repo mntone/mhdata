@@ -1,6 +1,7 @@
 {
 	"id": "bishaten_blood_orange",
 	"version": "16.0.0",
+	"type": "fanged_beast",
 	"physiologies": [
 		{
 			"parts": [

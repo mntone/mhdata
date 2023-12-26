@@ -10,6 +10,21 @@
 			"title": "Game Version",
 			"type": "string"
 		},
+		"type": {
+			"title": "Type ID",
+			"type":"string",
+			"enum": [
+				"amphibian",
+				"bird_wyvern",
+				"brute_wyvern",
+				"carapaceon",
+				"fanged_beast",
+				"fanged_wyvern",
+				"flying_wyvern",
+				"leviathan",
+				"piscine_wyvern"
+			]
+		},
 		"physiologies": {
 			"title": "Physiologies",
 			"type": "array",
@@ -176,6 +191,7 @@
 	"required": [
 		"id",
 		"version",
+		"type",
 		"physiologies"
 	]
 }

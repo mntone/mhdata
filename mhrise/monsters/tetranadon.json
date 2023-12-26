@@ -1,6 +1,7 @@
 {
 	"id": "tetranadon",
 	"version": "16.0.0",
+	"type": "amphibian",
 	"physiologies": [
 		{
 			"parts": [

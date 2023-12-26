@@ -1,6 +1,7 @@
 {
 	"id": "zinogre",
 	"version": "16.0.0",
+	"type": "fanged_wyvern",
 	"physiologies": [
 		{
 			"parts": [

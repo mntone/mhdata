@@ -1,6 +1,7 @@
 {
 	"id": "great_izuchi",
 	"version": "16.0.0",
+	"type": "bird_wyvern",
 	"physiologies": [
 		{
 			"parts": [

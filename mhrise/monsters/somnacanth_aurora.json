@@ -1,6 +1,7 @@
 {
 	"id": "somnacanth_aurora",
 	"version": "16.0.0",
+	"type": "leviathan",
 	"physiologies": [
 		{
 			"parts": [

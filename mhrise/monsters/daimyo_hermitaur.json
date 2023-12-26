@@ -1,6 +1,7 @@
 {
 	"id": "daimyo_hermitaur",
 	"version": "16.0.0",
+	"type": "carapaceon",
 	"physiologies": [
 		{
 			"parts": [

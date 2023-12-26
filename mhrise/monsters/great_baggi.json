@@ -1,6 +1,7 @@
 {
 	"id": "great_baggi",
 	"version": "16.0.0",
+	"type": "bird_wyvern",
 	"physiologies": [
 		{
 			"parts": [

@@ -1,6 +1,7 @@
 {
 	"id": "tobi_kadachi",
 	"version": "16.0.0",
+	"type": "fanged_wyvern",
 	"physiologies": [
 		{
 			"parts": [

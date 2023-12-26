@@ -1,6 +1,7 @@
 {
 	"id": "rathian",
 	"version": "16.0.0",
+	"type": "flying_wyvern",
 	"physiologies": [
 		{
 			"parts": [

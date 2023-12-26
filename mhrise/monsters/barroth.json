@@ -1,6 +1,7 @@
 {
 	"id": "barroth",
 	"version": "16.0.0",
+	"type": "brute_wyvern",
 	"physiologies": [
 		{
 			"parts": [

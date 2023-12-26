@@ -1,6 +1,7 @@
 {
 	"id": "kulu_ya_ku",
 	"version": "16.0.0",
+	"type": "bird_wyvern",
 	"physiologies": [
 		{
 			"parts": [
