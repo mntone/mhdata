@@ -1,5 +1,6 @@
 from os import path, walk
 
+indexPath = 'mhrise/index.json'
 localizationPath = 'mhrise/localization/'
 monsterPath = 'mhrise/monsters/'
 

@@ -17,46 +17,169 @@
 		"zh-Hant"
 	],
 	"monsters": [
-		"great_izuchi",
-		"great_baggi",
-		"kulu_ya_ku",
-		"great_wroggi",
-		"arzuros",
-		"lagombi",
-		"volvidon",
-		"aknosom",
-		"royal_ludroth",
-		"barroth",
-		"daimyo_hermitaur",
-		"khezu",
-		"tetranadon",
-		"bishaten",
-		"bishaten_blood_orange",
-		"pukei_pukei",
-		"jyuratodus",
-		"basarios",
-		"somnacanth",
-		"somnacanth_aurora",
-		"rathian",
-		"rathian_gold",
-		"barioth",
-		"tobi_kadachi",
-		"anjanath",
-		"nargacuga",
-		"nargacuga_lucent",
-		"mizutsune",
-		"mizutsune_violet",
-		"goss_harag",
-		"garangolm",
-		"shogun_ceanataur",
-		"rathalos",
-		"rathalos_silver",
-		"almudron",
-		"almudron_magma",
-		"zinogre",
-		"lunagaron",
-		"astalos",
-		"espinas",
-		"espinas_flaming"
+		{
+			"id": "great_izuchi",
+			"type": "bird_wyvern"
+		},
+		{
+			"id": "great_baggi",
+			"type": "bird_wyvern"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"type": "bird_wyvern"
+		},
+		{
+			"id": "great_wroggi",
+			"type": "bird_wyvern"
+		},
+		{
+			"id": "arzuros",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "lagombi",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "volvidon",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "aknosom",
+			"type": "bird_wyvern"
+		},
+		{
+			"id": "royal_ludroth",
+			"type": "leviathan"
+		},
+		{
+			"id": "barroth",
+			"type": "brute_wyvern"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"type": "carapaceon"
+		},
+		{
+			"id": "khezu",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "tetranadon",
+			"type": "amphibian"
+		},
+		{
+			"id": "bishaten",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "pukei_pukei",
+			"type": "bird_wyvern"
+		},
+		{
+			"id": "jyuratodus",
+			"type": "piscine_wyvern"
+		},
+		{
+			"id": "basarios",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "somnacanth",
+			"type": "leviathan"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"type": "leviathan"
+		},
+		{
+			"id": "rathian",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "rathian_gold",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "barioth",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "tobi_kadachi",
+			"type": "fanged_wyvern"
+		},
+		{
+			"id": "anjanath",
+			"type": "brute_wyvern"
+		},
+		{
+			"id": "nargacuga",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "nargacuga_lucent",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "mizutsune",
+			"type": "leviathan"
+		},
+		{
+			"id": "mizutsune_violet",
+			"type": "leviathan"
+		},
+		{
+			"id": "goss_harag",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "garangolm",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "shogun_ceanataur",
+			"type": "carapaceon"
+		},
+		{
+			"id": "rathalos",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "rathalos_silver",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "almudron",
+			"type": "leviathan"
+		},
+		{
+			"id": "almudron_magma",
+			"type": "leviathan"
+		},
+		{
+			"id": "zinogre",
+			"type": "fanged_wyvern"
+		},
+		{
+			"id": "lunagaron",
+			"type": "fanged_wyvern"
+		},
+		{
+			"id": "astalos",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "espinas",
+			"type": "flying_wyvern"
+		},
+		{
+			"id": "espinas_flaming",
+			"type": "flying_wyvern"
+		}
 	]
 }
