@@ -299,6 +299,14 @@
 			]
 		},
 		{
+			"id": "seregios",
+			"name": "セルレギオス",
+			"another_name": "千刃竜",
+			"keywords": [
+				"千塵の烈鱗"
+			]
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "ショウグンギザミ",
 			"another_name": "鎌蟹",

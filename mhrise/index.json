@@ -188,6 +188,10 @@
 		{
 			"id": "gore_magala_chaotic",
 			"type": "unknown"
+		},
+		{
+			"id": "seregios",
+			"type": "flying_wyvern"
 		}
 	]
 }
