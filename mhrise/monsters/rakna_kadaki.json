@@ -1,0 +1,161 @@
+{
+	"id": "rakna_kadaki",
+	"version": "16.0.0",
+	"type": "temnoceran",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 60,
+					"strike": 70,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 10,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"claw"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 20,
+					"strike": 20,
+					"shell": 10,
+					"fire": 0,
+					"water": 15,
+					"thunder": 0,
+					"ice": 30,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 30,
+					"strike": 43,
+					"shell": 20,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 15,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"cocooning"
+					],
+					"slash": 50,
+					"strike": 50,
+					"shell": 28,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 15,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg_thread"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 43,
+					"strike": 43,
+					"shell": 35,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

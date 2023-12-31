@@ -263,6 +263,14 @@
 			]
 		},
 		{
+			"id": "rakna_kadaki",
+			"name": "ヤツカダキ",
+			"another_name": "妃蜘蛛",
+			"keywords": [
+				"火吹き御前"
+			]
+		},
+		{
 			"id": "rathalos",
 			"name": "リオレウス",
 			"another_name": "火竜",
@@ -390,6 +398,7 @@
 		"bubble": "泡状態",
 		"charge": "電荷状態",
 		"charging": "溜め中",
+		"cocooning": "繭化状態",
 		"covering": "付着物纏い状態",
 		"electrifying": "超帯電状態",
 		"distending": "膨腹状態",

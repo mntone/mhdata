@@ -200,6 +200,10 @@
 		{
 			"id": "diablos",
 			"type": "flying_wyvern"
+		},
+		{
+			"id": "rakna_kadaki",
+			"type": "temnoceran"
 		}
 	]
 }
