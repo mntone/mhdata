@@ -343,6 +343,14 @@
 			]
 		},
 		{
+			"id": "tigrex",
+			"name": "ティガレックス",
+			"another_name": "轟竜",
+			"keywords": [
+				"絶対強者"
+			]
+		},
+		{
 			"id": "tobi_kadachi",
 			"name": "トビカガチ",
 			"another_name": "飛雷竜",
