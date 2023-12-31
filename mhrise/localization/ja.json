@@ -132,6 +132,15 @@
 			]
 		},
 		{
+			"id": "gore_magala_chaotic",
+			"name": "渾沌に呻くゴア・マガラ",
+			"another_name": "黒蝕竜",
+			"keywords": [
+				"黒蝕異形",
+				"還れぬ異形"
+			]
+		},
+		{
 			"id": "goss_harag",
 			"name": "ゴシャハギ",
 			"another_name": "雪鬼獣",
@@ -361,6 +370,7 @@
 		"electrifying": "超帯電状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",
+		"frenzy": "狂竜化状態",
 		"guarding": "防御状態",
 		"hot_shell": "熱殻状態",
 		"ice": "氷衣状態",
