@@ -124,6 +124,14 @@
 			]
 		},
 		{
+			"id": "gore_magala",
+			"name": "ゴア・マガラ",
+			"another_name": "黒蝕竜",
+			"keywords": [
+				"災厄の黒き蝕"
+			]
+		},
+		{
 			"id": "goss_harag",
 			"name": "ゴシャハギ",
 			"another_name": "雪鬼獣",

@@ -180,6 +180,10 @@
 		{
 			"id": "espinas_flaming",
 			"type": "flying_wyvern"
+		},
+		{
+			"id": "gore_magala",
+			"type": "unknown"
 		}
 	]
 }

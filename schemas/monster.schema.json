@@ -22,7 +22,8 @@
 				"fanged_wyvern",
 				"flying_wyvern",
 				"leviathan",
-				"piscine_wyvern"
+				"piscine_wyvern",
+				"unknown"
 			]
 		},
 		"physiologies": {
@@ -42,6 +43,7 @@
 							"type": "string",
 							"enum": [
 								"all",
+								"antenna",
 								"head",
 								"head_fin",
 								"snout",
@@ -59,6 +61,7 @@
 								"fin_dorsal",
 								"shell",
 								"wing",
+								"wingarm",
 								"cutwing",
 								"claw",
 								"ice_clump",
