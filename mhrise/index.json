@@ -204,6 +204,10 @@
 		{
 			"id": "rakna_kadaki",
 			"type": "temnoceran"
+		},
+		{
+			"id": "rakna_kadaki_pyre",
+			"type": "temnoceran"
 		}
 	]
 }

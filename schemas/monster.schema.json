@@ -75,6 +75,8 @@
 								"foreleg",
 								"hindleg",
 								"leg_thread",
+								"foreleg_thread",
+								"hindleg_thread",
 								"arm",
 								"arm_left",
 								"arm_right",

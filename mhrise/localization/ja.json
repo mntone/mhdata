@@ -271,6 +271,14 @@
 			]
 		},
 		{
+			"id": "rakna_kadaki_pyre",
+			"name": "ヤツカダキ亜種",
+			"another_name": "熾妃蜘蛛",
+			"keywords": [
+				"万糸焚く御前"
+			]
+		},
+		{
 			"id": "rathalos",
 			"name": "リオレウス",
 			"another_name": "火竜",
