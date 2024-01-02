@@ -11,6 +11,7 @@
 		{
 			"id": "almudron",
 			"name": "オロミドロ",
+			"sortkey": "オロミトロ",
 			"another_name": "泥翁竜",
 			"keywords": [
 				"泥土の隠者"
@@ -19,6 +20,7 @@
 		{
 			"id": "almudron_magma",
 			"name": "オロミドロ亜種",
+			"sortkey": "オロミトロアシユ",
 			"another_name": "溶翁竜",
 			"keywords": [
 				"水泥燃やす隠者"
@@ -27,6 +29,7 @@
 		{
 			"id": "anjanath",
 			"name": "アンジャナフ",
+			"sortkey": "アンシヤナフ",
 			"another_name": "蛮顎竜",
 			"keywords": [
 				"執拗なる暴れん坊"
@@ -43,6 +46,7 @@
 		{
 			"id": "barioth",
 			"name": "ベリオロス",
+			"sortkey": "ヘリオロス",
 			"another_name": "氷牙竜",
 			"keywords": [
 				"迅速の騎士"
@@ -51,6 +55,7 @@
 		{
 			"id": "astalos",
 			"name": "ライゼクス",
+			"sortkey": "ライセクス",
 			"another_name": "電竜",
 			"keywords": [
 				"激怒招雷"
@@ -59,6 +64,7 @@
 		{
 			"id": "barroth",
 			"name": "ボルボロス",
+			"sortkey": "ホルホロス",
 			"another_name": "土砂竜",
 			"keywords": [
 				"荒地の暴走者"
@@ -67,6 +73,7 @@
 		{
 			"id": "basarios",
 			"name": "バサルモス",
+			"sortkey": "ハサルモス",
 			"another_name": "岩竜",
 			"keywords": [
 				"夜泣く岩石"
@@ -75,6 +82,7 @@
 		{
 			"id": "bishaten",
 			"name": "ビシュテンゴ",
+			"sortkey": "ビシユテンコ",
 			"another_name": "天狗獣",
 			"keywords": [
 				"山林の荒法師"
@@ -83,6 +91,7 @@
 		{
 			"id": "bishaten_blood_orange",
 			"name": "ビシュテンゴ亜種",
+			"sortkey": "ビシユテンコアシユ",
 			"another_name": "緋天狗獣",
 			"keywords": [
 				"天狗獣",
@@ -92,6 +101,7 @@
 		{
 			"id": "chameleos",
 			"name": "オオナズチ",
+			"sortkey": "オオナスチ",
 			"another_name": "霞龍",
 			"keywords": [
 				"古の幻影"
@@ -100,6 +110,7 @@
 		{
 			"id": "chameleos_risen",
 			"name": "傀異克服オオナズチ",
+			"sortkey": "カイイコクフクオオナスチ",
 			"another_name": "霞龍",
 			"keywords": [
 				"霞龍克"
@@ -108,6 +119,7 @@
 		{
 			"id": "daimyo_hermitaur",
 			"name": "ダイミョウザザミ",
+			"sortkey": "タイミヨウササミ",
 			"another_name": "盾蟹",
 			"keywords": [
 				"一本角の盾大名"
@@ -116,6 +128,7 @@
 		{
 			"id": "diablos",
 			"name": "ディアブロス",
+			"sortkey": "テイアフロス",
 			"another_name": "角竜",
 			"keywords": [
 				"砂漠の暴君"
@@ -124,6 +137,7 @@
 		{
 			"id": "espinas",
 			"name": "エスピナス",
+			"sortkey": "エスヒナス",
 			"another_name": "棘竜",
 			"keywords": [
 				"禁忌の邪毒"
@@ -132,6 +146,7 @@
 		{
 			"id": "espinas_flaming",
 			"name": "エスピナス亜種",
+			"sortkey": "エスヒナスアシユ",
 			"another_name": "棘茶竜",
 			"keywords": [
 				"茶ナス",
@@ -141,6 +156,7 @@
 		{
 			"id": "garangolm",
 			"name": "ガランゴルム",
+			"sortkey": "カランコルム",
 			"another_name": "剛纏獣",
 			"keywords": [
 				"無垢なる巨影"
@@ -149,6 +165,7 @@
 		{
 			"id": "gore_magala",
 			"name": "ゴア・マガラ",
+			"sortkey": "コアマカラ",
 			"another_name": "黒蝕竜",
 			"keywords": [
 				"災厄の黒き蝕"
@@ -157,6 +174,7 @@
 		{
 			"id": "gore_magala_chaotic",
 			"name": "渾沌に呻くゴア・マガラ",
+			"sortkey": "コントンニウメクコアマカラ",
 			"another_name": "黒蝕竜",
 			"keywords": [
 				"黒蝕異形",
@@ -166,6 +184,7 @@
 		{
 			"id": "goss_harag",
 			"name": "ゴシャハギ",
+			"sortkey": "コシヤハキ",
 			"another_name": "雪鬼獣",
 			"keywords": [
 				"荒切りの凶猛"
@@ -174,6 +193,7 @@
 		{
 			"id": "great_baggi",
 			"name": "ドスバギィ",
+			"sortkey": "トスハキイ",
 			"another_name": "眠狗竜",
 			"keywords": [
 				"狡猾なる簒奪者"
@@ -182,6 +202,7 @@
 		{
 			"id": "great_izuchi",
 			"name": "オサイズチ",
+			"sortkey": "オサイスチ",
 			"another_name": "鎌鼬竜",
 			"keywords": [
 				"三位一体の鎌風"
@@ -190,6 +211,7 @@
 		{
 			"id": "great_wroggi",
 			"name": "ドスフロギィ",
+			"sortkey": "トスフロキイ",
 			"another_name": "毒狗竜",
 			"keywords": [
 				"毒霧の統率者"
@@ -198,6 +220,7 @@
 		{
 			"id": "jyuratodus",
 			"name": "ジュラトドス",
+			"sortkey": "シユラトトス",
 			"another_name": "泥魚竜",
 			"keywords": [
 				"不穏の沼影"
@@ -215,6 +238,7 @@
 		{
 			"id": "kulu_ya_ku",
 			"name": "クルルヤック",
+			"sortkey": "クルルヤツク",
 			"another_name": "掻鳥",
 			"keywords": [
 				"荒地の泥棒"
@@ -223,6 +247,7 @@
 		{
 			"id": "kushala_daora",
 			"name": "クシャルダオラ",
+			"sortkey": "クシヤルタオラ",
 			"another_name": "鋼龍",
 			"keywords": [
 				"風翔龍",
@@ -232,6 +257,7 @@
 		{
 			"id": "kushala_daora_risen",
 			"name": "傀異克服クシャルダオラ",
+			"sortkey": "カイイコクフククシヤルタオラ",
 			"another_name": "鋼龍"
 		},
 		{
@@ -245,6 +271,7 @@
 		{
 			"id": "lunagaron",
 			"name": "ルナガロン",
+			"sortkey": "ルナカロン",
 			"another_name": "氷狼竜",
 			"keywords": [
 				"月光賛歌"
@@ -253,6 +280,7 @@
 		{
 			"id": "magnamalo",
 			"name": "マガイマガド",
+			"sortkey": "マカイマカト",
 			"another_name": "怨虎竜",
 			"keywords": [
 				"悪逆無道"
@@ -261,6 +289,7 @@
 		{
 			"id": "magnamalo_scorned",
 			"name": "怨嗟響めくマガイマガド",
+			"sortkey": "エンサトヨメクマカイマカト",
 			"another_name": "怨虎竜",
 			"keywords": [
 				"怨虎竜極",
@@ -278,6 +307,7 @@
 		{
 			"id": "mizutsune_violet",
 			"name": "タマミツネ希少種",
+			"sortkey": "タマミツネキシヨウシユ",
 			"another_name": "焔狐竜",
 			"keywords": [
 				"妖炎なる舞"
@@ -286,6 +316,7 @@
 		{
 			"id": "nargacuga",
 			"name": "ナルガクルガ",
+			"sortkey": "ナルカクルカ",
 			"another_name": "迅竜",
 			"keywords": [
 				"漆黒の影"
@@ -294,6 +325,7 @@
 		{
 			"id": "nargacuga_lucent",
 			"name": "ナルガクルガ希少種",
+			"sortkey": "ナルカクルカキシヨウシユ",
 			"another_name": "月迅竜",
 			"keywords": [
 				"月に潜む迅影"
@@ -302,6 +334,7 @@
 		{
 			"id": "pukei_pukei",
 			"name": "プケプケ",
+			"sortkey": "フケフケ",
 			"another_name": "毒妖鳥",
 			"keywords": [
 				"貪欲な喉舌"
@@ -310,6 +343,7 @@
 		{
 			"id": "rakna_kadaki",
 			"name": "ヤツカダキ",
+			"sortkey": "ヤツカタキ",
 			"another_name": "妃蜘蛛",
 			"keywords": [
 				"火吹き御前"
@@ -318,6 +352,7 @@
 		{
 			"id": "rakna_kadaki_pyre",
 			"name": "ヤツカダキ亜種",
+			"sortkey": "ヤツカタキアシユ",
 			"another_name": "熾妃蜘蛛",
 			"keywords": [
 				"万糸焚く御前"
@@ -334,6 +369,7 @@
 		{
 			"id": "rathalos_silver",
 			"name": "リオレウス希少種",
+			"sortkey": "リオレウスキシヨウシユ",
 			"another_name": "銀火竜",
 			"keywords": [
 				"銀翼の覇者"
@@ -351,6 +387,7 @@
 		{
 			"id": "rathian_gold",
 			"name": "リオレイア希少種",
+			"sortkey": "リオレイアキシヨウシユ",
 			"another_name": "金火竜",
 			"keywords": [
 				"リオレイヤ希少種",
@@ -360,6 +397,7 @@
 		{
 			"id": "royal_ludroth",
 			"name": "ロアルドロス",
+			"sortkey": "ロアルトロス",
 			"another_name": "水獣",
 			"keywords": [
 				"地を這う水流"
@@ -368,6 +406,7 @@
 		{
 			"id": "seregios",
 			"name": "セルレギオス",
+			"sortkey": "セルレキオス",
 			"another_name": "千刃竜",
 			"keywords": [
 				"千塵の烈鱗"
@@ -376,6 +415,7 @@
 		{
 			"id": "shogun_ceanataur",
 			"name": "ショウグンギザミ",
+			"sortkey": "シヨウクンキサミ",
 			"another_name": "鎌蟹",
 			"keywords": [
 				"一閃必死"
@@ -392,6 +432,7 @@
 		{
 			"id": "somnacanth_aurora",
 			"name": "イソネミクニ亜種",
+			"sortkey": "イソネミクニアシユ",
 			"another_name": "氷人魚竜",
 			"keywords": [
 				"人魚竜",
@@ -401,6 +442,7 @@
 		{
 			"id": "tetranadon",
 			"name": "ヨツミワドウ",
+			"sortkey": "ヨツミワトウ",
 			"another_name": "河童蛙",
 			"keywords": [
 				"丸呑み力士"
@@ -409,6 +451,7 @@
 		{
 			"id": "tigrex",
 			"name": "ティガレックス",
+			"sortkey": "テイカレツクス",
 			"another_name": "轟竜",
 			"keywords": [
 				"絶対強者"
@@ -417,6 +460,7 @@
 		{
 			"id": "tobi_kadachi",
 			"name": "トビカガチ",
+			"sortkey": "トヒカカチ",
 			"another_name": "飛雷竜",
 			"keywords": [
 				"駆ける電影"
@@ -425,6 +469,7 @@
 		{
 			"id": "volvidon",
 			"name": "ラングロトラ",
+			"sortkey": "ランクロトラ",
 			"another_name": "赤甲獣",
 			"keywords": [
 				"赤き獣弾"
@@ -433,6 +478,7 @@
 		{
 			"id": "zinogre",
 			"name": "ジンオウガ",
+			"sortkey": "シンオウカ",
 			"another_name": "雷狼竜",
 			"keywords": [
 				"無双の狩人"
