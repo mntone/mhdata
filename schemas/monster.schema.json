@@ -130,7 +130,8 @@
 											"mud",
 											"overheat",
 											"rolling",
-											"sleep"
+											"sleep",
+											"stealth"
 										],
 										"default": "default"
 									}

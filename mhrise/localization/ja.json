@@ -91,6 +91,14 @@
 			]
 		},
 		{
+			"id": "chameleos",
+			"name": "オオナズチ",
+			"another_name": "霞龍",
+			"keywords": [
+				"古の幻影"
+			]
+		},
+		{
 			"id": "daimyo_hermitaur",
 			"name": "ダイミョウザザミ",
 			"another_name": "盾蟹",
@@ -434,6 +442,7 @@
 		"mud": "泥纏い時",
 		"overheat": "過熱状態",
 		"rolling": "回転中",
-		"sleep": "自発睡眠中"
+		"sleep": "自発睡眠中",
+		"stealth": "ステルス状態"
 	}
 }

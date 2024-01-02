@@ -216,6 +216,10 @@
 		{
 			"id": "kushala_daora_risen",
 			"type": "elder_dragon"
+		},
+		{
+			"id": "chameleos",
+			"type": "elder_dragon"
 		}
 	]
 }
