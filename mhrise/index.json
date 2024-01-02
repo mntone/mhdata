@@ -220,6 +220,10 @@
 		{
 			"id": "chameleos",
 			"type": "elder_dragon"
+		},
+		{
+			"id": "chameleos_risen",
+			"type": "elder_dragon"
 		}
 	]
 }

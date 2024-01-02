@@ -99,6 +99,14 @@
 			]
 		},
 		{
+			"id": "chameleos_risen",
+			"name": "傀異克服オオナズチ",
+			"another_name": "霞龍",
+			"keywords": [
+				"霞龍克"
+			]
+		},
+		{
 			"id": "daimyo_hermitaur",
 			"name": "ダイミョウザザミ",
 			"another_name": "盾蟹",
