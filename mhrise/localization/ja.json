@@ -207,6 +207,15 @@
 			]
 		},
 		{
+			"id": "kushala_daora",
+			"name": "クシャルダオラ",
+			"another_name": "鋼龍",
+			"keywords": [
+				"風翔龍",
+				"嵐に舞う黒い影"
+			]
+		},
+		{
 			"id": "lagombi",
 			"name": "ウルクスス",
 			"another_name": "白兎獣",

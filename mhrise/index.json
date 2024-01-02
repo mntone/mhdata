@@ -208,6 +208,10 @@
 		{
 			"id": "rakna_kadaki_pyre",
 			"type": "temnoceran"
+		},
+		{
+			"id": "kushala_daora",
+			"type": "elder_dragon"
 		}
 	]
 }
