@@ -208,5 +208,27 @@
 			"id": "zinogre",
 			"name": "Zinogre"
 		}
-	]
+	],
+	"states": {
+		"default": "Default",
+		"broken": "Broken",
+		"charged": "Charged",
+		"charging": "Charging",
+		"electrifying": "Charged",
+		"enraged": "Enraged",
+		"deposit": "Deposit",
+		"distending": "Distending",
+		"flame": "Flame",
+		"frenzy": "The Frenzy",
+		"glowing": "Glowing",
+		"guarding": "Guarding",
+		"ice": "Ice",
+		"magma": "Magma",
+		"molten": "Molten",
+		"mud": "Mud",
+		"overheat": "Overheat",
+		"rolling": "Rolling",
+		"sleep": "Spontaneous Sleeping",
+		"wet": "Wet"
+	}
 }
