@@ -261,6 +261,15 @@
 			]
 		},
 		{
+			"id": "magnamalo_scorned",
+			"name": "怨嗟響めくマガイマガド",
+			"another_name": "怨虎竜",
+			"keywords": [
+				"怨虎竜極",
+				"禍根極まりて"
+			]
+		},
+		{
 			"id": "mizutsune",
 			"name": "タマミツネ",
 			"another_name": "泡狐竜",
@@ -452,6 +461,8 @@
 		"glowing": "熱殻状態",
 		"guarding": "防御状態",
 		"hellfire": "鬼火臨界状態",
+		"hellfire_concentrated": "一極鬼火状態",
+		"hellfire_raging": "二極鬼火状態",
 		"ice": "氷衣状態",
 		"magma": "岩漿纏い状態",
 		"molten": "溶熱状態",

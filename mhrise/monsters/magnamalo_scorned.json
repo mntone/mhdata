@@ -1,0 +1,231 @@
+{
+	"id": "magnamalo_scorned",
+	"version": "16.0.0",
+	"type": "fanged_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"strike": 55,
+					"shell": 45,
+					"fire": 0,
+					"water": 15,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"hellfire_concentrated"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 30,
+					"fire": 0,
+					"water": 15,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hellfire_concentrated"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 5,
+					"fire": 0,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 30,
+					"fire": 0,
+					"water": 20,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hellfire_concentrated"
+					],
+					"slash": 65,
+					"strike": 65,
+					"shell": 30,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 38,
+					"strike": 38,
+					"shell": 30,
+					"fire": 0,
+					"water": 25,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hellfire_concentrated"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 20,
+					"fire": 0,
+					"water": 20,
+					"thunder": 25,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 43,
+					"strike": 30,
+					"shell": 10,
+					"fire": 0,
+					"water": 15,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hellfire_concentrated"
+					],
+					"slash": 38,
+					"strike": 25,
+					"shell": 10,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hellfire_raging"
+					],
+					"slash": 75,
+					"strike": 65,
+					"shell": 55,
+					"fire": 0,
+					"water": 15,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"armblade"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"hellfire_concentrated"
+					],
+					"slash": 75,
+					"strike": 75,
+					"shell": 50,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

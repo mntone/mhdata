@@ -129,6 +129,10 @@
 			"name": "Magnamalo"
 		},
 		{
+			"id": "magnamalo_scorned",
+			"name": "Scorned Magnamalo"
+		},
+		{
 			"id": "mizutsune",
 			"name": "Mizutsune"
 		},
@@ -227,6 +231,8 @@
 		"glowing": "Glowing",
 		"guarding": "Guarding",
 		"hellfire": "Hellfire",
+		"hellfire_concentrated": "Concentrated Hellfire",
+		"hellfire_raging": "Raging Hellfire",
 		"ice": "Ice",
 		"magma": "Magma",
 		"molten": "Molten",
