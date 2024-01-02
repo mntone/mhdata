@@ -24,7 +24,7 @@
 				},
 				{
 					"states": [
-						"covering"
+						"deposit"
 					],
 					"slash": 60,
 					"strike": 55,
@@ -80,7 +80,7 @@
 				},
 				{
 					"states": [
-						"covering"
+						"deposit"
 					],
 					"slash": 55,
 					"strike": 60,
@@ -115,7 +115,7 @@
 				},
 				{
 					"states": [
-						"covering"
+						"deposit"
 					],
 					"slash": 55,
 					"strike": 60,
@@ -171,7 +171,7 @@
 				},
 				{
 					"states": [
-						"covering"
+						"deposit"
 					],
 					"slash": 25,
 					"strike": 25,

@@ -112,18 +112,17 @@
 										"enum": [
 											"default",
 											"broken",
-											"angry",
-											"bubble",
-											"charge",
+											"charged",
 											"charging",
 											"cocooning",
-											"covering",
 											"electrifying",
+											"enraged",
+											"deposit",
 											"distending",
 											"flame",
 											"frenzy",
+											"glowing",
 											"guarding",
-											"hot_shell",
 											"ice",
 											"magma",
 											"molten",
@@ -131,7 +130,8 @@
 											"overheat",
 											"rolling",
 											"sleep",
-											"stealth"
+											"stealth",
+											"wet"
 										],
 										"default": "default"
 									}

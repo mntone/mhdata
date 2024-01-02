@@ -432,18 +432,17 @@
 	"states": {
 		"default": "通常状態",
 		"broken": "破壊後",
-		"angry": "怒り状態",
-		"bubble": "泡状態",
-		"charge": "電荷状態",
+		"charged": "電荷状態",
 		"charging": "溜め中",
 		"cocooning": "繭化状態",
-		"covering": "付着物纏い状態",
 		"electrifying": "超帯電状態",
+		"enraged": "怒り状態",
+		"deposit": "付着物纏い状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",
 		"frenzy": "狂竜化状態",
 		"guarding": "防御状態",
-		"hot_shell": "熱殻状態",
+		"glowing": "熱殻状態",
 		"ice": "氷衣状態",
 		"magma": "岩漿纏い状態",
 		"molten": "溶熱状態",
@@ -451,6 +450,7 @@
 		"overheat": "過熱状態",
 		"rolling": "回転中",
 		"sleep": "自発睡眠中",
-		"stealth": "ステルス状態"
+		"stealth": "ステルス状態",
+		"wet": "泡状態"
 	}
 }

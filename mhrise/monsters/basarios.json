@@ -38,7 +38,7 @@
 				},
 				{
 					"states": [
-						"hot_shell"
+						"glowing"
 					],
 					"slash": 48,
 					"strike": 55,
@@ -108,7 +108,7 @@
 				},
 				{
 					"states": [
-						"hot_shell"
+						"glowing"
 					],
 					"slash": 60,
 					"strike": 55,
@@ -123,7 +123,7 @@
 				{
 					"states": [
 						"broken",
-						"hot_shell"
+						"glowing"
 					],
 					"slash": 62,
 					"strike": 55,
@@ -172,7 +172,7 @@
 				},
 				{
 					"states": [
-						"hot_shell"
+						"glowing"
 					],
 					"slash": 48,
 					"strike": 48,

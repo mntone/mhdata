@@ -38,7 +38,7 @@
 				},
 				{
 					"states": [
-						"angry",
+						"enraged",
 						"ice"
 					],
 					"slash": 60,
@@ -95,7 +95,7 @@
 				},
 				{
 					"states": [
-						"angry",
+						"enraged",
 						"ice"
 					],
 					"slash": 45,
@@ -131,7 +131,7 @@
 				},
 				{
 					"states": [
-						"angry",
+						"enraged",
 						"ice"
 					],
 					"slash": 35,
@@ -167,7 +167,7 @@
 				},
 				{
 					"states": [
-						"angry",
+						"enraged",
 						"ice"
 					],
 					"slash": 45,

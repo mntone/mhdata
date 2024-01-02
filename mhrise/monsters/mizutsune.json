@@ -24,7 +24,7 @@
 				},
 				{
 					"states": [
-						"angry"
+						"enraged"
 					],
 					"slash": 63,
 					"strike": 63,
@@ -38,7 +38,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 73,
 					"strike": 73,
@@ -52,8 +52,8 @@
 				},
 				{
 					"states": [
-						"angry",
-						"bubble"
+						"enraged",
+						"wet"
 					],
 					"slash": 73,
 					"strike": 73,
@@ -88,7 +88,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 53,
 					"strike": 53,
@@ -123,7 +123,7 @@
 				},
 				{
 					"states": [
-						"angry"
+						"enraged"
 					],
 					"slash": 25,
 					"strike": 25,
@@ -137,7 +137,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 30,
 					"strike": 30,
@@ -151,8 +151,8 @@
 				},
 				{
 					"states": [
-						"angry",
-						"bubble"
+						"enraged",
+						"wet"
 					],
 					"slash": 30,
 					"strike": 30,
@@ -187,7 +187,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 33,
 					"strike": 33,
@@ -236,7 +236,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 29,
 					"strike": 29,
@@ -271,7 +271,7 @@
 				},
 				{
 					"states": [
-						"angry"
+						"enraged"
 					],
 					"slash": 43,
 					"strike": 43,
@@ -285,7 +285,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 48,
 					"strike": 48,
@@ -299,8 +299,8 @@
 				},
 				{
 					"states": [
-						"angry",
-						"bubble"
+						"enraged",
+						"wet"
 					],
 					"slash": 48,
 					"strike": 48,
@@ -335,7 +335,7 @@
 				},
 				{
 					"states": [
-						"angry"
+						"enraged"
 					],
 					"slash": 38,
 					"strike": 38,
@@ -349,7 +349,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 43,
 					"strike": 43,
@@ -363,8 +363,8 @@
 				},
 				{
 					"states": [
-						"angry",
-						"bubble"
+						"enraged",
+						"wet"
 					],
 					"slash": 43,
 					"strike": 43,
@@ -399,7 +399,7 @@
 				},
 				{
 					"states": [
-						"angry"
+						"enraged"
 					],
 					"slash": 43,
 					"strike": 33,
@@ -413,7 +413,7 @@
 				},
 				{
 					"states": [
-						"bubble"
+						"wet"
 					],
 					"slash": 53,
 					"strike": 43,
@@ -427,8 +427,8 @@
 				},
 				{
 					"states": [
-						"angry",
-						"bubble"
+						"enraged",
+						"wet"
 					],
 					"slash": 53,
 					"strike": 43,
