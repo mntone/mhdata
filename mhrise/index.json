@@ -114,6 +114,10 @@
 			"type": "fanged_wyvern"
 		},
 		{
+			"id": "magnamalo",
+			"type": "fanged_wyvern"
+		},
+		{
 			"id": "anjanath",
 			"type": "brute_wyvern"
 		},

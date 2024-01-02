@@ -125,6 +125,10 @@
 			"name": "Lunagaron"
 		},
 		{
+			"id": "magnamalo",
+			"name": "Magnamalo"
+		},
+		{
 			"id": "mizutsune",
 			"name": "Mizutsune"
 		},
@@ -222,6 +226,7 @@
 		"frenzy": "The Frenzy",
 		"glowing": "Glowing",
 		"guarding": "Guarding",
+		"hellfire": "Hellfire",
 		"ice": "Ice",
 		"magma": "Magma",
 		"molten": "Molten",

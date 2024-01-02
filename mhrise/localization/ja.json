@@ -253,6 +253,14 @@
 			]
 		},
 		{
+			"id": "magnamalo",
+			"name": "マガイマガド",
+			"another_name": "怨虎竜",
+			"keywords": [
+				"悪逆無道"
+			]
+		},
+		{
 			"id": "mizutsune",
 			"name": "タマミツネ",
 			"another_name": "泡狐竜",
@@ -443,6 +451,7 @@
 		"frenzy": "狂竜化状態",
 		"glowing": "熱殻状態",
 		"guarding": "防御状態",
+		"hellfire": "鬼火臨界状態",
 		"ice": "氷衣状態",
 		"magma": "岩漿纏い状態",
 		"molten": "溶熱状態",
