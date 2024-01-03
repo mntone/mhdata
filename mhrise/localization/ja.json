@@ -440,6 +440,21 @@
 			]
 		},
 		{
+			"id": "teostra",
+			"name": "テオ・テスカトル",
+			"sortkey": "テオテスカトル",
+			"another_name": "炎王龍",
+			"keywords": [
+				"業火の王"
+			]
+		},
+		{
+			"id": "teostra_risen",
+			"name": "傀異克服テオ・テスカトル",
+			"sortkey": "カイイコクフクテオテスカトル",
+			"another_name": "炎王龍"
+		},
+		{
 			"id": "tetranadon",
 			"name": "ヨツミワドウ",
 			"sortkey": "ヨツミワトウ",
@@ -487,6 +502,7 @@
 	],
 	"states": {
 		"default": "通常状態",
+		"blast": "粉塵纏い状態",
 		"broken": "破壊後",
 		"charged": "電荷状態",
 		"charging": "溜め中",

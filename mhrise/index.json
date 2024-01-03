@@ -232,6 +232,14 @@
 		{
 			"id": "chameleos_risen",
 			"type": "elder_dragon"
+		},
+		{
+			"id": "teostra",
+			"type": "elder_dragon"
+		},
+		{
+			"id": "teostra_risen",
+			"type": "elder_dragon"
 		}
 	]
 }

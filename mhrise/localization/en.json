@@ -197,6 +197,14 @@
 			"name": "Aurora Somnacanth"
 		},
 		{
+			"id": "teostra",
+			"name": "Teostra"
+		},
+		{
+			"id": "teostra_risen",
+			"name": "Risen Teostra"
+		},
+		{
 			"id": "tetranadon",
 			"name": "Tetranadon"
 		},
@@ -219,6 +227,7 @@
 	],
 	"states": {
 		"default": "Default",
+		"blast": "Blast",
 		"broken": "Broken",
 		"charged": "Charged",
 		"charging": "Charging",

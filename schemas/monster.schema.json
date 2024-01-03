@@ -114,6 +114,7 @@
 										"type": "string",
 										"enum": [
 											"default",
+											"blast",
 											"broken",
 											"charged",
 											"charging",
