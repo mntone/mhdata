@@ -248,6 +248,10 @@
 		{
 			"id": "malzeno_primordial",
 			"type": "elder_dragon"
+		},
+		{
+			"id": "arzuros_apex",
+			"type": "fanged_beast"
 		}
 	]
 }

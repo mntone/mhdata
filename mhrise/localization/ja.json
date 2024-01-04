@@ -44,6 +44,15 @@
 			]
 		},
 		{
+			"id": "arzuros_apex",
+			"name": "ヌシ・アオアシラ",
+			"sortkey": "ヌシアオアシラ",
+			"another_name": "青熊獣",
+			"keywords": [
+				"主青熊獣"
+			]
+		},
+		{
 			"id": "barioth",
 			"name": "ベリオロス",
 			"sortkey": "ヘリオロス",
