@@ -137,6 +137,10 @@
 			"name": "Malzeno"
 		},
 		{
+			"id": "malzeno_primordial",
+			"name": "Primordial Malzeno"
+		},
+		{
 			"id": "mizutsune",
 			"name": "Mizutsune"
 		},
@@ -233,6 +237,7 @@
 		"default": "Default",
 		"blast": "Blast",
 		"bloodening": "Bloodening",
+		"bloodlust": "Bloodlust",
 		"broken": "Broken",
 		"charged": "Charged",
 		"charging": "Charging",

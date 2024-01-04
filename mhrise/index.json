@@ -244,6 +244,10 @@
 		{
 			"id": "malzeno",
 			"type": "elder_dragon"
+		},
+		{
+			"id": "malzeno_primordial",
+			"type": "elder_dragon"
 		}
 	]
 }

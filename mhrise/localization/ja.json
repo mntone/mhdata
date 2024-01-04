@@ -306,6 +306,16 @@
 			]
 		},
 		{
+			"id": "malzeno_primordial",
+			"name": "原初を刻むメル・ゼナ",
+			"sortkey": "ケンシヨヲキサムメルセナ",
+			"another_name": "爵銀龍",
+			"keywords": [
+				"爵銀龍極",
+				"蘇る伝説"
+			]
+		},
+		{
 			"id": "mizutsune",
 			"name": "タマミツネ",
 			"another_name": "泡狐竜",
@@ -513,6 +523,7 @@
 		"default": "通常状態",
 		"blast": "粉塵纏い状態",
 		"bloodening": "血氣活性状態",
+		"bloodlust": "血氣蝕烈状態",
 		"broken": "破壊後",
 		"charged": "電荷状態",
 		"charging": "溜め中",
