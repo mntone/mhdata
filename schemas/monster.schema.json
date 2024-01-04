@@ -115,6 +115,7 @@
 										"enum": [
 											"default",
 											"blast",
+											"bloodening",
 											"broken",
 											"charged",
 											"charging",

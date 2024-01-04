@@ -133,6 +133,10 @@
 			"name": "Scorned Magnamalo"
 		},
 		{
+			"id": "malzeno",
+			"name": "Malzeno"
+		},
+		{
 			"id": "mizutsune",
 			"name": "Mizutsune"
 		},
@@ -228,6 +232,7 @@
 	"states": {
 		"default": "Default",
 		"blast": "Blast",
+		"bloodening": "Bloodening",
 		"broken": "Broken",
 		"charged": "Charged",
 		"charging": "Charging",

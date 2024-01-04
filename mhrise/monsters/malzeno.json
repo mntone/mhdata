@@ -1,0 +1,196 @@
+{
+	"id": "malzeno",
+	"version": "16.0.0",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 46,
+					"strike": 48,
+					"shell": 45,
+					"fire": 15,
+					"water": 0,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 100
+				},
+				{
+					"states": [
+						"bloodening"
+					],
+					"slash": 55,
+					"strike": 58,
+					"shell": 30,
+					"fire": 15,
+					"water": 0,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 30,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 32,
+					"strike": 30,
+					"shell": 15,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 40,
+					"shell": 30,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 0
+				},
+				{
+					"states": [
+						"bloodening"
+					],
+					"slash": 58,
+					"strike": 55,
+					"shell": 45,
+					"fire": 15,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 28,
+					"shell": 5,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 28,
+					"strike": 28,
+					"shell": 5,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 32,
+					"shell": 10,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 26,
+					"strike": 22,
+					"shell": 10,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"bloodening"
+					],
+					"slash": 50,
+					"strike": 48,
+					"shell": 40,
+					"fire": 10,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

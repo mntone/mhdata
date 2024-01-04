@@ -240,6 +240,10 @@
 		{
 			"id": "teostra_risen",
 			"type": "elder_dragon"
+		},
+		{
+			"id": "malzeno",
+			"type": "elder_dragon"
 		}
 	]
 }
