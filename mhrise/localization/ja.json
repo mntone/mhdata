@@ -336,6 +336,25 @@
 			]
 		},
 		{
+			"id": "rajang",
+			"name": "ラージャン",
+			"another_name": "金獅子",
+			"keywords": [
+				"破壊の権化"
+			]
+		},
+		{
+			"id": "rajang_furious",
+			"name": "激昂したラージャン",
+			"another_name": "金獅子",
+			"keywords": [
+				"激昂金獅子",
+				"昂獅子",
+				"金獅子極",
+				"羅刹衝天が如く"
+			]
+		},
+		{
 			"id": "rakna_kadaki",
 			"name": "ヤツカダキ",
 			"another_name": "妃蜘蛛",
@@ -516,6 +535,7 @@
 		"cocooning": "繭化状態",
 		"electrifying": "超帯電状態",
 		"enraged": "怒り状態",
+		"enraged_super": "闘気硬化状態",
 		"deposit": "付着物纏い状態",
 		"distending": "膨腹状態",
 		"flame": "劫炎状態",
