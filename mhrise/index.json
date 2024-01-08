@@ -250,6 +250,14 @@
 			"type": "elder_dragon"
 		},
 		{
+			"id": "shagaru_magala",
+			"type": "elder_dragon"
+		},
+		{
+			"id": "shagaru_magala_risen",
+			"type": "elder_dragon"
+		},
+		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast"
 		}

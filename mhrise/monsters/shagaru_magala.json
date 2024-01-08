@@ -1,0 +1,189 @@
+{
+	"id": "shagaru_magala",
+	"version": "16.0.0",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 65,
+					"strike": 60,
+					"shell": 45,
+					"fire": 20,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 25,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 20,
+					"fire": 15,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 15,
+					"fire": 10,
+					"water": 0,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wingarm"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 22,
+					"strike": 25,
+					"shell": 20,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 30,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 36,
+					"strike": 36,
+					"shell": 25,
+					"fire": 15,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 30,
+					"fire": 10,
+					"water": 0,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 36,
+					"strike": 36,
+					"shell": 30,
+					"fire": 10,
+					"water": 0,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 26,
+					"strike": 26,
+					"shell": 10,
+					"fire": 10,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 36,
+					"strike": 36,
+					"shell": 25,
+					"fire": 10,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

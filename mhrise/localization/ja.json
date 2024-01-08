@@ -402,6 +402,23 @@
 			]
 		},
 		{
+			"id": "shagaru_magala",
+			"name": "シャガルマガラ",
+			"another_name": "天廻龍",
+			"keywords": [
+				"天廻する白き蝕"
+			]
+		},
+		{
+			"id": "shagaru_magala_risen",
+			"name": "傀異克服シャガルマガラ",
+			"another_name": "天廻龍",
+			"keywords": [
+				"天廻龍克",
+				"天廻する白き蝕"
+			]
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "ショウグンギザミ",
 			"another_name": "鎌蟹",
