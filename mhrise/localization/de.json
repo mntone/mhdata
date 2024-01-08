@@ -197,6 +197,10 @@
 			"name": "Goldene Rathian"
 		},
 		{
+			"id": "rathian_apex",
+			"name": "Apex-Rathian"
+		},
+		{
 			"id": "royal_ludroth",
 			"name": "Königs-Ludroth"
 		},

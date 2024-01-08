@@ -405,6 +405,15 @@
 			]
 		},
 		{
+			"id": "rathian_apex",
+			"name": "ヌシ・リオレイア",
+			"another_name": "雌火竜",
+			"keywords": [
+				"ヌシ・リオレイヤ",
+				"主雌火竜"
+			]
+		},
+		{
 			"id": "royal_ludroth",
 			"name": "ロアルドロス",
 			"another_name": "水獣",

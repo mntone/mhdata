@@ -264,6 +264,10 @@
 		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast"
+		},
+		{
+			"id": "rathian_apex",
+			"type": "flying_wyvern"
 		}
 	]
 }

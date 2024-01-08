@@ -197,6 +197,10 @@
 			"name": "Gold Rathian"
 		},
 		{
+			"id": "rathian_apex",
+			"name": "Apex Rathian"
+		},
+		{
 			"id": "royal_ludroth",
 			"name": "Royal Ludroth"
 		},
