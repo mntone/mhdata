@@ -262,6 +262,14 @@
 			"type": "elder_dragon"
 		},
 		{
+			"id": "rajang",
+			"type": "fanged_beast"
+		},
+		{
+			"id": "rajang_furious",
+			"type": "fanged_beast"
+		},
+		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast"
 		},
