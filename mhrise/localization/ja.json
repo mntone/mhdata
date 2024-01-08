@@ -481,6 +481,14 @@
 			]
 		},
 		{
+			"id": "velkhana",
+			"name": "イヴェルカーナ",
+			"another_name": "冰龍",
+			"keywords": [
+				"冷気を統べる者"
+			]
+		},
+		{
 			"id": "volvidon",
 			"name": "ラングロトラ",
 			"another_name": "赤甲獣",

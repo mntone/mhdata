@@ -258,6 +258,10 @@
 			"type": "elder_dragon"
 		},
 		{
+			"id": "velkhana",
+			"type": "elder_dragon"
+		},
+		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast"
 		}
