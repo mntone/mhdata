@@ -18,6 +18,10 @@
 						"title": "Monster Name",
 						"type": "string"
 					},
+					"readable_name": {
+						"title": "Monster Readable Name",
+						"type": "string"
+					},
 					"another_name": {
 						"title": "Monster Another Name",
 						"type": "string"
