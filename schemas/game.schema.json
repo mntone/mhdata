@@ -4,7 +4,8 @@
 	"properties": {
 		"id": {
 			"title": "Game ID",
-			"type": "string"
+			"type": "string",
+			"minimum": 1
 		},
 		"localization": {
 			"title": "Array of Language",
@@ -25,13 +26,14 @@
 				"properties": {
 					"id": {
 						"title": "Monster ID",
-						"type": "string"
+						"type": "string",
+						"minLength": 1
 					},
 					"type": {
 						"$ref": "types.schema.json#/$defs/type"
 					},
 					"weakness": {
-						"anyOf": [
+						"oneOf": [
 							{
 								"$ref": "#/$defs/weakness"
 							},
@@ -67,6 +69,8 @@
 		"weakness": {
 			"title": "Weakness",
 			"type": "string",
+			"minLength": 5,
+			"maxLength": 5,
 			"pattern": "^(F|f|_)(W|w|_)(T|t|_)(I|i|_)(D|d|_)$"
 		}
 	}
