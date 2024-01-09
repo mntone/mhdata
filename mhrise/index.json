@@ -93,6 +93,8 @@
 		{
 			"id": "bishaten_blood_orange",
 			"type": "fanged_beast",
+			"linked_id": "bishaten",
+			"linked_index": 1,
 			"weakness": "_W___"
 		},
 		{
@@ -121,6 +123,8 @@
 		{
 			"id": "somnacanth_aurora",
 			"type": "leviathan",
+			"linked_id": "somnacanth",
+			"linked_index": 1,
 			"weakness": "F____"
 		},
 		{
@@ -131,6 +135,8 @@
 		{
 			"id": "rathian_gold",
 			"type": "flying_wyvern",
+			"linked_id": "rathian",
+			"linked_index": 1,
 			"weakness": "_wT__"
 		},
 		{
@@ -151,6 +157,8 @@
 		{
 			"id": "magnamalo_scorned",
 			"type": "fanged_wyvern",
+			"linked_id": "magnamalo",
+			"linked_index": 1,
 			"weakness": {
 				"default": "_Wt__",
 				"hellfire_concentrated": "_wT__"
@@ -169,6 +177,8 @@
 		{
 			"id": "nargacuga_lucent",
 			"type": "flying_wyvern",
+			"linked_id": "nargacuga",
+			"linked_index": 1,
 			"weakness": "___Id"
 		},
 		{
@@ -179,6 +189,8 @@
 		{
 			"id": "mizutsune_violet",
 			"type": "leviathan",
+			"linked_id": "mizutsune",
+			"linked_index": 1,
 			"weakness": "__tI_"
 		},
 		{
@@ -207,6 +219,8 @@
 		{
 			"id": "rathalos_silver",
 			"type": "flying_wyvern",
+			"linked_id": "rathalos",
+			"linked_index": 1,
 			"weakness": "_Wt__"
 		},
 		{
@@ -217,6 +231,8 @@
 		{
 			"id": "almudron_magma",
 			"type": "leviathan",
+			"linked_id": "almudron",
+			"linked_index": 1,
 			"weakness": "_W_i_"
 		},
 		{
@@ -248,6 +264,8 @@
 		{
 			"id": "espinas_flaming",
 			"type": "flying_wyvern",
+			"linked_id": "espinas",
+			"linked_index": 1,
 			"weakness": {
 				"default": "_W___",
 				"enraged": "_Wt_d"
@@ -261,6 +279,8 @@
 		{
 			"id": "gore_magala_chaotic",
 			"type": "unknown",
+			"linked_id": "gore_magala",
+			"linked_index": 1,
 			"weakness": "F___d"
 		},
 		{
@@ -286,6 +306,8 @@
 		{
 			"id": "rakna_kadaki_pyre",
 			"type": "temnoceran",
+			"linked_id": "rakna_kadaki",
+			"linked_index": 1,
 			"weakness": "_W___"
 		},
 		{
@@ -296,6 +318,8 @@
 		{
 			"id": "kushala_daora_risen",
 			"type": "elder_dragon",
+			"linked_id": "kushala_daora",
+			"linked_index": 1,
 			"weakness": "f_T_d"
 		},
 		{
@@ -306,6 +330,8 @@
 		{
 			"id": "chameleos_risen",
 			"type": "elder_dragon",
+			"linked_id": "chameleos",
+			"linked_index": 1,
 			"weakness": "F_t_d"
 		},
 		{
@@ -319,6 +345,8 @@
 		{
 			"id": "teostra_risen",
 			"type": "elder_dragon",
+			"linked_id": "teostra",
+			"linked_index": 1,
 			"weakness": {
 				"default": "_W___",
 				"blast": "___I_"
@@ -332,6 +360,8 @@
 		{
 			"id": "malzeno_primordial",
 			"type": "elder_dragon",
+			"linked_id": "malzeno",
+			"linked_index": 1,
 			"weakness": "f___D"
 		},
 		{
@@ -342,6 +372,8 @@
 		{
 			"id": "shagaru_magala_risen",
 			"type": "elder_dragon",
+			"linked_id": "shagaru_magala",
+			"linked_index": 1,
 			"weakness": "f___D"
 		},
 		{
@@ -357,16 +389,22 @@
 		{
 			"id": "rajang_furious",
 			"type": "fanged_beast",
+			"linked_id": "rajang",
+			"linked_index": 1,
 			"weakness": "___I_"
 		},
 		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast",
+			"linked_id": "arzuros",
+			"linked_index": 1,
 			"weakness": "F_ti_"
 		},
 		{
 			"id": "rathian_apex",
 			"type": "flying_wyvern",
+			"linked_id": "rathian",
+			"linked_index": 2,
 			"weakness": "__t_D"
 		}
 	]

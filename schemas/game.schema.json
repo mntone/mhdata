@@ -32,6 +32,18 @@
 					"type": {
 						"$ref": "types.schema.json#/$defs/type"
 					},
+					"linked_id": {
+						"title": "Related Monster ID",
+						"type": "string",
+						"minLength": 1
+					},
+					"linked_index": {
+						"title": "Related Monster Index",
+						"type": "number",
+						"minimum": 1,
+						"maximum": 127,
+						"default": 1
+					},
 					"weakness": {
 						"oneOf": [
 							{
