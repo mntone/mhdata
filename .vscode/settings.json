@@ -9,6 +9,12 @@
 		},
 		{
 			"fileMatch": [
+				"/*/index.json"
+			],
+			"url": "./schemas/game.schema.json"
+		},
+		{
+			"fileMatch": [
 				"/monsters/*.json"
 			],
 			"url": "./schemas/monster.schema.json"

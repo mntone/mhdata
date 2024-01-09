@@ -1,0 +1,22 @@
+{
+	"$defs": {
+		"type": {
+			"title": "Monster Type ID",
+			"type": "string",
+			"enum": [
+				"amphibian",
+				"bird_wyvern",
+				"brute_wyvern",
+				"carapaceon",
+				"elder_dragon",
+				"fanged_beast",
+				"fanged_wyvern",
+				"flying_wyvern",
+				"leviathan",
+				"piscine_wyvern",
+				"temnoceran",
+				"unknown"
+			]
+		}
+	}
+}

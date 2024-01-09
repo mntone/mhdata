@@ -35,7 +35,8 @@
 				"required": [
 					"id",
 					"name"
-				]
+				],
+				"additionalProperties": false
 			}
 		},
 		"states": {
@@ -45,10 +46,14 @@
 			"items": {
 				"title": "State Localization",
 				"type": "string"
+			},
+			"propertyNames": {
+				"$ref": "states.schema.json#/$defs/state"
 			}
 		}
 	},
 	"required": [
 		"monsters"
-	]
+	],
+	"additionalProperties": false
 }

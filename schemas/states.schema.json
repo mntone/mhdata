@@ -1,0 +1,40 @@
+{
+	"$defs": {
+		"state": {
+			"title": "State Name",
+			"type": "string",
+			"enum": [
+				"default",
+				"blast",
+				"bloodening",
+				"bloodlust",
+				"broken",
+				"charged",
+				"charging",
+				"cocooning",
+				"electrifying",
+				"enraged",
+				"enraged_super",
+				"deposit",
+				"distending",
+				"flame",
+				"frenzy",
+				"glowing",
+				"guarding",
+				"hellfire",
+				"hellfire_concentrated",
+				"hellfire_raging",
+				"ice",
+				"magma",
+				"molten",
+				"mud",
+				"overheat",
+				"rolling",
+				"sleep",
+				"stealth",
+				"wet"
+			],
+			"default": "default"
+		}
+	}
+}

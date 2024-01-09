@@ -19,263 +19,355 @@
 	"monsters": [
 		{
 			"id": "great_izuchi",
-			"type": "bird_wyvern"
+			"type": "bird_wyvern",
+			"weakness": "fwTi_"
 		},
 		{
 			"id": "great_baggi",
-			"type": "bird_wyvern"
+			"type": "bird_wyvern",
+			"weakness": "Fwt__"
 		},
 		{
 			"id": "kulu_ya_ku",
-			"type": "bird_wyvern"
+			"type": "bird_wyvern",
+			"weakness": "fWtid"
 		},
 		{
 			"id": "great_wroggi",
-			"type": "bird_wyvern"
+			"type": "bird_wyvern",
+			"weakness": "_w_I_"
 		},
 		{
 			"id": "arzuros",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "F_ti_"
 		},
 		{
 			"id": "lagombi",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "F_t__"
 		},
 		{
 			"id": "volvidon",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "_W_i_"
 		},
 		{
 			"id": "aknosom",
-			"type": "bird_wyvern"
+			"type": "bird_wyvern",
+			"weakness": "_Wt__"
 		},
 		{
 			"id": "royal_ludroth",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "F____"
 		},
 		{
 			"id": "barroth",
-			"type": "brute_wyvern"
+			"type": "brute_wyvern",
+			"weakness": {
+				"default": "F__i_",
+				"mud": "_W_i_"
+			}
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"type": "carapaceon"
+			"type": "carapaceon",
+			"weakness": "F_ti_"
 		},
 		{
 			"id": "khezu",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "F____"
 		},
 		{
 			"id": "tetranadon",
-			"type": "amphibian"
+			"type": "amphibian",
+			"weakness": "f_T__"
 		},
 		{
 			"id": "bishaten",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "___I_"
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "_W___"
 		},
 		{
 			"id": "pukei_pukei",
-			"type": "bird_wyvern"
+			"type": "bird_wyvern",
+			"weakness": "__Ti_"
 		},
 		{
 			"id": "jyuratodus",
-			"type": "piscine_wyvern"
+			"type": "piscine_wyvern",
+			"weakness": {
+				"default": "__T__",
+				"mud": "_W___"
+			}
 		},
 		{
 			"id": "basarios",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "fwtiD"
 		},
 		{
 			"id": "somnacanth",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "f_T__"
 		},
 		{
 			"id": "somnacanth_aurora",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "F____"
 		},
 		{
 			"id": "rathian",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "__t_D"
 		},
 		{
 			"id": "rathian_gold",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "_wT__"
 		},
 		{
 			"id": "barioth",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "F____"
 		},
 		{
 			"id": "tobi_kadachi",
-			"type": "fanged_wyvern"
+			"type": "fanged_wyvern",
+			"weakness": "fW_i_"
 		},
 		{
 			"id": "magnamalo",
-			"type": "fanged_wyvern"
+			"type": "fanged_wyvern",
+			"weakness": "_Wt__"
 		},
 		{
 			"id": "magnamalo_scorned",
-			"type": "fanged_wyvern"
+			"type": "fanged_wyvern",
+			"weakness": {
+				"default": "_Wt__",
+				"hellfire_concentrated": "_wT__"
+			}
 		},
 		{
 			"id": "anjanath",
-			"type": "brute_wyvern"
+			"type": "brute_wyvern",
+			"weakness": "_W_i_"
 		},
 		{
 			"id": "nargacuga",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "f_T__"
 		},
 		{
 			"id": "nargacuga_lucent",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "___Id"
 		},
 		{
 			"id": "mizutsune",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "__T_d"
 		},
 		{
 			"id": "mizutsune_violet",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "__tI_"
 		},
 		{
 			"id": "goss_harag",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "F_t__"
 		},
 		{
 			"id": "garangolm",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": {
+				"default": "__T__",
+				"deposit": "f_Ti_"
+			}
 		},
 		{
 			"id": "shogun_ceanataur",
-			"type": "carapaceon"
+			"type": "carapaceon",
+			"weakness": "f_Ti_"
 		},
 		{
 			"id": "rathalos",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "__t_D"
 		},
 		{
 			"id": "rathalos_silver",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "_Wt__"
 		},
 		{
 			"id": "almudron",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "F__i_"
 		},
 		{
 			"id": "almudron_magma",
-			"type": "leviathan"
+			"type": "leviathan",
+			"weakness": "_W_i_"
 		},
 		{
 			"id": "zinogre",
-			"type": "fanged_wyvern"
+			"type": "fanged_wyvern",
+			"weakness": {
+				"default": "___I_",
+				"electrifying": "_w_I_"
+			}
 		},
 		{
 			"id": "lunagaron",
-			"type": "fanged_wyvern"
+			"type": "fanged_wyvern",
+			"weakness": "F____"
 		},
 		{
 			"id": "astalos",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "___I_"
 		},
 		{
 			"id": "espinas",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": {
+				"default": "___I_",
+				"enraged": "_w_Id"
+			}
 		},
 		{
 			"id": "espinas_flaming",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": {
+				"default": "_W___",
+				"enraged": "_Wt_d"
+			}
 		},
 		{
 			"id": "gore_magala",
-			"type": "unknown"
+			"type": "unknown",
+			"weakness": "F____"
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"type": "unknown"
+			"type": "unknown",
+			"weakness": "F___d"
 		},
 		{
 			"id": "seregios",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "__T__"
 		},
 		{
 			"id": "tigrex",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "__T_d"
 		},
 		{
 			"id": "diablos",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "_w_Id"
 		},
 		{
 			"id": "rakna_kadaki",
-			"type": "temnoceran"
+			"type": "temnoceran",
+			"weakness": "___I_"
 		},
 		{
 			"id": "rakna_kadaki_pyre",
-			"type": "temnoceran"
+			"type": "temnoceran",
+			"weakness": "_W___"
 		},
 		{
 			"id": "kushala_daora",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "f_T_d"
 		},
 		{
 			"id": "kushala_daora_risen",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "f_T_d"
 		},
 		{
 			"id": "chameleos",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "F_t_d"
 		},
 		{
 			"id": "chameleos_risen",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "F_t_d"
 		},
 		{
 			"id": "teostra",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": {
+				"default": "_W___",
+				"blast": "___I_"
+			}
 		},
 		{
 			"id": "teostra_risen",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": {
+				"default": "_W___",
+				"blast": "___I_"
+			}
 		},
 		{
 			"id": "malzeno",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "f___D"
 		},
 		{
 			"id": "malzeno_primordial",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "f___D"
 		},
 		{
 			"id": "shagaru_magala",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "f___D"
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "f___D"
 		},
 		{
 			"id": "velkhana",
-			"type": "elder_dragon"
+			"type": "elder_dragon",
+			"weakness": "F___d"
 		},
 		{
 			"id": "rajang",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "___I_"
 		},
 		{
 			"id": "rajang_furious",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "___I_"
 		},
 		{
 			"id": "arzuros_apex",
-			"type": "fanged_beast"
+			"type": "fanged_beast",
+			"weakness": "F_ti_"
 		},
 		{
 			"id": "rathian_apex",
-			"type": "flying_wyvern"
+			"type": "flying_wyvern",
+			"weakness": "__t_D"
 		}
 	]
 }

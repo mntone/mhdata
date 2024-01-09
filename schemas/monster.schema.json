@@ -11,22 +11,7 @@
 			"type": "string"
 		},
 		"type": {
-			"title": "Type ID",
-			"type":"string",
-			"enum": [
-				"amphibian",
-				"bird_wyvern",
-				"brute_wyvern",
-				"carapaceon",
-				"elder_dragon",
-				"fanged_beast",
-				"fanged_wyvern",
-				"flying_wyvern",
-				"leviathan",
-				"piscine_wyvern",
-				"temnoceran",
-				"unknown"
-			]
+			"$ref": "types.schema.json#/$defs/type"
 		},
 		"physiologies": {
 			"title": "Physiologies",
@@ -110,40 +95,7 @@
 									"type": "array",
 									"minItems": 1,
 									"items": {
-										"title": "State Name",
-										"type": "string",
-										"enum": [
-											"default",
-											"blast",
-											"bloodening",
-											"bloodlust",
-											"broken",
-											"charged",
-											"charging",
-											"cocooning",
-											"electrifying",
-											"enraged",
-											"enraged_super",
-											"deposit",
-											"distending",
-											"flame",
-											"frenzy",
-											"glowing",
-											"guarding",
-											"hellfire",
-											"hellfire_concentrated",
-											"hellfire_raging",
-											"ice",
-											"magma",
-											"molten",
-											"mud",
-											"overheat",
-											"rolling",
-											"sleep",
-											"stealth",
-											"wet"
-										],
-										"default": "default"
+										"$ref": "states.schema.json#/$defs/state"
 									}
 								},
 								"slash": {
@@ -207,7 +159,8 @@
 								"ice",
 								"dragon",
 								"stun"
-							]
+							],
+							"additionalProperties": false
 						}
 					}
 				}
@@ -219,5 +172,6 @@
 		"version",
 		"type",
 		"physiologies"
-	]
+	],
+	"additionalProperties": false
 }

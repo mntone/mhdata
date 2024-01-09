@@ -1,0 +1,73 @@
+{
+	"title": "Game Data",
+	"type": "object",
+	"properties": {
+		"id": {
+			"title": "Game ID",
+			"type": "string"
+		},
+		"localization": {
+			"title": "Array of Language",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Language",
+				"type": "string"
+			}
+		},
+		"monsters": {
+			"title": "Array of Monster",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Monster",
+				"type": "object",
+				"properties": {
+					"id": {
+						"title": "Monster ID",
+						"type": "string"
+					},
+					"type": {
+						"$ref": "types.schema.json#/$defs/type"
+					},
+					"weakness": {
+						"anyOf": [
+							{
+								"$ref": "#/$defs/weakness"
+							},
+							{
+								"title": "Multiple Weakness",
+								"type": "object",
+								"minItems": 1,
+								"items": {
+									"$ref": "#/$defs/weakness"
+								},
+								"propertyNames": {
+									"$ref": "states.schema.json#/$defs/state"
+								}
+							}
+						]
+					}
+				},
+				"required": [
+					"id",
+					"type"
+				],
+				"additionalProperties": false
+			}
+		}
+	},
+	"required": [
+		"id",
+		"localization",
+		"monsters"
+	],
+	"additionalProperties": false,
+	"$defs": {
+		"weakness": {
+			"title": "Weakness",
+			"type": "string",
+			"pattern": "^(F|f|_)(W|w|_)(T|t|_)(I|i|_)(D|d|_)$"
+		}
+	}
+}
