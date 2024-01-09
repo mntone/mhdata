@@ -269,6 +269,7 @@
 		"broken": "Broken",
 		"charged": "Charged",
 		"charging": "Charging",
+		"cocooning": "Cocooning",
 		"electrifying": "Charged",
 		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
@@ -287,6 +288,7 @@
 		"mud": "Mud",
 		"overheat": "Overheat",
 		"rolling": "Rolling",
+		"stealth": "Stealth",
 		"sleep": "Spontaneous Sleeping",
 		"wet": "Wet"
 	}
