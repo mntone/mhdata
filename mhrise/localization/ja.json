@@ -81,6 +81,14 @@
 			]
 		},
 		{
+			"id": "bazelgeuse",
+			"name": "バゼルギウス",
+			"another_name": "爆鱗竜",
+			"keywords": [
+				"奇襲燎原"
+			]
+		},
+		{
 			"id": "bishaten",
 			"name": "ビシュテンゴ",
 			"another_name": "天狗獣",
@@ -548,6 +556,7 @@
 		"enraged_super": "闘気硬化状態",
 		"deposit": "付着物纏い状態",
 		"distending": "膨腹状態",
+		"fiery": "赤熱化状態",
 		"flame": "劫炎状態",
 		"frenzy": "狂竜化状態",
 		"glowing": "熱殻状態",

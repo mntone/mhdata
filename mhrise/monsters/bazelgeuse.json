@@ -1,0 +1,189 @@
+{
+	"id": "bazelgeuse",
+	"version": "16.0.0",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 60,
+					"strike": 65,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"states": [
+						"fiery"
+					],
+					"slash": 80,
+					"strike": 85,
+					"shell": 35,
+					"fire": 0,
+					"water": 10,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 10,
+					"fire": 0,
+					"water": 0,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"fiery"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 15,
+					"fire": 0,
+					"water": 0,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 20,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"fiery"
+					],
+					"slash": 36,
+					"strike": 34,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 60,
+					"strike": 55,
+					"shell": 35,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"fiery"
+					],
+					"slash": 75,
+					"strike": 70,
+					"shell": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

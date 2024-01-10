@@ -41,6 +41,10 @@
 			"name": "Basarios"
 		},
 		{
+			"id": "bazelgeuse",
+			"name": "Bazelgeuse"
+		},
+		{
 			"id": "bishaten",
 			"name": "Bishaten"
 		},

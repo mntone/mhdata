@@ -394,6 +394,11 @@
 			"weakness": "___I_"
 		},
 		{
+			"id": "bazelgeuse",
+			"type": "flying_wyvern",
+			"weakness": "__T__"
+		},
+		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast",
 			"linked_id": "arzuros",
