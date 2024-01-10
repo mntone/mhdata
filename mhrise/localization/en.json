@@ -261,6 +261,14 @@
 			"name": "Tobi-Kadachi"
 		},
 		{
+			"id": "valstrax_crimson_glow",
+			"name": "Crimson Glow Valstrax"
+		},
+		{
+			"id": "valstrax_crimson_glow_risen",
+			"name": "Risen Crimson Glow Valstrax"
+		},
+		{
 			"id": "velkhana",
 			"name": "Velkhana"
 		},
@@ -287,6 +295,7 @@
 		"enraged_super": "Super Enraged",
 		"deposit": "Deposit",
 		"distending": "Distending",
+		"dragon_energy": "Dragon Energy",
 		"fiery": "Fiery",
 		"flame": "Flame",
 		"frenzy": "The Frenzy",

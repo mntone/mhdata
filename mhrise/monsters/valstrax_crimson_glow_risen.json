@@ -1,0 +1,322 @@
+{
+	"id": "valstrax_crimson_glow_risen",
+	"version": "16.0.0",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 60,
+					"shell": 35,
+					"fire": 25,
+					"water": 25,
+					"thunder": 25,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 57,
+					"strike": 62,
+					"shell": 35,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 30,
+					"shell": 15,
+					"fire": 25,
+					"water": 25,
+					"thunder": 25,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 40,
+					"strike": 30,
+					"shell": 20,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 25,
+					"shell": 10,
+					"fire": 20,
+					"water": 20,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 30,
+					"strike": 25,
+					"shell": 10,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 25,
+					"shell": 10,
+					"fire": 20,
+					"water": 20,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"dragon_energy"
+					],
+					"slash": 80,
+					"strike": 90,
+					"shell": 50,
+					"fire": 15,
+					"water": 25,
+					"thunder": 20,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 30,
+					"strike": 25,
+					"shell": 10,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 24,
+					"shell": 25,
+					"fire": 25,
+					"water": 25,
+					"thunder": 25,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 22,
+					"strike": 45,
+					"shell": 10,
+					"fire": 25,
+					"water": 25,
+					"thunder": 25,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"dragon_energy"
+					],
+					"slash": 64,
+					"strike": 70,
+					"shell": 45,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 22,
+					"strike": 45,
+					"shell": 10,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 24,
+					"shell": 20,
+					"fire": 15,
+					"water": 15,
+					"thunder": 15,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 25,
+					"strike": 24,
+					"shell": 40,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wingarm"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 45,
+					"fire": 15,
+					"water": 15,
+					"thunder": 15,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 24,
+					"shell": 20,
+					"fire": 20,
+					"water": 20,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 45,
+					"strike": 24,
+					"shell": 20,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

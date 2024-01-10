@@ -536,6 +536,26 @@
 			]
 		},
 		{
+			"id": "valstrax_crimson_glow",
+			"name": "奇しき赫耀のバルファルク",
+			"readable_name": "クシキカクヨウノバルファルク",
+			"another_name": "天彗龍",
+			"keywords": [
+				"天彗龍極",
+				"絶望の星"
+			]
+		},
+		{
+			"id": "valstrax_crimson_glow_risen",
+			"name": "傀異克服奇しき赫耀のバルファルク",
+			"readable_name": "カイイコクフククシキカクヨウノバルファルク",
+			"another_name": "天彗龍",
+			"keywords": [
+				"天彗龍極",
+				"赫耀克"
+			]
+		},
+		{
 			"id": "velkhana",
 			"name": "イヴェルカーナ",
 			"another_name": "冰龍",
@@ -574,6 +594,7 @@
 		"enraged_super": "闘気硬化状態",
 		"deposit": "付着物纏い状態",
 		"distending": "膨腹状態",
+		"dragon_energy": "龍気解放状態",
 		"fiery": "赤熱化状態",
 		"flame": "劫炎状態",
 		"frenzy": "狂竜化状態",
