@@ -49,19 +49,19 @@
 			]
 		},
 		{
-			"id": "barioth",
-			"name": "ベリオロス",
-			"another_name": "氷牙竜",
-			"keywords": [
-				"迅速の騎士"
-			]
-		},
-		{
 			"id": "astalos",
 			"name": "ライゼクス",
 			"another_name": "電竜",
 			"keywords": [
 				"激怒招雷"
+			]
+		},
+		{
+			"id": "barioth",
+			"name": "ベリオロス",
+			"another_name": "氷牙竜",
+			"keywords": [
+				"迅速の騎士"
 			]
 		},
 		{
