@@ -408,14 +408,14 @@
 		{
 			"id": "valstrax_crimson_glow",
 			"type": "elder_dragon",
-			"weakness": "FWTI_"
+			"weakness": "fWtI_"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
 			"type": "elder_dragon",
 			"linked_id": "valstrax_crimson_glow",
 			"linked_index": 1,
-			"weakness": "FWTI_"
+			"weakness": "fWtI_"
 		},
 		{
 			"id": "arzuros_apex",
