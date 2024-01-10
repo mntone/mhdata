@@ -418,6 +418,13 @@
 			"linked_id": "rathian",
 			"linked_index": 2,
 			"weakness": "__t_D"
+		},
+		{
+			"id": "mizutsune_apex",
+			"type": "leviathan",
+			"linked_id": "mizutsune",
+			"linked_index": 2,
+			"weakness": "__T_d"
 		}
 	]
 }

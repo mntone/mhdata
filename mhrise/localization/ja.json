@@ -329,6 +329,14 @@
 			]
 		},
 		{
+			"id": "mizutsune_apex",
+			"name": "ヌシ・タマミツネ",
+			"another_name": "泡狐竜",
+			"keywords": [
+				"主泡狐竜"
+			]
+		},
+		{
 			"id": "nargacuga",
 			"name": "ナルガクルガ",
 			"another_name": "迅竜",
