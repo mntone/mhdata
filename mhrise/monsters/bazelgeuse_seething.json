@@ -1,0 +1,133 @@
+{
+	"id": "bazelgeuse_seething",
+	"version": "16.0.0",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 64,
+					"strike": 80,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 20,
+					"ice": 25,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 15,
+					"fire": 0,
+					"water": 0,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 44,
+					"strike": 44,
+					"shell": 35,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 36,
+					"strike": 34,
+					"shell": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 70,
+					"strike": 65,
+					"shell": 55,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 25,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

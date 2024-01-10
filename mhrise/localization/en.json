@@ -45,6 +45,10 @@
 			"name": "Bazelgeuse"
 		},
 		{
+			"id": "bazelgeuse_seething",
+			"name": "Seething Bazelgeuse"
+		},
+		{
 			"id": "bishaten",
 			"name": "Bishaten"
 		},

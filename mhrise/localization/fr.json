@@ -45,6 +45,10 @@
 			"name": "Bazelgeuse"
 		},
 		{
+			"id": "bazelgeuse_seething",
+			"name": "Bazelgeuse vulcan"
+		},
+		{
 			"id": "bishaten",
 			"name": "Bishaten"
 		},
