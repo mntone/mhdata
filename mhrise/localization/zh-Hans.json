@@ -287,6 +287,10 @@
 		{
 			"id": "zinogre",
 			"name": "雷狼龙"
+		},
+		{
+			"id": "zinogre_apex",
+			"name": "霸主・雷狼龙"
 		}
 	]
 }

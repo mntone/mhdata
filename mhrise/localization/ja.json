@@ -594,6 +594,14 @@
 			"keywords": [
 				"無双の狩人"
 			]
+		},
+		{
+			"id": "zinogre_apex",
+			"name": "ヌシ・ジンオウガ",
+			"another_name": "雷狼竜",
+			"keywords": [
+				"主雷狼竜"
+			]
 		}
 	],
 	"states": {

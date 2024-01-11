@@ -451,6 +451,13 @@
 			"linked_id": "diablos",
 			"linked_index": 1,
 			"weakness": "_w_Id"
+		},
+		{
+			"id": "zinogre_apex",
+			"type": "fanged_wyvern",
+			"linked_id": "zinogre",
+			"linked_index": 1,
+			"weakness": "fw_I_"
 		}
 	]
 }

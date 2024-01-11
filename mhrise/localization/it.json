@@ -287,6 +287,10 @@
 		{
 			"id": "zinogre",
 			"name": "Zinogre"
+		},
+		{
+			"id": "zinogre_apex",
+			"name": "Zinogre Apex"
 		}
 	]
 }
