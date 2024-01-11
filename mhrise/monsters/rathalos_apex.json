@@ -1,0 +1,182 @@
+{
+	"id": "rathalos_apex",
+	"version": "16.0.0",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 55,
+					"shell": 30,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 100
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 80,
+					"strike": 80,
+					"shell": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 38,
+					"strike": 38,
+					"shell": 20,
+					"fire": 5,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"enraged"
+					],
+					"slash": 75,
+					"strike": 75,
+					"shell": 47,
+					"fire": 5,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 24,
+					"strike": 24,
+					"shell": 10,
+					"fire": 0,
+					"water": 5,
+					"thunder": 8,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 21,
+					"strike": 21,
+					"shell": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 8,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 45,
+					"shell": 10,
+					"fire": 0,
+					"water": 10,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 20,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 35,
+					"shell": 20,
+					"fire": 5,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

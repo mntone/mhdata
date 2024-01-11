@@ -414,6 +414,14 @@
 			]
 		},
 		{
+			"id": "rathalos_apex",
+			"name": "ヌシ・リオレウス",
+			"another_name": "火竜",
+			"keywords": [
+				"主火竜"
+			]
+		},
+		{
 			"id": "rathian",
 			"name": "リオレイア",
 			"another_name": "雌火竜",

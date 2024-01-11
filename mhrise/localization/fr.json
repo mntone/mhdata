@@ -201,6 +201,10 @@
 			"name": "Rathalos d'argent"
 		},
 		{
+			"id": "rathalos_apex",
+			"name": "Rathalos supérieur"
+		},
+		{
 			"id": "rathian",
 			"name": "Rathian"
 		},

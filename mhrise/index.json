@@ -437,6 +437,13 @@
 			"linked_id": "mizutsune",
 			"linked_index": 2,
 			"weakness": "__T_d"
+		},
+		{
+			"id": "rathalos_apex",
+			"type": "flying_wyvern",
+			"linked_id": "rathalos",
+			"linked_index": 2,
+			"weakness": "__t_D"
 		}
 	]
 }
