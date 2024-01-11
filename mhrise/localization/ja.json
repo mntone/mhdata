@@ -148,6 +148,14 @@
 			]
 		},
 		{
+			"id": "diablos_apex",
+			"name": "ヌシ・ディアブロス",
+			"another_name": "角竜",
+			"keywords": [
+				"主角竜"
+			]
+		},
+		{
 			"id": "espinas",
 			"name": "エスピナス",
 			"another_name": "棘竜",

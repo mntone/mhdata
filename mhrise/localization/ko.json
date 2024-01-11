@@ -73,6 +73,10 @@
 			"name": "디아블로스"
 		},
 		{
+			"id": "diablos_apex",
+			"name": "주인 디아블로스"
+		},
+		{
 			"id": "espinas",
 			"name": "에스피나스"
 		},

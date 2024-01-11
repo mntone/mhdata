@@ -444,6 +444,13 @@
 			"linked_id": "rathalos",
 			"linked_index": 2,
 			"weakness": "__t_D"
+		},
+		{
+			"id": "diablos_apex",
+			"type": "flying_wyvern",
+			"linked_id": "diablos",
+			"linked_index": 1,
+			"weakness": "_w_Id"
 		}
 	]
 }

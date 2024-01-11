@@ -73,6 +73,10 @@
 			"name": "Diablos"
 		},
 		{
+			"id": "diablos_apex",
+			"name": "Apex-Diablos"
+		},
+		{
 			"id": "espinas",
 			"name": "Espinas"
 		},
