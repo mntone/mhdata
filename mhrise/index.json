@@ -416,6 +416,13 @@
 			"weakness": "____D"
 		},
 		{
+			"id": "narwa_allmother",
+			"type": "elder_dragon",
+			"linked_id": "thunder_serpent_narwa",
+			"linked_index": 1,
+			"weakness": "____D"
+		},
+		{
 			"id": "valstrax_crimson_glow",
 			"type": "elder_dragon",
 			"weakness": "fWtI_"

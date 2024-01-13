@@ -544,6 +544,14 @@
 			]
 		},
 		{
+			"id": "narwa_allmother",
+			"name": "百竜ノ淵源ナルハタタヒメ",
+			"another_name": "雷神龍",
+			"keywords": [
+				"百竜ノ淵源"
+			]
+		},
+		{
 			"id": "tigrex",
 			"name": "ティガレックス",
 			"another_name": "轟竜",
