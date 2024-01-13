@@ -588,6 +588,14 @@
 			]
 		},
 		{
+			"id": "wind_serpent_ibushi",
+			"name": "イブシマキヒコ",
+			"another_name": "風神龍",
+			"keywords": [
+				"禍群の息吹"
+			]
+		},
+		{
 			"id": "zinogre",
 			"name": "ジンオウガ",
 			"another_name": "雷狼竜",

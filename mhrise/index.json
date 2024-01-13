@@ -406,6 +406,11 @@
 			"weakness": "__tI_"
 		},
 		{
+			"id": "wind_serpent_ibushi",
+			"type": "elder_dragon",
+			"weakness": "f___D"
+		},
+		{
 			"id": "valstrax_crimson_glow",
 			"type": "elder_dragon",
 			"weakness": "fWtI_"
