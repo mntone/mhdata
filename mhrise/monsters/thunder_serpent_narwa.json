@@ -1,0 +1,322 @@
+{
+	"id": "thunder_serpent_narwa",
+	"version": "16.0.0",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 50,
+					"shell": 5,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 100
+				},
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 70,
+					"strike": 75,
+					"shell": 45,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 20,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 30,
+					"shell": 10,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 20,
+					"strike": 25,
+					"shell": 5,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 35,
+					"shell": 15,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 55,
+					"strike": 50,
+					"shell": 35,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wingarm"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 30,
+					"shell": 10,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wingarm_charged"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 15,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 70,
+					"strike": 65,
+					"shell": 45,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen_thundersac"
+			],
+			"values": [
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 25,
+					"strike": 25,
+					"shell": 5,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 90,
+					"strike": 90,
+					"shell": 55,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 30,
+					"shell": 15,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 50,
+					"strike": 45,
+					"shell": 35,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg_fin"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 20,
+					"strike": 20,
+					"shell": 5,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 30,
+					"shell": 10,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 40,
+					"shell": 15,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"charged"
+					],
+					"slash": 70,
+					"strike": 65,
+					"shell": 35,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

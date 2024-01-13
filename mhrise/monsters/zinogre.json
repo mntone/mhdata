@@ -24,7 +24,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 65,
 					"strike": 65,
@@ -59,7 +59,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 30,
 					"strike": 30,
@@ -94,7 +94,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 45,
 					"strike": 45,
@@ -129,7 +129,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 43,
 					"strike": 46,
@@ -164,7 +164,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 70,
 					"strike": 65,
@@ -199,7 +199,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 50,
 					"strike": 50,

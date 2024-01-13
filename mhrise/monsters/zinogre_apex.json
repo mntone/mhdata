@@ -24,7 +24,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 65,
 					"strike": 65,
@@ -38,7 +38,7 @@
 				},
 				{
 					"states": [
-						"electrifying",
+						"charged_super",
 						"enraged"
 					],
 					"slash": 65,
@@ -74,7 +74,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 30,
 					"strike": 30,
@@ -109,7 +109,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 35,
 					"strike": 35,
@@ -123,7 +123,7 @@
 				},
 				{
 					"states": [
-						"electrifying",
+						"charged_super",
 						"enraged"
 					],
 					"slash": 40,
@@ -159,7 +159,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 50,
 					"strike": 50,
@@ -173,7 +173,7 @@
 				},
 				{
 					"states": [
-						"electrifying",
+						"charged_super",
 						"enraged"
 					],
 					"slash": 70,
@@ -209,7 +209,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 70,
 					"strike": 65,
@@ -244,7 +244,7 @@
 				},
 				{
 					"states": [
-						"electrifying"
+						"charged_super"
 					],
 					"slash": 35,
 					"strike": 35,
@@ -258,7 +258,7 @@
 				},
 				{
 					"states": [
-						"electrifying",
+						"charged_super",
 						"enraged"
 					],
 					"slash": 40,

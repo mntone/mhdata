@@ -240,7 +240,7 @@
 			"type": "fanged_wyvern",
 			"weakness": {
 				"default": "___I_",
-				"electrifying": "_w_I_"
+				"charged_super": "_w_I_"
 			}
 		},
 		{
@@ -411,6 +411,11 @@
 			"weakness": "f___D"
 		},
 		{
+			"id": "thunder_serpent_narwa",
+			"type": "elder_dragon",
+			"weakness": "____D"
+		},
+		{
 			"id": "valstrax_crimson_glow",
 			"type": "elder_dragon",
 			"weakness": "fWtI_"
@@ -462,7 +467,10 @@
 			"type": "fanged_wyvern",
 			"linked_id": "zinogre",
 			"linked_index": 1,
-			"weakness": "fw_I_"
+			"weakness": {
+				"default": "___I_",
+				"charged_super": "_w_I_"
+			}
 		}
 	]
 }

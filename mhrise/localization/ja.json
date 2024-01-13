@@ -536,6 +536,14 @@
 			]
 		},
 		{
+			"id": "thunder_serpent_narwa",
+			"name": "ナルハタタヒメ",
+			"another_name": "雷神龍",
+			"keywords": [
+				"禍群の鳴神"
+			]
+		},
+		{
 			"id": "tigrex",
 			"name": "ティガレックス",
 			"another_name": "轟竜",
@@ -618,10 +626,11 @@
 		"bloodening": "血氣活性状態",
 		"bloodlust": "血氣蝕烈状態",
 		"broken": "破壊後",
-		"charged": "電荷状態",
+		"charged": "帯電状態",
+		"charged_electric": "電荷状態",
+		"charged_super": "超帯電状態",
 		"charging": "溜め中",
 		"cocooning": "繭化状態",
-		"electrifying": "超帯電状態",
 		"enraged": "怒り状態",
 		"enraged_super": "闘気硬化状態",
 		"deposit": "付着物纏い状態",
