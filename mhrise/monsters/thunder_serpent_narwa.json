@@ -178,7 +178,7 @@
 			"values": [
 				{
 					"states": [
-						"charged"
+						"default"
 					],
 					"slash": 25,
 					"strike": 25,
