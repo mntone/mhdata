@@ -440,6 +440,11 @@
 			"weakness": "__t_D"
 		},
 		{
+			"id": "amatsu",
+			"type": "elder_dragon",
+			"weakness": "f___D"
+		},
+		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast",
 			"linked_id": "arzuros",

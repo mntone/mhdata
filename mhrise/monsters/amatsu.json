@@ -1,0 +1,168 @@
+{
+	"id": "amatsu",
+	"version": "16.0.0",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 55,
+					"strike": 65,
+					"shell": 45,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 100
+				},
+				{
+					"states": [
+						"excited"
+					],
+					"slash": 65,
+					"strike": 75,
+					"shell": 45,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 35,
+					"strike": 30,
+					"shell": 5,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 40,
+					"shell": 5,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 30,
+					"strike": 25,
+					"shell": 10,
+					"fire": 5,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"strike": 45,
+					"shell": 15,
+					"fire": 20,
+					"water": 0,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 25,
+					"strike": 30,
+					"shell": 25,
+					"fire": 25,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 40,
+					"strike": 30,
+					"shell": 35,
+					"fire": 15,
+					"water": 0,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

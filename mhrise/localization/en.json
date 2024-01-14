@@ -13,6 +13,10 @@
 			"name": "Magma Almudron"
 		},
 		{
+			"id": "amatsu",
+			"name": "Amatsu"
+		},
+		{
 			"id": "anjanath",
 			"name": "Anjanath"
 		},
@@ -322,6 +326,7 @@
 		"cocooning": "Cocooning",
 		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
+		"excited": "Excited",
 		"deposit": "Deposit",
 		"distending": "Distending",
 		"dragon_energy": "Dragon Energy",

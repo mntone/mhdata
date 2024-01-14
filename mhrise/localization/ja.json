@@ -25,6 +25,14 @@
 			]
 		},
 		{
+			"id": "amatsu",
+			"name": "アマツマガツチ",
+			"another_name": "嵐龍",
+			"keywords": [
+				"大いなる災い"
+			]
+		},
+		{
 			"id": "anjanath",
 			"name": "アンジャナフ",
 			"another_name": "蛮顎竜",
@@ -650,6 +658,7 @@
 		"cocooning": "繭化状態",
 		"enraged": "怒り状態",
 		"enraged_super": "闘気硬化状態",
+		"excited": "興奮状態",
 		"deposit": "付着物纏い状態",
 		"distending": "膨腹状態",
 		"dragon_energy": "龍気解放状態",
