@@ -435,6 +435,11 @@
 			"weakness": "fWtI_"
 		},
 		{
+			"id": "gaismagorm",
+			"type": "elder_dragon",
+			"weakness": "__t_D"
+		},
+		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast",
 			"linked_id": "arzuros",
