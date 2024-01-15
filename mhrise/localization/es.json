@@ -312,5 +312,14 @@
 			"id": "zinogre_apex",
 			"name": "Zinogre Apex"
 		}
-	]
+	],
+	"states": {
+		"charged_electric": "Charged",
+		"charged_super": "Super Charged",
+		"enraged_super": "Super Enraged",
+		"frenzy": "The Frenzy",
+		"hellfire_concentrated": "Concentrated Hellfire",
+		"hellfire_raging": "Raging Hellfire",
+		"sleep": "Spontaneous Sleeping"
+	}
 }
