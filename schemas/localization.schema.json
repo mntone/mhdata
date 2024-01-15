@@ -2,6 +2,36 @@
 	"title": "Localization Data",
 	"type": "object",
 	"properties": {
+		"games": {
+			"title": "Array of Game Localization",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Game Localization",
+				"type": "object",
+				"properties": {
+					"id": {
+						"title": "Game ID",
+						"type": "string",
+						"minLength": 1
+					},
+					"name": {
+						"title": "Game Name",
+						"type": "string",
+						"minLength": 1
+					},
+					"full_name": {
+						"title": "Full Game Name",
+						"type": "string",
+						"minLength": 1
+					}
+				},
+				"required": [
+					"id",
+					"name"
+				]
+			}
+		},
 		"monsters": {
 			"title": "Array of Monster Localization",
 			"type": "array",
@@ -12,19 +42,23 @@
 				"properties": {
 					"id": {
 						"title": "Monster ID",
-						"type": "string"
+						"type": "string",
+						"minLength": 1
 					},
 					"name": {
 						"title": "Monster Name",
-						"type": "string"
+						"type": "string",
+						"minLength": 1
 					},
 					"readable_name": {
 						"title": "Monster Readable Name",
-						"type": "string"
+						"type": "string",
+						"minLength": 1
 					},
 					"another_name": {
 						"title": "Monster Another Name",
-						"type": "string"
+						"type": "string",
+						"minLength": 1
 					},
 					"keywords": {
 						"title": "Monster Keywords",
@@ -32,7 +66,8 @@
 						"minItems": 1,
 						"items": {
 							"title": "Monster Keyword",
-							"type": "string"
+							"type": "string",
+							"minLength": 1
 						}
 					}
 				},

@@ -1,4 +1,11 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
@@ -10,7 +17,7 @@
 		},
 		{
 			"id": "almudron_magma",
-			"name": "Magma Almudron"
+			"name": "Almudron magma"
 		},
 		{
 			"id": "amatsu",
@@ -26,7 +33,7 @@
 		},
 		{
 			"id": "arzuros_apex",
-			"name": "Apeks Arzuros"
+			"name": "Arzuros supérieur"
 		},
 		{
 			"id": "astalos",
@@ -46,11 +53,11 @@
 		},
 		{
 			"id": "bazelgeuse",
-			"name": "Bazelgez"
+			"name": "Bazelgeuse"
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "Rozzłoszczony Bazelgez"
+			"name": "Bazelgeuse vulcan"
 		},
 		{
 			"id": "bishaten",
@@ -58,7 +65,7 @@
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "Krwistopomarań. Bishaten"
+			"name": "Bishaten sanguin"
 		},
 		{
 			"id": "chameleos",
@@ -66,11 +73,11 @@
 		},
 		{
 			"id": "chameleos_risen",
-			"name": "Wzniesiony Chameleos"
+			"name": "Chameleos éveillé"
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "Daimyo Hermitaur"
+			"name": "Hermitaur Daimyo"
 		},
 		{
 			"id": "diablos",
@@ -78,7 +85,7 @@
 		},
 		{
 			"id": "diablos_apex",
-			"name": "Apeks Diablos"
+			"name": "Diablos supérieur"
 		},
 		{
 			"id": "espinas",
@@ -86,7 +93,7 @@
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "Płomienny Espinas"
+			"name": "Espinas de feu"
 		},
 		{
 			"id": "gaismagorm",
@@ -102,7 +109,7 @@
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"name": "Chaotyczny Gore Magala"
+			"name": "Gore Magala du chaos"
 		},
 		{
 			"id": "goss_harag",
@@ -110,15 +117,15 @@
 		},
 		{
 			"id": "great_baggi",
-			"name": "Wielki Baggi"
+			"name": "Grand Baggi"
 		},
 		{
 			"id": "great_izuchi",
-			"name": "Wielki Izuchi"
+			"name": "Grand Izuchi"
 		},
 		{
 			"id": "great_wroggi",
-			"name": "Wielki Wroggi"
+			"name": "Grand Wroggi"
 		},
 		{
 			"id": "jyuratodus",
@@ -138,7 +145,7 @@
 		},
 		{
 			"id": "kushala_daora_risen",
-			"name": "Wzniesiona Kushala Daora"
+			"name": "Kushala Daora éveillé"
 		},
 		{
 			"id": "lagombi",
@@ -154,7 +161,7 @@
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "Pogardzany Magnamalo"
+			"name": "Magnamalo enragé"
 		},
 		{
 			"id": "malzeno",
@@ -162,7 +169,7 @@
 		},
 		{
 			"id": "malzeno_primordial",
-			"name": "Pierwotny Malzeno"
+			"name": "Malzeno primordial"
 		},
 		{
 			"id": "mizutsune",
@@ -170,19 +177,19 @@
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "Fioletowy Mizutsune"
+			"name": "Mizutsune mauve"
 		},
 		{
 			"id": "mizutsune_apex",
-			"name": "Apeks Mizutsune"
+			"name": "Mizutsune supérieur"
 		},
 		{
 			"id": "nargacuga",
-			"name": "Nargacug"
+			"name": "Nargacuga"
 		},
 		{
 			"id": "nargacuga_lucent",
-			"name": "Lśniący Nargacug"
+			"name": "Nargacuga sélénite"
 		},
 		{
 			"id": "pukei_pukei",
@@ -194,7 +201,7 @@
 		},
 		{
 			"id": "rajang_furious",
-			"name": "Wściekły Rajang"
+			"name": "Rajang orage"
 		},
 		{
 			"id": "rakna_kadaki",
@@ -202,7 +209,7 @@
 		},
 		{
 			"id": "rakna_kadaki_pyre",
-			"name": "Pyre Rakna-Kadaki"
+			"name": "Rakna-Kadaki de feu"
 		},
 		{
 			"id": "rathalos",
@@ -210,27 +217,27 @@
 		},
 		{
 			"id": "rathalos_silver",
-			"name": "Srebrny Rathalos"
+			"name": "Rathalos d'argent"
 		},
 		{
 			"id": "rathalos_apex",
-			"name": "Apeks Rathalos"
+			"name": "Rathalos supérieur"
 		},
 		{
 			"id": "rathian",
-			"name": "Rathiana"
+			"name": "Rathian"
 		},
 		{
 			"id": "rathian_gold",
-			"name": "Złota Rathiana"
+			"name": "Rathian d'or"
 		},
 		{
 			"id": "rathian_apex",
-			"name": "Apeks Rathiana"
+			"name": "Rathian supérieure"
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "Ludroth Królewski"
+			"name": "Ludroth royal"
 		},
 		{
 			"id": "seregios",
@@ -242,11 +249,11 @@
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"name": "Wzniesiony Shagaru Magala"
+			"name": "Shagaru Magala éveillé"
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "Szogun Ceanataur"
+			"name": "Ceanataur Shogun"
 		},
 		{
 			"id": "somnacanth",
@@ -254,7 +261,7 @@
 		},
 		{
 			"id": "somnacanth_aurora",
-			"name": "Aurora Somnacanth"
+			"name": "Somnacanth aurore"
 		},
 		{
 			"id": "teostra",
@@ -262,7 +269,7 @@
 		},
 		{
 			"id": "teostra_risen",
-			"name": "Wzniesiona Teostra"
+			"name": "Teostra éveillé"
 		},
 		{
 			"id": "tetranadon",
@@ -270,11 +277,11 @@
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "Wąż Grzmotu Narwa"
+			"name": "Narwa du tonnerre"
 		},
 		{
 			"id": "narwa_allmother",
-			"name": "Wszechmatka Narwa"
+			"name": "Narwa la Mère de tous"
 		},
 		{
 			"id": "tigrex",
@@ -286,15 +293,15 @@
 		},
 		{
 			"id": "valstrax_crimson_glow",
-			"name": "Karmazynowy Valstrax"
+			"name": "Valstrax écarlate"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
-			"name": "Wzniesiony Karmazynowy Valstrax"
+			"name": "Valstrax écarlate éveillé"
 		},
 		{
 			"id": "velkhana",
-			"name": "Velkhan"
+			"name": "Velkhana"
 		},
 		{
 			"id": "volvidon",
@@ -302,15 +309,15 @@
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "Wąż Wiatru Ibushi"
+			"name": "Ibushi du vent"
 		},
 		{
 			"id": "zinogre",
-			"name": "Zinogr"
+			"name": "Zinogre"
 		},
 		{
 			"id": "zinogre_apex",
-			"name": "Apeks Zinogr"
+			"name": "Zinogre supérieur"
 		}
 	],
 	"states": {

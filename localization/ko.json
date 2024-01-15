@@ -1,4 +1,11 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "라이즈 / 선브레이크",
+			"full_name": "몬스터 헌터 라이즈 / 선브레이크"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",

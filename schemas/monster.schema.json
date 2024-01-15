@@ -112,14 +112,14 @@
 									"minimum": 0,
 									"maximum": 100
 								},
-								"strike": {
-									"title": "Strike",
+								"impact": {
+									"title": "Impact",
 									"type": "integer",
 									"minimum": 0,
 									"maximum": 100
 								},
-								"shell": {
-									"title": "Shell",
+								"shot": {
+									"title": "Shot",
 									"type": "integer",
 									"minimum": 0,
 									"maximum": 100
@@ -159,8 +159,8 @@
 							"required": [
 								"states",
 								"slash",
-								"strike",
-								"shell",
+								"impact",
+								"shot",
 								"fire",
 								"water",
 								"thunder",

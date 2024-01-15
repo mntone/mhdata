@@ -1,4 +1,11 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
@@ -70,7 +77,7 @@
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "Daimyo Hermitaur"
+			"name": "Daimyo Ermitauro"
 		},
 		{
 			"id": "diablos",
@@ -86,7 +93,7 @@
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "Espinas Llameante"
+			"name": "Espinas Ígneo"
 		},
 		{
 			"id": "gaismagorm",
@@ -154,7 +161,7 @@
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "Magnamalo humillado"
+			"name": "Magnamalo Infame"
 		},
 		{
 			"id": "malzeno",
@@ -170,7 +177,7 @@
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "Mizutsune Violeta"
+			"name": "Mizutsune Morado"
 		},
 		{
 			"id": "mizutsune_apex",
@@ -194,7 +201,7 @@
 		},
 		{
 			"id": "rajang_furious",
-			"name": "Rajang Rabioso"
+			"name": "Rajang Furioso"
 		},
 		{
 			"id": "rakna_kadaki",
@@ -246,7 +253,7 @@
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "Shogun Ceanataur"
+			"name": "Shogun Ceanatauro"
 		},
 		{
 			"id": "somnacanth",
@@ -270,7 +277,7 @@
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "Narwa de trueno"
+			"name": "Narwa del trueno"
 		},
 		{
 			"id": "narwa_allmother",
@@ -302,7 +309,7 @@
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "Ibushi de viento"
+			"name": "Ibushi del viento"
 		},
 		{
 			"id": "zinogre",

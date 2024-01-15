@@ -1,22 +1,22 @@
 {
-	"version": 2,
-	"titles": [
-		{
-			"id": "mhrise",
-			"names": {
-				"en": "Rise / Sunbreak",
-				"ja": "ライズ・サンブレイク",
-				"ko": "라이즈 / 선브레이크",
-				"zh-Hans": "崛起‧曙光",
-				"zh-Hant": "崛起‧破曉"
-			},
-			"full_names": {
-				"en": "Monster Hunter Rise / Sunbreak",
-				"ja": "モンスターハンターライズ・サンブレイク",
-				"ko": "몬스터 헌터 라이즈 / 선브레이크",
-				"zh-Hans": "怪物猎人 崛起‧曙光",
-				"zh-Hant": "魔物獵人 崛起‧破曉"
-			}
-		}
+	"version": 3,
+	"games": [
+		"mhrise"
+	],
+	"languages": [
+		"ar",
+		"de",
+		"en",
+		"es",
+		"es-419",
+		"fr",
+		"it",
+		"ja",
+		"ko",
+		"pl",
+		"pt-BR",
+		"ru",
+		"zh-Hans",
+		"zh-Hant"
 	]
 }

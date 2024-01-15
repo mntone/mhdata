@@ -1,316 +1,323 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "崛起‧破曉",
+			"full_name": "魔物獵人 崛起‧破曉"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
-			"name": "أكنوسوم"
+			"name": "傘鳥"
 		},
 		{
 			"id": "almudron",
-			"name": "ألمودرون"
+			"name": "泥翁龍"
 		},
 		{
 			"id": "almudron_magma",
-			"name": "ماجما ألمودرون"
+			"name": "熔翁龍"
 		},
 		{
 			"id": "amatsu",
-			"name": "أماتسو"
+			"name": "嵐龍"
 		},
 		{
 			"id": "anjanath",
-			"name": "أنجاناث"
+			"name": "蠻顎龍"
 		},
 		{
 			"id": "arzuros",
-			"name": "أرزوروس"
+			"name": "青熊獸"
 		},
 		{
 			"id": "arzuros_apex",
-			"name": "الوحش العلوي أرزوروس"
+			"name": "首領青熊獸"
 		},
 		{
 			"id": "astalos",
-			"name": "أستالوس"
+			"name": "電龍"
 		},
 		{
 			"id": "barioth",
-			"name": "باريوث"
+			"name": "冰牙龍"
 		},
 		{
 			"id": "barroth",
-			"name": "باروث"
+			"name": "土砂龍"
 		},
 		{
 			"id": "basarios",
-			"name": "باساريوس"
+			"name": "岩龍"
 		},
 		{
 			"id": "bazelgeuse",
-			"name": "بازيلجيس"
+			"name": "爆鱗龍"
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "بازيلجيس الثائر"
+			"name": "紅蓮爆鱗龍"
 		},
 		{
 			"id": "bishaten",
-			"name": "بيشاتن"
+			"name": "天狗獸"
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "بيشاتن ذو الدم البرتقالي"
+			"name": "緋天狗獸"
 		},
 		{
 			"id": "chameleos",
-			"name": "تشامليوس"
+			"name": "霞龍"
 		},
 		{
 			"id": "chameleos_risen",
-			"name": "تشامليوس رايزن"
+			"name": "霞龍（傀異克服）"
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "دايمياو هيرميتور"
+			"name": "大名蟹"
 		},
 		{
 			"id": "diablos",
-			"name": "ديابلوس"
+			"name": "角龍"
 		},
 		{
 			"id": "diablos_apex",
-			"name": "الوحش العلوي ديابلوس"
+			"name": "首領角龍"
 		},
 		{
 			"id": "espinas",
-			"name": "إسبيناس"
+			"name": "棘龍"
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "إسبيناس المشتعل"
+			"name": "棘茶龍"
 		},
 		{
 			"id": "gaismagorm",
-			"name": "جيزماجورم"
+			"name": "冥淵龍"
 		},
 		{
 			"id": "garangolm",
-			"name": "جارانجولم"
+			"name": "剛纏獸"
 		},
 		{
 			"id": "gore_magala",
-			"name": "جور ماجالا"
+			"name": "黑蝕龍"
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"name": "جور ماجالا فوضوي"
+			"name": "混沌黑蝕龍"
 		},
 		{
 			"id": "goss_harag",
-			"name": "جوس هراج"
+			"name": "雪鬼獸"
 		},
 		{
 			"id": "great_baggi",
-			"name": "باجي العظيم"
+			"name": "眠狗龍王"
 		},
 		{
 			"id": "great_izuchi",
-			"name": "إيزوتشي العظيم"
+			"name": "鐮鼬龍王"
 		},
 		{
 			"id": "great_wroggi",
-			"name": "روجي العظيم"
+			"name": "毒狗龍王"
 		},
 		{
 			"id": "jyuratodus",
-			"name": "جيوراتودوس"
+			"name": "泥魚龍"
 		},
 		{
 			"id": "khezu",
-			"name": "خيزو"
+			"name": "奇怪龍"
 		},
 		{
 			"id": "kulu_ya_ku",
-			"name": "كولو-يا-كو"
+			"name": "搔鳥"
 		},
 		{
 			"id": "kushala_daora",
-			"name": "كوشالا داورا"
+			"name": "鋼龍"
 		},
 		{
 			"id": "kushala_daora_risen",
-			"name": "كوشالا داورا رايزن"
+			"name": "鋼龍（傀異克服）"
 		},
 		{
 			"id": "lagombi",
-			"name": "لاجومبي"
+			"name": "白兔獸"
 		},
 		{
 			"id": "lunagaron",
-			"name": "لوناجارون"
+			"name": "冰狼龍"
 		},
 		{
 			"id": "magnamalo",
-			"name": "ماجنامالو"
+			"name": "怨虎龍"
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "ماجنامالو الساخط"
+			"name": "嗟怨轟天怨虎龍"
 		},
 		{
 			"id": "malzeno",
-			"name": "مالزينو"
+			"name": "爵銀龍"
 		},
 		{
 			"id": "malzeno_primordial",
-			"name": "مالزينو الأصلي"
+			"name": "原初爵銀龍"
 		},
 		{
 			"id": "mizutsune",
-			"name": "ميزوتسوني"
+			"name": "泡狐龍"
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "ميزوتسوني البنفسجي"
+			"name": "焰狐龍"
 		},
 		{
 			"id": "mizutsune_apex",
-			"name": "الوحش العلوي ميزوتسوني"
+			"name": "首領泡狐龍"
 		},
 		{
 			"id": "nargacuga",
-			"name": "نارجاكوجا"
+			"name": "迅龍"
 		},
 		{
 			"id": "nargacuga_lucent",
-			"name": "نارجاكوجا المتوهج"
+			"name": "月迅龍"
 		},
 		{
 			"id": "pukei_pukei",
-			"name": "بوكي-بوكي"
+			"name": "毒妖鳥"
 		},
 		{
 			"id": "rajang",
-			"name": "راجانج"
+			"name": "金獅子"
 		},
 		{
 			"id": "rajang_furious",
-			"name": "راجانج الغاضب"
+			"name": "激昂金獅子"
 		},
 		{
 			"id": "rakna_kadaki",
-			"name": "راكنا-كاداكي"
+			"name": "妃蜘蛛"
 		},
 		{
 			"id": "rakna_kadaki_pyre",
-			"name": "راكنا-كاداكي الحارق"
+			"name": "熾妃蜘蛛"
 		},
 		{
 			"id": "rathalos",
-			"name": "راذالوس"
+			"name": "火龍"
 		},
 		{
 			"id": "rathalos_silver",
-			"name": "راذالوس فضي"
+			"name": "銀火龍"
 		},
 		{
 			"id": "rathalos_apex",
-			"name": "الوحش العلوي راذالوس"
+			"name": "首領火龍"
 		},
 		{
 			"id": "rathian",
-			"name": "راثيان"
+			"name": "雌火龍"
 		},
 		{
 			"id": "rathian_gold",
-			"name": "راثيان ذهبي"
+			"name": "金火龍"
 		},
 		{
 			"id": "rathian_apex",
-			"name": "الوحش العلوي راثيان"
+			"name": "首領雌火龍"
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "لودروث الملكي"
+			"name": "水獸"
 		},
 		{
 			"id": "seregios",
-			"name": "سيريجوس"
+			"name": "千刃龍"
 		},
 		{
 			"id": "shagaru_magala",
-			"name": "شاجارو ماجالا"
+			"name": "天迴龍"
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"name": "شاجارو ماجالا رايزن"
+			"name": "天迴龍（傀異克服）"
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "شوغون قنطور"
+			"name": "將軍蟹"
 		},
 		{
 			"id": "somnacanth",
-			"name": "سومناكانث"
+			"name": "人魚龍"
 		},
 		{
 			"id": "somnacanth_aurora",
-			"name": "أورورا سومناكانث"
+			"name": "冰人魚龍"
 		},
 		{
 			"id": "teostra",
-			"name": "تيوسترا"
+			"name": "炎王龍"
 		},
 		{
 			"id": "teostra_risen",
-			"name": "تيوسترا رايزن"
+			"name": "炎王龍（傀異克服）"
 		},
 		{
 			"id": "tetranadon",
-			"name": "تيترانادون"
+			"name": "河童蛙"
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "ناروا أفعى الرعد"
+			"name": "雷神龍"
 		},
 		{
 			"id": "narwa_allmother",
-			"name": "ناروا العملاقة"
+			"name": "百龍之源雷神龍"
 		},
 		{
 			"id": "tigrex",
-			"name": "تجريكس"
+			"name": "轟龍"
 		},
 		{
 			"id": "tobi_kadachi",
-			"name": "توبي كاداتشي"
+			"name": "飛雷龍"
 		},
 		{
 			"id": "valstrax_crimson_glow",
-			"name": "فالستراكس قرمزي لامع"
+			"name": "秘紅赫耀的天彗龍"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
-			"name": "فالستراكس قرمزي لامع رايزن"
+			"name": "秘紅赫耀的天彗龍（傀異克服）"
 		},
 		{
 			"id": "velkhana",
-			"name": "فيلكانا"
+			"name": "冰呪龍"
 		},
 		{
 			"id": "volvidon",
-			"name": "فولفيدون"
+			"name": "赤甲獸"
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "أفعى الرياح إيبوشي"
+			"name": "風神龍"
 		},
 		{
 			"id": "zinogre",
-			"name": "زينجر"
+			"name": "雷狼龍"
 		},
 		{
 			"id": "zinogre_apex",
-			"name": "الوحش العلوي زينجر"
+			"name": "首領雷狼龍"
 		}
 	],
 	"states": {

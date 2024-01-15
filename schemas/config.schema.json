@@ -1,0 +1,36 @@
+{
+	"title": "Config Data",
+	"type": "object",
+	"properties": {
+		"version": {
+			"title": "Format Version",
+			"type": "integer",
+			"minimum": 1
+		},
+		"languages": {
+			"title": "Array of Language",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Language",
+				"type": "string",
+				"minLength": 1
+			}
+		},
+		"games": {
+			"title": "Array of Game",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "Game",
+				"type": "string",
+				"minLength": 1
+			}
+		}
+	},
+	"required": [
+		"version",
+		"games",
+		"languages"
+	]
+}

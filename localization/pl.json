@@ -1,4 +1,11 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
@@ -26,7 +33,7 @@
 		},
 		{
 			"id": "arzuros_apex",
-			"name": "Apex Arzuros"
+			"name": "Apeks Arzuros"
 		},
 		{
 			"id": "astalos",
@@ -46,11 +53,11 @@
 		},
 		{
 			"id": "bazelgeuse",
-			"name": "Bazelgeuse"
+			"name": "Bazelgez"
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "Seething Bazelgeuse"
+			"name": "Rozzłoszczony Bazelgez"
 		},
 		{
 			"id": "bishaten",
@@ -58,7 +65,7 @@
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "Blood Orange Bishaten"
+			"name": "Krwistopomarań. Bishaten"
 		},
 		{
 			"id": "chameleos",
@@ -66,7 +73,7 @@
 		},
 		{
 			"id": "chameleos_risen",
-			"name": "Risen Chameleos"
+			"name": "Wzniesiony Chameleos"
 		},
 		{
 			"id": "daimyo_hermitaur",
@@ -78,7 +85,7 @@
 		},
 		{
 			"id": "diablos_apex",
-			"name": "Apex Diablos"
+			"name": "Apeks Diablos"
 		},
 		{
 			"id": "espinas",
@@ -86,7 +93,7 @@
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "Flaming Espinas"
+			"name": "Płomienny Espinas"
 		},
 		{
 			"id": "gaismagorm",
@@ -102,7 +109,7 @@
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"name": "Chaotic Gore Magala"
+			"name": "Chaotyczny Gore Magala"
 		},
 		{
 			"id": "goss_harag",
@@ -110,15 +117,15 @@
 		},
 		{
 			"id": "great_baggi",
-			"name": "Great Baggi"
+			"name": "Wielki Baggi"
 		},
 		{
 			"id": "great_izuchi",
-			"name": "Great Izuchi"
+			"name": "Wielki Izuchi"
 		},
 		{
 			"id": "great_wroggi",
-			"name": "Great Wroggi"
+			"name": "Wielki Wroggi"
 		},
 		{
 			"id": "jyuratodus",
@@ -138,7 +145,7 @@
 		},
 		{
 			"id": "kushala_daora_risen",
-			"name": "Risen Kushala Daora"
+			"name": "Wzniesiona Kushala Daora"
 		},
 		{
 			"id": "lagombi",
@@ -154,7 +161,7 @@
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "Scorned Magnamalo"
+			"name": "Pogardzany Magnamalo"
 		},
 		{
 			"id": "malzeno",
@@ -162,7 +169,7 @@
 		},
 		{
 			"id": "malzeno_primordial",
-			"name": "Primordial Malzeno"
+			"name": "Pierwotny Malzeno"
 		},
 		{
 			"id": "mizutsune",
@@ -170,19 +177,19 @@
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "Violet Mizutsune"
+			"name": "Fioletowy Mizutsune"
 		},
 		{
 			"id": "mizutsune_apex",
-			"name": "Apex Mizutsune"
+			"name": "Apeks Mizutsune"
 		},
 		{
 			"id": "nargacuga",
-			"name": "Nargacuga"
+			"name": "Nargacug"
 		},
 		{
 			"id": "nargacuga_lucent",
-			"name": "Lucent Nargacuga"
+			"name": "Lśniący Nargacug"
 		},
 		{
 			"id": "pukei_pukei",
@@ -194,7 +201,7 @@
 		},
 		{
 			"id": "rajang_furious",
-			"name": "Furious Rajang"
+			"name": "Wściekły Rajang"
 		},
 		{
 			"id": "rakna_kadaki",
@@ -210,27 +217,27 @@
 		},
 		{
 			"id": "rathalos_silver",
-			"name": "Silver Rathalos"
+			"name": "Srebrny Rathalos"
 		},
 		{
 			"id": "rathalos_apex",
-			"name": "Apex Rathalos"
+			"name": "Apeks Rathalos"
 		},
 		{
 			"id": "rathian",
-			"name": "Rathian"
+			"name": "Rathiana"
 		},
 		{
 			"id": "rathian_gold",
-			"name": "Gold Rathian"
+			"name": "Złota Rathiana"
 		},
 		{
 			"id": "rathian_apex",
-			"name": "Apex Rathian"
+			"name": "Apeks Rathiana"
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "Royal Ludroth"
+			"name": "Ludroth Królewski"
 		},
 		{
 			"id": "seregios",
@@ -242,11 +249,11 @@
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"name": "Risen Shagaru Magala"
+			"name": "Wzniesiony Shagaru Magala"
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "Shogun Ceanataur"
+			"name": "Szogun Ceanataur"
 		},
 		{
 			"id": "somnacanth",
@@ -262,7 +269,7 @@
 		},
 		{
 			"id": "teostra_risen",
-			"name": "Risen Teostra"
+			"name": "Wzniesiona Teostra"
 		},
 		{
 			"id": "tetranadon",
@@ -270,11 +277,11 @@
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "Thunder Serpent Narwa"
+			"name": "Wąż Grzmotu Narwa"
 		},
 		{
 			"id": "narwa_allmother",
-			"name": "Narwa the Allmother"
+			"name": "Wszechmatka Narwa"
 		},
 		{
 			"id": "tigrex",
@@ -286,15 +293,15 @@
 		},
 		{
 			"id": "valstrax_crimson_glow",
-			"name": "Crimson Glow Valstrax"
+			"name": "Karmazynowy Valstrax"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
-			"name": "Risen Crimson Glow Valstrax"
+			"name": "Wzniesiony Karmazynowy Valstrax"
 		},
 		{
 			"id": "velkhana",
-			"name": "Velkhana"
+			"name": "Velkhan"
 		},
 		{
 			"id": "volvidon",
@@ -302,50 +309,24 @@
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "Wind Serpent Ibushi"
+			"name": "Wąż Wiatru Ibushi"
 		},
 		{
 			"id": "zinogre",
-			"name": "Zinogre"
+			"name": "Zinogr"
 		},
 		{
 			"id": "zinogre_apex",
-			"name": "Apex Zinogre"
+			"name": "Apeks Zinogr"
 		}
 	],
 	"states": {
-		"default": "Default",
-		"blast": "Blast",
-		"bloodening": "Bloodening",
-		"bloodlust": "Bloodlust",
-		"broken": "Broken",
-		"charged": "Charged",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
-		"charging": "Charging",
-		"cocooning": "Cocooning",
-		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
-		"excited": "Excited",
-		"deposit": "Deposit",
-		"distending": "Distending",
-		"dragon_energy": "Dragon Energy",
-		"fiery": "Fiery",
-		"flame": "Flame",
 		"frenzy": "The Frenzy",
-		"glowing": "Glowing",
-		"guarding": "Guarding",
-		"hellfire": "Hellfire",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
-		"ice": "Ice",
-		"magma": "Magma",
-		"molten": "Molten",
-		"mud": "Mud",
-		"overheat": "Overheat",
-		"rolling": "Rolling",
-		"stealth": "Stealth",
-		"sleep": "Spontaneous Sleeping",
-		"wet": "Wet"
+		"sleep": "Spontaneous Sleeping"
 	}
 }

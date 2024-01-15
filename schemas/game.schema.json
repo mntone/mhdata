@@ -5,16 +5,7 @@
 		"id": {
 			"title": "Game ID",
 			"type": "string",
-			"minimum": 1
-		},
-		"localization": {
-			"title": "Array of Language",
-			"type": "array",
-			"minItems": 1,
-			"items": {
-				"title": "Language",
-				"type": "string"
-			}
+			"minLength": 1
 		},
 		"monsters": {
 			"title": "Array of Monster",
@@ -73,7 +64,6 @@
 	},
 	"required": [
 		"id",
-		"localization",
 		"monsters"
 	],
 	"additionalProperties": false,

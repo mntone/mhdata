@@ -1,316 +1,323 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
-			"name": "傘鳥"
+			"name": "Aknosom"
 		},
 		{
 			"id": "almudron",
-			"name": "泥翁龍"
+			"name": "Almudron"
 		},
 		{
 			"id": "almudron_magma",
-			"name": "熔翁龍"
+			"name": "Magmadron"
 		},
 		{
 			"id": "amatsu",
-			"name": "嵐龍"
+			"name": "Amatsu"
 		},
 		{
 			"id": "anjanath",
-			"name": "蠻顎龍"
+			"name": "Anjanath"
 		},
 		{
 			"id": "arzuros",
-			"name": "青熊獸"
+			"name": "Arzuros"
 		},
 		{
 			"id": "arzuros_apex",
-			"name": "首領青熊獸"
+			"name": "Apex-Arzuros"
 		},
 		{
 			"id": "astalos",
-			"name": "電龍"
+			"name": "Astalos"
 		},
 		{
 			"id": "barioth",
-			"name": "冰牙龍"
+			"name": "Barioth"
 		},
 		{
 			"id": "barroth",
-			"name": "土砂龍"
+			"name": "Barroth"
 		},
 		{
 			"id": "basarios",
-			"name": "岩龍"
+			"name": "Basarios"
 		},
 		{
 			"id": "bazelgeuse",
-			"name": "爆鱗龍"
+			"name": "Bazelgeuse"
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "紅蓮爆鱗龍"
+			"name": "Brodelnder Bazelgeuse"
 		},
 		{
 			"id": "bishaten",
-			"name": "天狗獸"
+			"name": "Bishaten"
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "緋天狗獸"
+			"name": "Blut-Bishaten"
 		},
 		{
 			"id": "chameleos",
-			"name": "霞龍"
+			"name": "Chameleos"
 		},
 		{
 			"id": "chameleos_risen",
-			"name": "霞龍（傀異克服）"
+			"name": "Erhobener Chameleos"
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "大名蟹"
+			"name": "Daimyo Hermitaur"
 		},
 		{
 			"id": "diablos",
-			"name": "角龍"
+			"name": "Diablos"
 		},
 		{
 			"id": "diablos_apex",
-			"name": "首領角龍"
+			"name": "Apex-Diablos"
 		},
 		{
 			"id": "espinas",
-			"name": "棘龍"
+			"name": "Espinas"
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "棘茶龍"
+			"name": "Flammen-Espinas"
 		},
 		{
 			"id": "gaismagorm",
-			"name": "冥淵龍"
+			"name": "Gaismagorm"
 		},
 		{
 			"id": "garangolm",
-			"name": "剛纏獸"
+			"name": "Garangolm"
 		},
 		{
 			"id": "gore_magala",
-			"name": "黑蝕龍"
+			"name": "Gore Magala"
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"name": "混沌黑蝕龍"
+			"name": "Chaotischer Gore Magala"
 		},
 		{
 			"id": "goss_harag",
-			"name": "雪鬼獸"
+			"name": "Goss Harag"
 		},
 		{
 			"id": "great_baggi",
-			"name": "眠狗龍王"
+			"name": "Großbaggi"
 		},
 		{
 			"id": "great_izuchi",
-			"name": "鐮鼬龍王"
+			"name": "Groß-Izuchi"
 		},
 		{
 			"id": "great_wroggi",
-			"name": "毒狗龍王"
+			"name": "Groß-Wroggi"
 		},
 		{
 			"id": "jyuratodus",
-			"name": "泥魚龍"
+			"name": "Jyuratodus"
 		},
 		{
 			"id": "khezu",
-			"name": "奇怪龍"
+			"name": "Khezu"
 		},
 		{
 			"id": "kulu_ya_ku",
-			"name": "搔鳥"
+			"name": "Kulu-Ya-Ku"
 		},
 		{
 			"id": "kushala_daora",
-			"name": "鋼龍"
+			"name": "Kushala Daora"
 		},
 		{
 			"id": "kushala_daora_risen",
-			"name": "鋼龍（傀異克服）"
+			"name": "Erhobener Kushala Daora"
 		},
 		{
 			"id": "lagombi",
-			"name": "白兔獸"
+			"name": "Lagombi"
 		},
 		{
 			"id": "lunagaron",
-			"name": "冰狼龍"
+			"name": "Lunagaron"
 		},
 		{
 			"id": "magnamalo",
-			"name": "怨虎龍"
+			"name": "Magnamalo"
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "嗟怨轟天怨虎龍"
+			"name": "Tobender Magnamalo"
 		},
 		{
 			"id": "malzeno",
-			"name": "爵銀龍"
+			"name": "Malzeno"
 		},
 		{
 			"id": "malzeno_primordial",
-			"name": "原初爵銀龍"
+			"name": "Ur-Malzeno"
 		},
 		{
 			"id": "mizutsune",
-			"name": "泡狐龍"
+			"name": "Mizutsune"
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "焰狐龍"
+			"name": "Purpur-Mizutsune"
 		},
 		{
 			"id": "mizutsune_apex",
-			"name": "首領泡狐龍"
+			"name": "Apex-Mizutsune"
 		},
 		{
 			"id": "nargacuga",
-			"name": "迅龍"
+			"name": "Nargacuga"
 		},
 		{
 			"id": "nargacuga_lucent",
-			"name": "月迅龍"
+			"name": "Mondlicht-Nargacuga"
 		},
 		{
 			"id": "pukei_pukei",
-			"name": "毒妖鳥"
+			"name": "Pukei-Pukei"
 		},
 		{
 			"id": "rajang",
-			"name": "金獅子"
+			"name": "Rajang"
 		},
 		{
 			"id": "rajang_furious",
-			"name": "激昂金獅子"
+			"name": "Zorniger Rajang"
 		},
 		{
 			"id": "rakna_kadaki",
-			"name": "妃蜘蛛"
+			"name": "Rakna-Kadaki"
 		},
 		{
 			"id": "rakna_kadaki_pyre",
-			"name": "熾妃蜘蛛"
+			"name": "Pyro-Kadaki"
 		},
 		{
 			"id": "rathalos",
-			"name": "火龍"
+			"name": "Rathalos"
 		},
 		{
 			"id": "rathalos_silver",
-			"name": "銀火龍"
+			"name": "Silberner Rathalos"
 		},
 		{
 			"id": "rathalos_apex",
-			"name": "首領火龍"
+			"name": "Apex-Rathalos"
 		},
 		{
 			"id": "rathian",
-			"name": "雌火龍"
+			"name": "Rathian"
 		},
 		{
 			"id": "rathian_gold",
-			"name": "金火龍"
+			"name": "Goldene Rathian"
 		},
 		{
 			"id": "rathian_apex",
-			"name": "首領雌火龍"
+			"name": "Apex-Rathian"
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "水獸"
+			"name": "Königs-Ludroth"
 		},
 		{
 			"id": "seregios",
-			"name": "千刃龍"
+			"name": "Seregios"
 		},
 		{
 			"id": "shagaru_magala",
-			"name": "天迴龍"
+			"name": "Shagaru Magala"
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"name": "天迴龍（傀異克服）"
+			"name": "Erhobener Shagaru Magala"
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "將軍蟹"
+			"name": "Shogun Ceanataur"
 		},
 		{
 			"id": "somnacanth",
-			"name": "人魚龍"
+			"name": "Somnacanth"
 		},
 		{
 			"id": "somnacanth_aurora",
-			"name": "冰人魚龍"
+			"name": "Auroracanth"
 		},
 		{
 			"id": "teostra",
-			"name": "炎王龍"
+			"name": "Teostra"
 		},
 		{
 			"id": "teostra_risen",
-			"name": "炎王龍（傀異克服）"
+			"name": "Erhobener Teostra"
 		},
 		{
 			"id": "tetranadon",
-			"name": "河童蛙"
+			"name": "Tetranadon"
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "雷神龍"
+			"name": "Donnerschlange Narwa"
 		},
 		{
 			"id": "narwa_allmother",
-			"name": "百龍之源雷神龍"
+			"name": "Narwa die Allmutter"
 		},
 		{
 			"id": "tigrex",
-			"name": "轟龍"
+			"name": "Tigrex"
 		},
 		{
 			"id": "tobi_kadachi",
-			"name": "飛雷龍"
+			"name": "Tobi-Kadachi"
 		},
 		{
 			"id": "valstrax_crimson_glow",
-			"name": "秘紅赫耀的天彗龍"
+			"name": "Karmesin-Valstrax"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
-			"name": "秘紅赫耀的天彗龍（傀異克服）"
+			"name": "Erhobener Karmesin-Valstrax"
 		},
 		{
 			"id": "velkhana",
-			"name": "冰呪龍"
+			"name": "Velkhana"
 		},
 		{
 			"id": "volvidon",
-			"name": "赤甲獸"
+			"name": "Volvidon"
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "風神龍"
+			"name": "Windschlange Ibushi"
 		},
 		{
 			"id": "zinogre",
-			"name": "雷狼龍"
+			"name": "Zinogre"
 		},
 		{
 			"id": "zinogre_apex",
-			"name": "首領雷狼龍"
+			"name": "Apex-Zinogre"
 		}
 	],
 	"states": {

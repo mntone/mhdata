@@ -1,4 +1,11 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
@@ -10,7 +17,7 @@
 		},
 		{
 			"id": "almudron_magma",
-			"name": "Almudron de Magma"
+			"name": "Magma Almudron"
 		},
 		{
 			"id": "amatsu",
@@ -26,7 +33,7 @@
 		},
 		{
 			"id": "arzuros_apex",
-			"name": "Arzuros Alfa"
+			"name": "Apex Arzuros"
 		},
 		{
 			"id": "astalos",
@@ -50,7 +57,7 @@
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "Bazelgeuse Vulcânico"
+			"name": "Seething Bazelgeuse"
 		},
 		{
 			"id": "bishaten",
@@ -58,7 +65,7 @@
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "Bishaten Laranja"
+			"name": "Blood Orange Bishaten"
 		},
 		{
 			"id": "chameleos",
@@ -66,11 +73,11 @@
 		},
 		{
 			"id": "chameleos_risen",
-			"name": "Chameleos Erguido"
+			"name": "Risen Chameleos"
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "Hermitaur Daimyo"
+			"name": "Daimyo Hermitaur"
 		},
 		{
 			"id": "diablos",
@@ -78,7 +85,7 @@
 		},
 		{
 			"id": "diablos_apex",
-			"name": "Diablos Alfa"
+			"name": "Apex Diablos"
 		},
 		{
 			"id": "espinas",
@@ -86,7 +93,7 @@
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "Espinas Flamejante"
+			"name": "Flaming Espinas"
 		},
 		{
 			"id": "gaismagorm",
@@ -102,7 +109,7 @@
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"name": "Gore Magala Caótico"
+			"name": "Chaotic Gore Magala"
 		},
 		{
 			"id": "goss_harag",
@@ -110,15 +117,15 @@
 		},
 		{
 			"id": "great_baggi",
-			"name": "Grande Baggi"
+			"name": "Great Baggi"
 		},
 		{
 			"id": "great_izuchi",
-			"name": "Grande Izuchi"
+			"name": "Great Izuchi"
 		},
 		{
 			"id": "great_wroggi",
-			"name": "Grande Wroggi"
+			"name": "Great Wroggi"
 		},
 		{
 			"id": "jyuratodus",
@@ -138,7 +145,7 @@
 		},
 		{
 			"id": "kushala_daora_risen",
-			"name": "Kushala Daora Erguido"
+			"name": "Risen Kushala Daora"
 		},
 		{
 			"id": "lagombi",
@@ -154,7 +161,7 @@
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "Magnamalo Desprezível"
+			"name": "Scorned Magnamalo"
 		},
 		{
 			"id": "malzeno",
@@ -162,7 +169,7 @@
 		},
 		{
 			"id": "malzeno_primordial",
-			"name": "Malzeno Primordial"
+			"name": "Primordial Malzeno"
 		},
 		{
 			"id": "mizutsune",
@@ -170,11 +177,11 @@
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "Mizutsune Violeta"
+			"name": "Violet Mizutsune"
 		},
 		{
 			"id": "mizutsune_apex",
-			"name": "Mizutsune Alfa"
+			"name": "Apex Mizutsune"
 		},
 		{
 			"id": "nargacuga",
@@ -182,7 +189,7 @@
 		},
 		{
 			"id": "nargacuga_lucent",
-			"name": "Nargacuga Luzente"
+			"name": "Lucent Nargacuga"
 		},
 		{
 			"id": "pukei_pukei",
@@ -194,7 +201,7 @@
 		},
 		{
 			"id": "rajang_furious",
-			"name": "Rajang Furioso"
+			"name": "Furious Rajang"
 		},
 		{
 			"id": "rakna_kadaki",
@@ -202,7 +209,7 @@
 		},
 		{
 			"id": "rakna_kadaki_pyre",
-			"name": "Rakna-Kadaki Pírico"
+			"name": "Pyre Rakna-Kadaki"
 		},
 		{
 			"id": "rathalos",
@@ -210,11 +217,11 @@
 		},
 		{
 			"id": "rathalos_silver",
-			"name": "Rathalos Prateado"
+			"name": "Silver Rathalos"
 		},
 		{
 			"id": "rathalos_apex",
-			"name": "Rathalos Alfa"
+			"name": "Apex Rathalos"
 		},
 		{
 			"id": "rathian",
@@ -222,15 +229,15 @@
 		},
 		{
 			"id": "rathian_gold",
-			"name": "Rathian Dourada"
+			"name": "Gold Rathian"
 		},
 		{
 			"id": "rathian_apex",
-			"name": "Rathian Alfa"
+			"name": "Apex Rathian"
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "Ludroth Real"
+			"name": "Royal Ludroth"
 		},
 		{
 			"id": "seregios",
@@ -242,11 +249,11 @@
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"name": "Shagaru Magala Erguido"
+			"name": "Risen Shagaru Magala"
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "Ceanataur Xogum"
+			"name": "Shogun Ceanataur"
 		},
 		{
 			"id": "somnacanth",
@@ -262,7 +269,7 @@
 		},
 		{
 			"id": "teostra_risen",
-			"name": "Teostra Erguido"
+			"name": "Risen Teostra"
 		},
 		{
 			"id": "tetranadon",
@@ -270,11 +277,11 @@
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "Serpente do Trovão Narwa"
+			"name": "Thunder Serpent Narwa"
 		},
 		{
 			"id": "narwa_allmother",
-			"name": "Narwa, a Matriarca"
+			"name": "Narwa the Allmother"
 		},
 		{
 			"id": "tigrex",
@@ -286,11 +293,11 @@
 		},
 		{
 			"id": "valstrax_crimson_glow",
-			"name": "Valstrax do Lume Rubro"
+			"name": "Crimson Glow Valstrax"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
-			"name": "Valstrax do Lume Rubro Erguido"
+			"name": "Risen Crimson Glow Valstrax"
 		},
 		{
 			"id": "velkhana",
@@ -302,7 +309,7 @@
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "Serpente do Vento Ibushi"
+			"name": "Wind Serpent Ibushi"
 		},
 		{
 			"id": "zinogre",
@@ -310,16 +317,42 @@
 		},
 		{
 			"id": "zinogre_apex",
-			"name": "Zinogre Alfa"
+			"name": "Apex Zinogre"
 		}
 	],
 	"states": {
+		"default": "Default",
+		"blast": "Blast",
+		"bloodening": "Bloodening",
+		"bloodlust": "Bloodlust",
+		"broken": "Broken",
+		"charged": "Charged",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"charging": "Charging",
+		"cocooning": "Cocooning",
+		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
+		"excited": "Excited",
+		"deposit": "Deposit",
+		"distending": "Distending",
+		"dragon_energy": "Dragon Energy",
+		"fiery": "Fiery",
+		"flame": "Flame",
 		"frenzy": "The Frenzy",
+		"glowing": "Glowing",
+		"guarding": "Guarding",
+		"hellfire": "Hellfire",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
-		"sleep": "Spontaneous Sleeping"
+		"ice": "Ice",
+		"magma": "Magma",
+		"molten": "Molten",
+		"mud": "Mud",
+		"overheat": "Overheat",
+		"rolling": "Rolling",
+		"stealth": "Stealth",
+		"sleep": "Spontaneous Sleeping",
+		"wet": "Wet"
 	}
 }

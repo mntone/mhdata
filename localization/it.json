@@ -1,4 +1,11 @@
 {
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
 	"monsters": [
 		{
 			"id": "aknosom",
@@ -10,7 +17,7 @@
 		},
 		{
 			"id": "almudron_magma",
-			"name": "Almudron Magma"
+			"name": "Almudron lavico"
 		},
 		{
 			"id": "amatsu",
@@ -50,7 +57,7 @@
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "Bazelgeuse Magma"
+			"name": "Bazelgeuse vulcanico"
 		},
 		{
 			"id": "bishaten",
@@ -58,7 +65,7 @@
 		},
 		{
 			"id": "bishaten_blood_orange",
-			"name": "Bishaten Sanguina"
+			"name": "Bishaten sanguigno"
 		},
 		{
 			"id": "chameleos",
@@ -66,11 +73,11 @@
 		},
 		{
 			"id": "chameleos_risen",
-			"name": "Chameleos elevado"
+			"name": "Chameleos risorto"
 		},
 		{
 			"id": "daimyo_hermitaur",
-			"name": "Daimyo Ermitauro"
+			"name": "Daimyo Hermitaur"
 		},
 		{
 			"id": "diablos",
@@ -86,7 +93,7 @@
 		},
 		{
 			"id": "espinas_flaming",
-			"name": "Espinas Ígneo"
+			"name": "Espinas ardente"
 		},
 		{
 			"id": "gaismagorm",
@@ -102,7 +109,7 @@
 		},
 		{
 			"id": "gore_magala_chaotic",
-			"name": "Gore Magala caótico"
+			"name": "Gore Magala caotico"
 		},
 		{
 			"id": "goss_harag",
@@ -138,7 +145,7 @@
 		},
 		{
 			"id": "kushala_daora_risen",
-			"name": "Kushala Daora elevado"
+			"name": "Kushala Daora risorto"
 		},
 		{
 			"id": "lagombi",
@@ -154,7 +161,7 @@
 		},
 		{
 			"id": "magnamalo_scorned",
-			"name": "Magnamalo Infame"
+			"name": "Magnamalo astioso"
 		},
 		{
 			"id": "malzeno",
@@ -162,7 +169,7 @@
 		},
 		{
 			"id": "malzeno_primordial",
-			"name": "Malzeno primordial"
+			"name": "Malzeno primordiale"
 		},
 		{
 			"id": "mizutsune",
@@ -170,7 +177,7 @@
 		},
 		{
 			"id": "mizutsune_violet",
-			"name": "Mizutsune Morado"
+			"name": "Mizutsune viola"
 		},
 		{
 			"id": "mizutsune_apex",
@@ -182,7 +189,7 @@
 		},
 		{
 			"id": "nargacuga_lucent",
-			"name": "Nargacuga Lunar"
+			"name": "Nargacuga iridescente"
 		},
 		{
 			"id": "pukei_pukei",
@@ -194,7 +201,7 @@
 		},
 		{
 			"id": "rajang_furious",
-			"name": "Rajang Furioso"
+			"name": "Rajang furioso"
 		},
 		{
 			"id": "rakna_kadaki",
@@ -202,7 +209,7 @@
 		},
 		{
 			"id": "rakna_kadaki_pyre",
-			"name": "Rakna-Kadaki Pira"
+			"name": "Rakna-Kadaki igneo"
 		},
 		{
 			"id": "rathalos",
@@ -210,7 +217,7 @@
 		},
 		{
 			"id": "rathalos_silver",
-			"name": "Rathalos Plateado"
+			"name": "Rathalos argentato"
 		},
 		{
 			"id": "rathalos_apex",
@@ -222,7 +229,7 @@
 		},
 		{
 			"id": "rathian_gold",
-			"name": "Rathian Dorada"
+			"name": "Rathian dorata"
 		},
 		{
 			"id": "rathian_apex",
@@ -230,7 +237,7 @@
 		},
 		{
 			"id": "royal_ludroth",
-			"name": "Ludroth Real"
+			"name": "Ludroth reale"
 		},
 		{
 			"id": "seregios",
@@ -242,11 +249,11 @@
 		},
 		{
 			"id": "shagaru_magala_risen",
-			"name": "Shagaru Magala elevado"
+			"name": "Shagaru Magala risorto"
 		},
 		{
 			"id": "shogun_ceanataur",
-			"name": "Shogun Ceanatauro"
+			"name": "Shogun Ceanataur"
 		},
 		{
 			"id": "somnacanth",
@@ -254,7 +261,7 @@
 		},
 		{
 			"id": "somnacanth_aurora",
-			"name": "Somnacanth Aurora"
+			"name": "Somnacanth fulgido"
 		},
 		{
 			"id": "teostra",
@@ -262,7 +269,7 @@
 		},
 		{
 			"id": "teostra_risen",
-			"name": "Teostra elevado"
+			"name": "Teostra risorto"
 		},
 		{
 			"id": "tetranadon",
@@ -270,11 +277,11 @@
 		},
 		{
 			"id": "thunder_serpent_narwa",
-			"name": "Narwa del trueno"
+			"name": "Narwa del tuono"
 		},
 		{
 			"id": "narwa_allmother",
-			"name": "Narwa la creadora"
+			"name": "Narwa la creatrice"
 		},
 		{
 			"id": "tigrex",
@@ -286,11 +293,11 @@
 		},
 		{
 			"id": "valstrax_crimson_glow",
-			"name": "Valstrax Carmesí"
+			"name": "Valstrax cremisi"
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
-			"name": "Valstrax Carmesí elevado"
+			"name": "Valstrax cremisi risorto"
 		},
 		{
 			"id": "velkhana",
@@ -302,7 +309,7 @@
 		},
 		{
 			"id": "wind_serpent_ibushi",
-			"name": "Ibushi del viento"
+			"name": "Ibushi del vento"
 		},
 		{
 			"id": "zinogre",

@@ -13,8 +13,8 @@
 						"default"
 					],
 					"slash": 75,
-					"strike": 65,
-					"shell": 60,
+					"impact": 65,
+					"shot": 60,
 					"fire": 40,
 					"water": 20,
 					"thunder": 20,
@@ -34,8 +34,8 @@
 						"default"
 					],
 					"slash": 50,
-					"strike": 50,
-					"shell": 40,
+					"impact": 50,
+					"shot": 40,
 					"fire": 40,
 					"water": 20,
 					"thunder": 20,

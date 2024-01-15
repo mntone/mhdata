@@ -1,0 +1,332 @@
+{
+	"games": [
+		{
+			"id": "mhrise",
+			"name": "Rise / Sunbreak",
+			"full_name": "Monster Hunter Rise / Sunbreak"
+		}
+	],
+	"monsters": [
+		{
+			"id": "aknosom",
+			"name": "أكنوسوم"
+		},
+		{
+			"id": "almudron",
+			"name": "ألمودرون"
+		},
+		{
+			"id": "almudron_magma",
+			"name": "ماجما ألمودرون"
+		},
+		{
+			"id": "amatsu",
+			"name": "أماتسو"
+		},
+		{
+			"id": "anjanath",
+			"name": "أنجاناث"
+		},
+		{
+			"id": "arzuros",
+			"name": "أرزوروس"
+		},
+		{
+			"id": "arzuros_apex",
+			"name": "الوحش العلوي أرزوروس"
+		},
+		{
+			"id": "astalos",
+			"name": "أستالوس"
+		},
+		{
+			"id": "barioth",
+			"name": "باريوث"
+		},
+		{
+			"id": "barroth",
+			"name": "باروث"
+		},
+		{
+			"id": "basarios",
+			"name": "باساريوس"
+		},
+		{
+			"id": "bazelgeuse",
+			"name": "بازيلجيس"
+		},
+		{
+			"id": "bazelgeuse_seething",
+			"name": "بازيلجيس الثائر"
+		},
+		{
+			"id": "bishaten",
+			"name": "بيشاتن"
+		},
+		{
+			"id": "bishaten_blood_orange",
+			"name": "بيشاتن ذو الدم البرتقالي"
+		},
+		{
+			"id": "chameleos",
+			"name": "تشامليوس"
+		},
+		{
+			"id": "chameleos_risen",
+			"name": "تشامليوس رايزن"
+		},
+		{
+			"id": "daimyo_hermitaur",
+			"name": "دايمياو هيرميتور"
+		},
+		{
+			"id": "diablos",
+			"name": "ديابلوس"
+		},
+		{
+			"id": "diablos_apex",
+			"name": "الوحش العلوي ديابلوس"
+		},
+		{
+			"id": "espinas",
+			"name": "إسبيناس"
+		},
+		{
+			"id": "espinas_flaming",
+			"name": "إسبيناس المشتعل"
+		},
+		{
+			"id": "gaismagorm",
+			"name": "جيزماجورم"
+		},
+		{
+			"id": "garangolm",
+			"name": "جارانجولم"
+		},
+		{
+			"id": "gore_magala",
+			"name": "جور ماجالا"
+		},
+		{
+			"id": "gore_magala_chaotic",
+			"name": "جور ماجالا فوضوي"
+		},
+		{
+			"id": "goss_harag",
+			"name": "جوس هراج"
+		},
+		{
+			"id": "great_baggi",
+			"name": "باجي العظيم"
+		},
+		{
+			"id": "great_izuchi",
+			"name": "إيزوتشي العظيم"
+		},
+		{
+			"id": "great_wroggi",
+			"name": "روجي العظيم"
+		},
+		{
+			"id": "jyuratodus",
+			"name": "جيوراتودوس"
+		},
+		{
+			"id": "khezu",
+			"name": "خيزو"
+		},
+		{
+			"id": "kulu_ya_ku",
+			"name": "كولو-يا-كو"
+		},
+		{
+			"id": "kushala_daora",
+			"name": "كوشالا داورا"
+		},
+		{
+			"id": "kushala_daora_risen",
+			"name": "كوشالا داورا رايزن"
+		},
+		{
+			"id": "lagombi",
+			"name": "لاجومبي"
+		},
+		{
+			"id": "lunagaron",
+			"name": "لوناجارون"
+		},
+		{
+			"id": "magnamalo",
+			"name": "ماجنامالو"
+		},
+		{
+			"id": "magnamalo_scorned",
+			"name": "ماجنامالو الساخط"
+		},
+		{
+			"id": "malzeno",
+			"name": "مالزينو"
+		},
+		{
+			"id": "malzeno_primordial",
+			"name": "مالزينو الأصلي"
+		},
+		{
+			"id": "mizutsune",
+			"name": "ميزوتسوني"
+		},
+		{
+			"id": "mizutsune_violet",
+			"name": "ميزوتسوني البنفسجي"
+		},
+		{
+			"id": "mizutsune_apex",
+			"name": "الوحش العلوي ميزوتسوني"
+		},
+		{
+			"id": "nargacuga",
+			"name": "نارجاكوجا"
+		},
+		{
+			"id": "nargacuga_lucent",
+			"name": "نارجاكوجا المتوهج"
+		},
+		{
+			"id": "pukei_pukei",
+			"name": "بوكي-بوكي"
+		},
+		{
+			"id": "rajang",
+			"name": "راجانج"
+		},
+		{
+			"id": "rajang_furious",
+			"name": "راجانج الغاضب"
+		},
+		{
+			"id": "rakna_kadaki",
+			"name": "راكنا-كاداكي"
+		},
+		{
+			"id": "rakna_kadaki_pyre",
+			"name": "راكنا-كاداكي الحارق"
+		},
+		{
+			"id": "rathalos",
+			"name": "راذالوس"
+		},
+		{
+			"id": "rathalos_silver",
+			"name": "راذالوس فضي"
+		},
+		{
+			"id": "rathalos_apex",
+			"name": "الوحش العلوي راذالوس"
+		},
+		{
+			"id": "rathian",
+			"name": "راثيان"
+		},
+		{
+			"id": "rathian_gold",
+			"name": "راثيان ذهبي"
+		},
+		{
+			"id": "rathian_apex",
+			"name": "الوحش العلوي راثيان"
+		},
+		{
+			"id": "royal_ludroth",
+			"name": "لودروث الملكي"
+		},
+		{
+			"id": "seregios",
+			"name": "سيريجوس"
+		},
+		{
+			"id": "shagaru_magala",
+			"name": "شاجارو ماجالا"
+		},
+		{
+			"id": "shagaru_magala_risen",
+			"name": "شاجارو ماجالا رايزن"
+		},
+		{
+			"id": "shogun_ceanataur",
+			"name": "شوغون قنطور"
+		},
+		{
+			"id": "somnacanth",
+			"name": "سومناكانث"
+		},
+		{
+			"id": "somnacanth_aurora",
+			"name": "أورورا سومناكانث"
+		},
+		{
+			"id": "teostra",
+			"name": "تيوسترا"
+		},
+		{
+			"id": "teostra_risen",
+			"name": "تيوسترا رايزن"
+		},
+		{
+			"id": "tetranadon",
+			"name": "تيترانادون"
+		},
+		{
+			"id": "thunder_serpent_narwa",
+			"name": "ناروا أفعى الرعد"
+		},
+		{
+			"id": "narwa_allmother",
+			"name": "ناروا العملاقة"
+		},
+		{
+			"id": "tigrex",
+			"name": "تجريكس"
+		},
+		{
+			"id": "tobi_kadachi",
+			"name": "توبي كاداتشي"
+		},
+		{
+			"id": "valstrax_crimson_glow",
+			"name": "فالستراكس قرمزي لامع"
+		},
+		{
+			"id": "valstrax_crimson_glow_risen",
+			"name": "فالستراكس قرمزي لامع رايزن"
+		},
+		{
+			"id": "velkhana",
+			"name": "فيلكانا"
+		},
+		{
+			"id": "volvidon",
+			"name": "فولفيدون"
+		},
+		{
+			"id": "wind_serpent_ibushi",
+			"name": "أفعى الرياح إيبوشي"
+		},
+		{
+			"id": "zinogre",
+			"name": "زينجر"
+		},
+		{
+			"id": "zinogre_apex",
+			"name": "الوحش العلوي زينجر"
+		}
+	],
+	"states": {
+		"charged_electric": "Charged",
+		"charged_super": "Super Charged",
+		"enraged_super": "Super Enraged",
+		"frenzy": "The Frenzy",
+		"hellfire_concentrated": "Concentrated Hellfire",
+		"hellfire_raging": "Raging Hellfire",
+		"sleep": "Spontaneous Sleeping"
+	}
+}
