@@ -1,0 +1,12 @@
+{
+	"id": "mhrise",
+	"copyright": "© 2024 Kiranico",
+	"url": "https://mhworld.kiranico.com/",
+	"monsters": [
+		{
+			"id": "great_jagras",
+			"type": "fanged_wyvern",
+			"weakness": "F_t__"
+		}
+	]
+}

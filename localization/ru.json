@@ -1,6 +1,11 @@
 {
 	"games": [
 		{
+			"id": "mhworld",
+			"name": "World / Iceborne",
+			"full_name": "Monster Hunter World / Iceborne"
+		},
+		{
 			"id": "mhrise",
 			"name": "Rise / Sunbreak",
 			"full_name": "Monster Hunter Rise / Sunbreak"
@@ -122,6 +127,10 @@
 		{
 			"id": "great_izuchi",
 			"name": "Большой Идзути"
+		},
+		{
+			"id": "great_jagras",
+			"name": "Большой яграс"
 		},
 		{
 			"id": "great_wroggi",

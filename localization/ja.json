@@ -1,6 +1,11 @@
 {
 	"games": [
 		{
+			"id": "mhworld",
+			"name": "ワールド・アイスボーン",
+			"full_name": "モンスターハンターワールド・アイスボーン"
+		},
+		{
 			"id": "mhrise",
 			"name": "ライズ・サンブレイク",
 			"full_name": "モンスターハンターライズ・サンブレイク"
@@ -244,6 +249,11 @@
 			"keywords": [
 				"三位一体の鎌風"
 			]
+		},
+		{
+			"id": "great_jagras",
+			"name": "ドスジャグラス",
+			"another_name": "賊竜"
 		},
 		{
 			"id": "great_wroggi",
@@ -667,7 +677,6 @@
 		"enraged_super": "闘気硬化状態",
 		"excited": "興奮状態",
 		"deposit": "付着物纏い状態",
-		"distending": "膨腹状態",
 		"dragon_energy": "龍気解放状態",
 		"fiery": "赤熱化状態",
 		"flame": "劫炎状態",
@@ -678,6 +687,7 @@
 		"hellfire_concentrated": "一極鬼火状態",
 		"hellfire_raging": "二極鬼火状態",
 		"ice": "氷衣状態",
+		"inflated": "膨腹状態",
 		"magma": "岩漿纏い状態",
 		"molten": "溶熱状態",
 		"mud": "泥纏い時",

@@ -1,6 +1,11 @@
 {
 	"games": [
 		{
+			"id": "mhworld",
+			"name": "世界‧冰原",
+			"full_name": "魔物獵人 世界‧冰原"
+		},
+		{
 			"id": "mhrise",
 			"name": "崛起‧破曉",
 			"full_name": "魔物獵人 崛起‧破曉"
@@ -122,6 +127,10 @@
 		{
 			"id": "great_izuchi",
 			"name": "鐮鼬龍王"
+		},
+		{
+			"id": "great_jagras",
+			"name": "大凶豺龍"
 		},
 		{
 			"id": "great_wroggi",

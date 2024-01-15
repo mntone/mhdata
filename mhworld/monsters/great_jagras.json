@@ -1,0 +1,228 @@
+{
+	"id": "great_jagras",
+	"version": "15.11",
+	"type": "fanged_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 80,
+					"impact": 85,
+					"shot": 75,
+					"fire": 30,
+					"water": 0,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"default"
+					],
+					"slash": 65,
+					"impact": 70,
+					"shot": 60,
+					"fire": 30,
+					"water": 0,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 65,
+					"impact": 70,
+					"shot": 60,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"impact": 55,
+					"shot": 45,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"impact": 45,
+					"shot": 40,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"inflated"
+					],
+					"slash": 90,
+					"impact": 95,
+					"shot": 85,
+					"fire": 30,
+					"water": 0,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"inflated"
+					],
+					"slash": 70,
+					"impact": 75,
+					"shot": 65,
+					"fire": 30,
+					"water": 0,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 65,
+					"impact": 60,
+					"shot": 55,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"default"
+					],
+					"slash": 50,
+					"impact": 45,
+					"shot": 45,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"impact": 40,
+					"shot": 35,
+					"fire": 15,
+					"water": 0,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"impact": 40,
+					"shot": 35,
+					"fire": 15,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"states": [
+						"default"
+					],
+					"slash": 45,
+					"impact": 45,
+					"shot": 40,
+					"fire": 15,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

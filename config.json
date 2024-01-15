@@ -1,6 +1,7 @@
 {
 	"version": 3,
 	"games": [
+		"mhworld",
 		"mhrise"
 	],
 	"languages": [

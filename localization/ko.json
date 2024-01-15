@@ -1,6 +1,11 @@
 {
 	"games": [
 		{
+			"id": "mhworld",
+			"name": "월드 / 아이스본",
+			"full_name": "몬스터 헌터 월드 / 아이스본"
+		},
+		{
 			"id": "mhrise",
 			"name": "라이즈 / 선브레이크",
 			"full_name": "몬스터 헌터 라이즈 / 선브레이크"
@@ -122,6 +127,10 @@
 		{
 			"id": "great_izuchi",
 			"name": "오사이즈치"
+		},
+		{
+			"id": "great_jagras",
+			"name": "도스쟈그라스"
 		},
 		{
 			"id": "great_wroggi",

@@ -98,6 +98,13 @@
 							"title": "Physiology for State",
 							"type": "object",
 							"properties": {
+								"mode": {
+									"title": "Mode",
+									"type": "string",
+									"enum": [
+										"master"
+									]
+								},
 								"states": {
 									"title": "Array of State",
 									"type": "array",

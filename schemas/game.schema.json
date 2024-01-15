@@ -7,6 +7,16 @@
 			"type": "string",
 			"minLength": 1
 		},
+		"copyright": {
+			"title": "Copyright",
+			"type": "string",
+			"minLength": 1
+		},
+		"url": {
+			"title": "Source URL",
+			"type": "string",
+			"minLength": 1
+		},
 		"monsters": {
 			"title": "Array of Monster",
 			"type": "array",

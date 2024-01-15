@@ -1,6 +1,11 @@
 {
 	"games": [
 		{
+			"id": "mhworld",
+			"name": "World / Iceborne",
+			"full_name": "Monster Hunter World / Iceborne"
+		},
+		{
 			"id": "mhrise",
 			"name": "Rise / Sunbreak",
 			"full_name": "Monster Hunter Rise / Sunbreak"
@@ -122,6 +127,10 @@
 		{
 			"id": "great_izuchi",
 			"name": "Great Izuchi"
+		},
+		{
+			"id": "great_jagras",
+			"name": "Great Jagras"
 		},
 		{
 			"id": "great_wroggi",
@@ -335,7 +344,6 @@
 		"enraged_super": "Super Enraged",
 		"excited": "Excited",
 		"deposit": "Deposit",
-		"distending": "Distending",
 		"dragon_energy": "Dragon Energy",
 		"fiery": "Fiery",
 		"flame": "Flame",
@@ -346,6 +354,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"ice": "Ice",
+		"inflated": "Inflated",
 		"magma": "Magma",
 		"molten": "Molten",
 		"mud": "Mud",
