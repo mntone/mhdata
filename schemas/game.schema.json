@@ -83,7 +83,7 @@
 			"type": "string",
 			"minLength": 5,
 			"maxLength": 5,
-			"pattern": "^(F|f|_)(W|w|_)(T|t|_)(I|i|_)(D|d|_)$"
+			"pattern": "^(F|f|_| )(W|w|_| )(T|t|_| )(I|i|_| )(D|d|_| )$"
 		}
 	}
 }
