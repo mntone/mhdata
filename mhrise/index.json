@@ -4,51 +4,61 @@
 		{
 			"id": "great_izuchi",
 			"type": "bird_wyvern",
+			"size": 1075.1,
 			"weakness": "fwTi_"
 		},
 		{
 			"id": "great_baggi",
 			"type": "bird_wyvern",
+			"size": 1017.65,
 			"weakness": "Fwt  "
 		},
 		{
 			"id": "kulu_ya_ku",
 			"type": "bird_wyvern",
+			"size": 901.24,
 			"weakness": "fWtid"
 		},
 		{
 			"id": "great_wroggi",
 			"type": "bird_wyvern",
+			"size": 935.98,
 			"weakness": " w_I "
 		},
 		{
 			"id": "arzuros",
 			"type": "fanged_beast",
+			"size": 558.1,
 			"weakness": "F_ti "
 		},
 		{
 			"id": "lagombi",
 			"type": "fanged_beast",
+			"size": 525.11,
 			"weakness": "F t  "
 		},
 		{
 			"id": "volvidon",
 			"type": "fanged_beast",
+			"size": 687.29,
 			"weakness": " W_i "
 		},
 		{
 			"id": "aknosom",
 			"type": "bird_wyvern",
+			"size": 998.33,
 			"weakness": " Wt_ "
 		},
 		{
 			"id": "royal_ludroth",
 			"type": "leviathan",
+			"size": 1529.26,
 			"weakness": "F ___"
 		},
 		{
 			"id": "barroth",
 			"type": "brute_wyvern",
+			"size": 1383.07,
 			"weakness": {
 				"default": "F  i_",
 				"mud": " W i "
@@ -57,26 +67,31 @@
 		{
 			"id": "daimyo_hermitaur",
 			"type": "carapaceon",
+			"size": 495.95,
 			"weakness": "F_ti "
 		},
 		{
 			"id": "khezu",
 			"type": "flying_wyvern",
+			"size": 881.28,
 			"weakness": "F_ __"
 		},
 		{
 			"id": "tetranadon",
 			"type": "amphibian",
+			"size": 964.99,
 			"weakness": "f T__"
 		},
 		{
 			"id": "bishaten",
 			"type": "fanged_beast",
+			"size": 924.79,
 			"weakness": "_ _I "
 		},
 		{
 			"id": "bishaten_blood_orange",
 			"type": "fanged_beast",
+			"size": 924.79,
 			"linked_id": "bishaten",
 			"linked_index": 1,
 			"weakness": " W__ "
@@ -84,11 +99,13 @@
 		{
 			"id": "pukei_pukei",
 			"type": "bird_wyvern",
+			"size": 1102.45,
 			"weakness": "_ Ti_"
 		},
 		{
 			"id": "jyuratodus",
 			"type": "piscine_wyvern",
+			"size": 1508.71,
 			"weakness": {
 				"default": "_ T__",
 				"mud": "_W___"
@@ -97,16 +114,19 @@
 		{
 			"id": "basarios",
 			"type": "flying_wyvern",
+			"size": 1413.01,
 			"weakness": "fwtiD"
 		},
 		{
 			"id": "somnacanth",
 			"type": "leviathan",
+			"size": 1545,
 			"weakness": "f T  "
 		},
 		{
 			"id": "somnacanth_aurora",
 			"type": "leviathan",
+			"size": 1545,
 			"linked_id": "somnacanth",
 			"linked_index": 1,
 			"weakness": "F _  "
@@ -114,11 +134,13 @@
 		{
 			"id": "rathian",
 			"type": "flying_wyvern",
+			"size": 1754.37,
 			"weakness": " _t_D"
 		},
 		{
 			"id": "rathian_gold",
 			"type": "flying_wyvern",
+			"size": 1754.37,
 			"linked_id": "rathian",
 			"linked_index": 1,
 			"weakness": "_wT_ "
@@ -126,21 +148,25 @@
 		{
 			"id": "barioth",
 			"type": "flying_wyvern",
+			"size": 2091,
 			"weakness": "F__ _"
 		},
 		{
 			"id": "tobi_kadachi",
 			"type": "fanged_wyvern",
+			"size": 1300.52,
 			"weakness": "fW i_"
 		},
 		{
 			"id": "magnamalo",
 			"type": "fanged_wyvern",
+			"size": 1820.89,
 			"weakness": " Wt_ "
 		},
 		{
 			"id": "magnamalo_scorned",
 			"type": "fanged_wyvern",
+			"size": 2202.97,
 			"linked_id": "magnamalo",
 			"linked_index": 1,
 			"weakness": {
@@ -151,16 +177,19 @@
 		{
 			"id": "anjanath",
 			"type": "brute_wyvern",
+			"size": 1646.46,
 			"weakness": " W_i_"
 		},
 		{
 			"id": "nargacuga",
 			"type": "flying_wyvern",
+			"size": 1914.14,
 			"weakness": "f_T__"
 		},
 		{
 			"id": "nargacuga_lucent",
 			"type": "flying_wyvern",
+			"size": 2012.03,
 			"linked_id": "nargacuga",
 			"linked_index": 1,
 			"weakness": " _ Id"
@@ -168,11 +197,13 @@
 		{
 			"id": "mizutsune",
 			"type": "leviathan",
+			"size": 1832.1,
 			"weakness": "_ T_d"
 		},
 		{
 			"id": "mizutsune_violet",
 			"type": "leviathan",
+			"size": 1832.1,
 			"linked_id": "mizutsune",
 			"linked_index": 1,
 			"weakness": " _tI_"
@@ -180,11 +211,13 @@
 		{
 			"id": "goss_harag",
 			"type": "fanged_beast",
+			"size": 730.97,
 			"weakness": "F_t__"
 		},
 		{
 			"id": "garangolm",
 			"type": "fanged_beast",
+			"size": 1529.4,
 			"weakness": {
 				"default": "_ T_ ",
 				"deposit": "f_Ti "
@@ -193,16 +226,19 @@
 		{
 			"id": "shogun_ceanataur",
 			"type": "carapaceon",
+			"size": 596.24,
 			"weakness": "f_Ti "
 		},
 		{
 			"id": "rathalos",
 			"type": "flying_wyvern",
+			"size": 1704.22,
 			"weakness": " _t_D"
 		},
 		{
 			"id": "rathalos_silver",
 			"type": "flying_wyvern",
+			"size": 1704.22,
 			"linked_id": "rathalos",
 			"linked_index": 1,
 			"weakness": " Wt_ "
@@ -210,11 +246,13 @@
 		{
 			"id": "almudron",
 			"type": "leviathan",
+			"size": 2694.5,
 			"weakness": "F _i_"
 		},
 		{
 			"id": "almudron_magma",
 			"type": "leviathan",
+			"size": 2245.29,
 			"linked_id": "almudron",
 			"linked_index": 1,
 			"weakness": " W_i_"
@@ -222,6 +260,7 @@
 		{
 			"id": "zinogre",
 			"type": "fanged_wyvern",
+			"size": 1540.66,
 			"weakness": {
 				"default": "__ I_",
 				"charged_super": "_w I_"
@@ -230,16 +269,19 @@
 		{
 			"id": "lunagaron",
 			"type": "fanged_wyvern",
+			"size": 1414.23,
 			"weakness": "F _ _"
 		},
 		{
 			"id": "astalos",
 			"type": "flying_wyvern",
+			"size": 1740.84,
 			"weakness": "__ I_"
 		},
 		{
 			"id": "espinas",
 			"type": "flying_wyvern",
+			"size": 1755.25,
 			"weakness": {
 				"default": " __I_",
 				"enraged": " w_Id"
@@ -248,6 +290,7 @@
 		{
 			"id": "espinas_flaming",
 			"type": "flying_wyvern",
+			"size": 1755.25,
 			"linked_id": "espinas",
 			"linked_index": 1,
 			"weakness": {
@@ -258,11 +301,13 @@
 		{
 			"id": "gore_magala",
 			"type": "unknown",
+			"size": 1765.78,
 			"weakness": "F ___"
 		},
 		{
 			"id": "gore_magala_chaotic",
 			"type": "unknown",
+			"size": 1765.78,
 			"linked_id": "gore_magala",
 			"linked_index": 1,
 			"weakness": "F __d"
@@ -270,26 +315,31 @@
 		{
 			"id": "seregios",
 			"type": "flying_wyvern",
+			"size": 1679,
 			"weakness": " _T__"
 		},
 		{
 			"id": "tigrex",
 			"type": "flying_wyvern",
+			"size": 1941.89,
 			"weakness": "__T_d"
 		},
 		{
 			"id": "diablos",
 			"type": "flying_wyvern",
+			"size": 2096.25,
 			"weakness": " w_Id"
 		},
 		{
 			"id": "rakna_kadaki",
 			"type": "temnoceran",
+			"size": 856.93,
 			"weakness": " _ I_"
 		},
 		{
 			"id": "rakna_kadaki_pyre",
 			"type": "temnoceran",
+			"size": 856.93,
 			"linked_id": "rakna_kadaki",
 			"linked_index": 1,
 			"weakness": " W _ "
@@ -297,11 +347,13 @@
 		{
 			"id": "kushala_daora",
 			"type": "elder_dragon",
+			"size": 1913.13,
 			"weakness": "f_T d"
 		},
 		{
 			"id": "kushala_daora_risen",
 			"type": "elder_dragon",
+			"size": 1913.13,
 			"linked_id": "kushala_daora",
 			"linked_index": 1,
 			"weakness": "f_T d"
@@ -309,11 +361,13 @@
 		{
 			"id": "chameleos",
 			"type": "elder_dragon",
+			"size": 2249.06,
 			"weakness": "F_t d"
 		},
 		{
 			"id": "chameleos_risen",
 			"type": "elder_dragon",
+			"size": 2249.06,
 			"linked_id": "chameleos",
 			"linked_index": 1,
 			"weakness": "F_t d"
@@ -321,6 +375,7 @@
 		{
 			"id": "teostra",
 			"type": "elder_dragon",
+			"size": 1790.15,
 			"weakness": {
 				"default": " W_i_",
 				"blast": " w_I_"
@@ -329,6 +384,7 @@
 		{
 			"id": "teostra_risen",
 			"type": "elder_dragon",
+			"size": 1790.15,
 			"linked_id": "teostra",
 			"linked_index": 1,
 			"weakness": {
@@ -339,11 +395,13 @@
 		{
 			"id": "malzeno",
 			"type": "elder_dragon",
+			"size": 2081.64,
 			"weakness": "f  _D"
 		},
 		{
 			"id": "malzeno_primordial",
 			"type": "elder_dragon",
+			"size": 2081.64,
 			"linked_id": "malzeno",
 			"linked_index": 1,
 			"weakness": "f  _D"
@@ -351,11 +409,13 @@
 		{
 			"id": "shagaru_magala",
 			"type": "elder_dragon",
+			"size": 1735.54,
 			"weakness": "f __D"
 		},
 		{
 			"id": "shagaru_magala_risen",
 			"type": "elder_dragon",
+			"size": 1735.54,
 			"linked_id": "shagaru_magala",
 			"linked_index": 1,
 			"weakness": "f __D"
@@ -363,16 +423,19 @@
 		{
 			"id": "velkhana",
 			"type": "elder_dragon",
+			"size": 2596.05,
 			"weakness": "F__ d"
 		},
 		{
 			"id": "rajang",
 			"type": "fanged_beast",
+			"size": 845.91,
 			"weakness": " _ I "
 		},
 		{
 			"id": "rajang_furious",
 			"type": "fanged_beast",
+			"size": 845.91,
 			"linked_id": "rajang",
 			"linked_index": 1,
 			"weakness": " _ I "
@@ -380,11 +443,13 @@
 		{
 			"id": "bazelgeuse",
 			"type": "flying_wyvern",
+			"size": 1928.38,
 			"weakness": " _T__"
 		},
 		{
 			"id": "bazelgeuse_seething",
 			"type": "flying_wyvern",
+			"size": 1928.38,
 			"linked_id": "bazelgeuse",
 			"linked_index": 1,
 			"weakness": " _tI_"
@@ -392,11 +457,13 @@
 		{
 			"id": "wind_serpent_ibushi",
 			"type": "elder_dragon",
+			"size": 3068.6,
 			"weakness": "f___D"
 		},
 		{
 			"id": "thunder_serpent_narwa",
 			"type": "elder_dragon",
+			"size": 3875.05,
 			"weakness": {
 				"default": "__ __",
 				"charged": "__ _D"
@@ -405,6 +472,7 @@
 		{
 			"id": "narwa_allmother",
 			"type": "elder_dragon",
+			"size": 3875.05,
 			"linked_id": "thunder_serpent_narwa",
 			"linked_index": 1,
 			"weakness": {
@@ -415,11 +483,13 @@
 		{
 			"id": "valstrax_crimson_glow",
 			"type": "elder_dragon",
+			"size": 2040.98,
 			"weakness": "fWtI "
 		},
 		{
 			"id": "valstrax_crimson_glow_risen",
 			"type": "elder_dragon",
+			"size": 2040.98,
 			"linked_id": "valstrax_crimson_glow",
 			"linked_index": 1,
 			"weakness": "fWtI "
@@ -427,16 +497,19 @@
 		{
 			"id": "gaismagorm",
 			"type": "elder_dragon",
+			"size": 4807.54,
 			"weakness": "_ t D"
 		},
 		{
 			"id": "amatsu",
 			"type": "elder_dragon",
+			"size": 3440.72,
 			"weakness": "f __D"
 		},
 		{
 			"id": "arzuros_apex",
 			"type": "fanged_beast",
+			"size": 710.3,
 			"linked_id": "arzuros",
 			"linked_index": 1,
 			"weakness": "F ti "
@@ -444,6 +517,7 @@
 		{
 			"id": "rathian_apex",
 			"type": "flying_wyvern",
+			"size": 2017.53,
 			"linked_id": "rathian",
 			"linked_index": 2,
 			"weakness": "__t_D"
@@ -451,6 +525,7 @@
 		{
 			"id": "mizutsune_apex",
 			"type": "leviathan",
+			"size": 2198.52,
 			"linked_id": "mizutsune",
 			"linked_index": 2,
 			"weakness": "_ T_d"
@@ -458,6 +533,7 @@
 		{
 			"id": "rathalos_apex",
 			"type": "flying_wyvern",
+			"size": 1874.64,
 			"linked_id": "rathalos",
 			"linked_index": 2,
 			"weakness": "__t_D"
@@ -465,6 +541,7 @@
 		{
 			"id": "diablos_apex",
 			"type": "flying_wyvern",
+			"size": 2270.94,
 			"linked_id": "diablos",
 			"linked_index": 1,
 			"weakness": " w_Id"
@@ -472,6 +549,7 @@
 		{
 			"id": "zinogre_apex",
 			"type": "fanged_wyvern",
+			"size": 1540.66,
 			"linked_id": "zinogre",
 			"linked_index": 1,
 			"weakness": {

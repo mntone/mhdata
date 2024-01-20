@@ -33,6 +33,11 @@
 					"type": {
 						"$ref": "types.schema.json#/$defs/type"
 					},
+					"size": {
+						"title": "Monster Base Size",
+						"type": "number",
+						"minimum": 0
+					},
 					"linked_id": {
 						"title": "Related Monster ID",
 						"type": "string",
