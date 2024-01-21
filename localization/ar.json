@@ -17,6 +17,10 @@
 			"name": "أكنوسوم"
 		},
 		{
+			"id": "alatreon",
+			"name": "ألاتريون"
+		},
+		{
 			"id": "almudron",
 			"name": "ألمودرون"
 		},
@@ -330,6 +334,9 @@
 		}
 	],
 	"states": {
+		"active_dragon": "التنين مفعل",
+		"active_fire": "النار مفعلة",
+		"active_ice": "الجليد مفعل",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

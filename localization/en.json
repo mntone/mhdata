@@ -17,6 +17,10 @@
 			"name": "Aknosom"
 		},
 		{
+			"id": "alatreon",
+			"name": "Alatreon"
+		},
+		{
 			"id": "almudron",
 			"name": "Almudron"
 		},
@@ -331,6 +335,9 @@
 	],
 	"states": {
 		"default": "Default",
+		"active_dragon": "Dragon Active",
+		"active_fire": "Fire Active",
+		"active_ice": "Ice Active",
 		"blast": "Blast",
 		"bloodening": "Bloodening",
 		"bloodlust": "Bloodlust",

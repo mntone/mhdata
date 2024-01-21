@@ -17,6 +17,10 @@
 			"name": "Aknosom"
 		},
 		{
+			"id": "alatreon",
+			"name": "Alatreon"
+		},
+		{
 			"id": "almudron",
 			"name": "Almudron"
 		},
@@ -330,6 +334,9 @@
 		}
 	],
 	"states": {
+		"active_dragon": "Aktywny: smok",
+		"active_fire": "Aktywny: ogień",
+		"active_ice": "Aktywny: lód",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

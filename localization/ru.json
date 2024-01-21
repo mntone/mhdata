@@ -17,6 +17,10 @@
 			"name": "Акносом"
 		},
 		{
+			"id": "alatreon",
+			"name": "Алатреон"
+		},
+		{
 			"id": "almudron",
 			"name": "Алмудрон"
 		},
@@ -330,6 +334,9 @@
 		}
 	],
 	"states": {
+		"active_dragon": "Стадия — дракон",
+		"active_fire": "Стадия — огонь",
+		"active_ice": "Стадия — лед",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

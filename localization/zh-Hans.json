@@ -17,6 +17,10 @@
 			"name": "伞鸟"
 		},
 		{
+			"id": "alatreon",
+			"name": "煌黑龙"
+		},
+		{
 			"id": "almudron",
 			"name": "泥翁龙"
 		},
@@ -330,6 +334,9 @@
 		}
 	],
 	"states": {
+		"active_dragon": "龙活性状态",
+		"active_fire": "炎活性状态",
+		"active_ice": "冰活性状态",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

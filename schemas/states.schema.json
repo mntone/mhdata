@@ -5,6 +5,9 @@
 			"type": "string",
 			"enum": [
 				"default",
+				"active_dragon",
+				"active_fire",
+				"active_ice",
 				"blast",
 				"bloodening",
 				"bloodlust",

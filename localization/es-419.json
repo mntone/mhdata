@@ -17,6 +17,10 @@
 			"name": "Aknosom"
 		},
 		{
+			"id": "alatreon",
+			"name": "Alatreon"
+		},
+		{
 			"id": "almudron",
 			"name": "Almudron"
 		},
@@ -330,6 +334,9 @@
 		}
 	],
 	"states": {
+		"active_dragon": "Con draco activo",
+		"active_fire": "Con fuego activo",
+		"active_ice": "Con hielo activo",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

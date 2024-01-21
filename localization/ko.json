@@ -17,6 +17,10 @@
 			"name": "아케노시름"
 		},
 		{
+			"id": "alatreon",
+			"name": "알바트리온"
+		},
+		{
 			"id": "almudron",
 			"name": "오로미도로"
 		},
@@ -330,6 +334,9 @@
 		}
 	],
 	"states": {
+		"active_dragon": "용활성 상태",
+		"active_fire": "불활성 상태",
+		"active_ice": "얼음활성 상태",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

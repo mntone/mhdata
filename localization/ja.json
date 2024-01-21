@@ -21,6 +21,11 @@
 			]
 		},
 		{
+			"id": "alatreon",
+			"name": "アルバトリオン",
+			"another_name": "煌黒龍"
+		},
+		{
 			"id": "almudron",
 			"name": "オロミドロ",
 			"another_name": "泥翁竜",
@@ -664,6 +669,9 @@
 	],
 	"states": {
 		"default": "通常状態",
+		"active_dragon": "龍活性状態",
+		"active_fire": "炎活性状態",
+		"active_ice": "氷活性状態",
 		"blast": "粉塵纏い状態",
 		"bloodening": "血氣活性状態",
 		"bloodlust": "血氣蝕烈状態",

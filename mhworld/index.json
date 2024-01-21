@@ -8,6 +8,16 @@
 			"type": "fanged_wyvern",
 			"size": 1109.66,
 			"weakness": "F t__"
+		},
+		{
+			"id": "alatreon",
+			"type": "elder_dragon",
+			"size": 3105.8,
+			"weakness": {
+				"active_fire": " w_I_",
+				"active_ice": "F_t _",
+				"active_dragon": "____"
+			}
 		}
 	]
 }
