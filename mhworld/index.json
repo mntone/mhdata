@@ -10,6 +10,12 @@
 			"weakness": "F t__"
 		},
 		{
+			"id": "kulu_ya_ku",
+			"type": "bird_wyvern",
+			"size": 901.24,
+			"weakness": "fWtid"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

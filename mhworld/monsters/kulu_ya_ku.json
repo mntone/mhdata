@@ -1,6 +1,6 @@
 {
 	"id": "kulu_ya_ku",
-	"version": "16.0.0",
+	"version": "15.11",
 	"type": "bird_wyvern",
 	"physiologies": [
 		{
@@ -9,6 +9,21 @@
 			],
 			"values": [
 				{
+					"states": [
+						"default"
+					],
+					"slash": 85,
+					"impact": 85,
+					"shot": 75,
+					"fire": 15,
+					"water": 20,
+					"thunder": 15,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 100
+				},
+				{
+					"mode": "master",
 					"states": [
 						"default"
 					],
@@ -51,6 +66,21 @@
 			],
 			"values": [
 				{
+					"states": [
+						"default"
+					],
+					"slash": 65,
+					"impact": 70,
+					"shot": 55,
+					"fire": 15,
+					"water": 20,
+					"thunder": 15,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"mode": "master",
 					"states": [
 						"default"
 					],
@@ -104,27 +134,6 @@
 					"thunder": 5,
 					"ice": 5,
 					"dragon": 5,
-					"stun": 0
-				}
-			]
-		},
-		{
-			"parts": [
-				"pod"
-			],
-			"values": [
-				{
-					"states": [
-						"default"
-					],
-					"slash": 50,
-					"impact": 50,
-					"shot": 50,
-					"fire": 15,
-					"water": 20,
-					"thunder": 15,
-					"ice": 15,
-					"dragon": 15,
 					"stun": 0
 				}
 			]
