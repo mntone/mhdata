@@ -22,6 +22,15 @@
 			"weakness": "_ Ti_"
 		},
 		{
+			"id": "barroth",
+			"type": "brute_wyvern",
+			"size": 1383.07,
+			"weakness": {
+				"default": "F  i_",
+				"mud": " W i_"
+			}
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
