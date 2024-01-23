@@ -16,6 +16,12 @@
 			"weakness": "fWtid"
 		},
 		{
+			"id": "pukei_pukei",
+			"type": "bird_wyvern",
+			"size": 1102.45,
+			"weakness": "_ Ti_"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
