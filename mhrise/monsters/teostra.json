@@ -9,9 +9,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 50,
 					"impact": 55,
 					"shot": 45,
@@ -44,9 +41,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 33,
 					"impact": 38,
 					"shot": 5,
@@ -65,9 +59,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 38,
 					"impact": 38,
 					"shot": 15,
@@ -100,9 +91,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 24,
 					"impact": 24,
 					"shot": 10,
@@ -121,9 +109,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 24,
 					"impact": 24,
 					"shot": 5,
@@ -142,9 +127,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 40,
 					"impact": 35,
 					"shot": 15,
@@ -177,9 +159,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 30,
 					"impact": 25,
 					"shot": 20,
@@ -212,9 +191,6 @@
 			],
 			"values": [
 				{
-					"states": [
-						"default"
-					],
 					"slash": 43,
 					"impact": 33,
 					"shot": 38,
