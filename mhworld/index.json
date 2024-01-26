@@ -31,6 +31,15 @@
 			}
 		},
 		{
+			"id": "jyuratodus",
+			"type": "piscine_wyvern",
+			"size": 1508.71,
+			"weakness": {
+				"default": "_ T__",
+				"mud": "_W___"
+			}
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
