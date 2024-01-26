@@ -52,6 +52,12 @@
 			"weakness": " W_i_"
 		},
 		{
+			"id": "rathian",
+			"type": "flying_wyvern",
+			"size": 1754.37,
+			"weakness": " _t_D"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
