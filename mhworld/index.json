@@ -40,6 +40,12 @@
 			}
 		},
 		{
+			"id": "tobi_kadachi",
+			"type": "fanged_wyvern",
+			"size": 1300.52,
+			"weakness": "fW i_"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

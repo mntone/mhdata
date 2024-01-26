@@ -1,0 +1,181 @@
+{
+	"id": "tobi_kadachi",
+	"version": "15.11",
+	"type": "fanged_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 60,
+					"shot": 50,
+					"fire": 10,
+					"water": 20,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 48,
+					"impact": 48,
+					"shot": 45,
+					"fire": 10,
+					"water": 20,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 60,
+					"shot": 50,
+					"fire": 10,
+					"water": 20,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 50
+				},
+				{
+					"mode": "master",
+					"slash": 48,
+					"impact": 48,
+					"shot": 45,
+					"fire": 10,
+					"water": 20,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 50
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 35,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 35,
+					"shot": 15,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 60,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 45,
+					"impact": 45,
+					"shot": 48,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 10,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 80,
+					"impact": 80,
+					"shot": 70,
+					"fire": 20,
+					"water": 30,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 65,
+					"impact": 65,
+					"shot": 55,
+					"fire": 20,
+					"water": 30,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
