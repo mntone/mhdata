@@ -46,6 +46,12 @@
 			"weakness": "fW i_"
 		},
 		{
+			"id": "anjanath",
+			"type": "brute_wyvern",
+			"size": 1646.46,
+			"weakness": " W_i_"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

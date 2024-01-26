@@ -1,0 +1,196 @@
+
+{
+	"id": "anjanath",
+	"version": "15.11",
+	"type": "brute_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 70,
+					"impact": 70,
+					"shot": 65,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 60,
+					"impact": 60,
+					"shot": 45,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"snout"
+			],
+			"values": [
+				{
+					"slash": 80,
+					"impact": 75,
+					"shot": 90,
+					"fire": 0,
+					"water": 30,
+					"thunder": 15,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 65,
+					"impact": 63,
+					"shot": 55,
+					"fire": 0,
+					"water": 30,
+					"thunder": 15,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 45,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 80,
+					"impact": 45,
+					"shot": 90,
+					"fire": 0,
+					"water": 30,
+					"thunder": 15,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 63,
+					"impact": 45,
+					"shot": 55,
+					"fire": 0,
+					"water": 30,
+					"thunder": 15,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 10,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 45,
+					"impact": 45,
+					"shot": 50,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 21,
+					"impact": 21,
+					"shot": 15,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 60,
+					"shot": 75,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
