@@ -1,0 +1,104 @@
+{
+	"id": "tzitzi_ya_ku",
+	"version": "15.11",
+	"type": "bird_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 65,
+					"impact": 55,
+					"shot": 55,
+					"fire": 15,
+					"water": 15,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 59,
+					"impact": 50,
+					"shot": 50,
+					"fire": 15,
+					"water": 15,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso",
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 60,
+					"shot": 35,
+					"fire": 15,
+					"water": 15,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 35,
+					"fire": 15,
+					"water": 15,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"antenna"
+			],
+			"values": [
+				{
+					"slash": 75,
+					"impact": 65,
+					"shot": 70,
+					"fire": 15,
+					"water": 15,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 68,
+					"impact": 59,
+					"shot": 63,
+					"fire": 15,
+					"water": 15,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		}
+	]
+}
