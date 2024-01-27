@@ -64,6 +64,12 @@
 			"weakness": "fwTId"
 		},
 		{
+			"id": "paolumu",
+			"type": "flying_wyvern",
+			"size": 1143.36,
+			"weakness": "F t__"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

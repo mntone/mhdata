@@ -1,0 +1,157 @@
+{
+	"id": "paolumu",
+	"version": "15.11",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 55,
+					"shot": 45,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 30,
+					"fire": 20,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck_pouch"
+			],
+			"values": [
+				{
+					"slash": 75,
+					"impact": 75,
+					"shot": 60,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 65,
+					"impact": 65,
+					"shot": 52,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 46,
+					"impact": 46,
+					"shot": 42,
+					"fire": 15,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 35,
+					"shot": 45,
+					"fire": 15,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 25,
+					"fire": 15,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 15,
+					"fire": 20,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 20,
+					"impact": 20,
+					"shot": 15,
+					"fire": 20,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
