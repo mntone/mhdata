@@ -1,0 +1,217 @@
+{
+	"id": "diablos",
+	"version": "15.11",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 63,
+					"shot": 40,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 30,
+					"dragon": 25,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 45,
+					"impact": 57,
+					"shot": 35,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 30,
+					"dragon": 25,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"horn"
+			],
+			"values": [
+				{
+					"slash": 21,
+					"impact": 42,
+					"shot": 20,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 20,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 19,
+					"impact": 38,
+					"shot": 18,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 20,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 25,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"slash": 73,
+					"impact": 78,
+					"shot": 40,
+					"fire": 0,
+					"water": 30,
+					"thunder": 10,
+					"ice": 35,
+					"dragon": 30,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 65,
+					"impact": 70,
+					"shot": 35,
+					"fire": 0,
+					"water": 30,
+					"thunder": 10,
+					"ice": 35,
+					"dragon": 30,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 24,
+					"impact": 42,
+					"shot": 35,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 30,
+					"shot": 60,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 30,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 35,
+					"shot": 35,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 24,
+					"shot": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"slash": 23,
+					"impact": 33,
+					"shot": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 20,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 20,
+					"impact": 26,
+					"shot": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
