@@ -82,6 +82,12 @@
 			"weakness": "___iD"
 		},
 		{
+			"id": "legiana",
+			"type": "flying_wyvern",
+			"size": 1699.75,
+			"weakness": "f_T _"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
