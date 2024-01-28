@@ -70,6 +70,12 @@
 			"weakness": "F t__"
 		},
 		{
+			"id": "great_girros",
+			"type": "fanged_wyvern",
+			"size": 1053.15,
+			"weakness": "_W i_"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

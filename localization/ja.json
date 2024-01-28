@@ -248,6 +248,11 @@
 			]
 		},
 		{
+			"id": "great_girros",
+			"name": "ドスギルオス",
+			"another_name": "痺賊竜"
+		},
+		{
 			"id": "great_izuchi",
 			"name": "オサイズチ",
 			"another_name": "鎌鼬竜",
