@@ -88,6 +88,12 @@
 			"weakness": "f_T _"
 		},
 		{
+			"id": "odogaron",
+			"type": "fanged_wyvern",
+			"size": 1388.75,
+			"weakness": "__tI "
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

@@ -1,0 +1,164 @@
+{
+	"id": "odogaron",
+	"version": "15.11",
+	"type": "fanged_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 70,
+					"impact": 75,
+					"shot": 65,
+					"fire": 10,
+					"water": 15,
+					"thunder": 20,
+					"ice": 30,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 60,
+					"impact": 65,
+					"shot": 55,
+					"fire": 10,
+					"water": 15,
+					"thunder": 20,
+					"ice": 30,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 45,
+					"shot": 35,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 36,
+					"impact": 45,
+					"shot": 32,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso",
+				"back"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 0,
+					"water": 0,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 50,
+					"shot": 45,
+					"fire": 5,
+					"water": 10,
+					"thunder": 15,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 40,
+					"shot": 35,
+					"fire": 5,
+					"water": 10,
+					"thunder": 15,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 45,
+					"impact": 36,
+					"shot": 32,
+					"fire": 5,
+					"water": 10,
+					"thunder": 15,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 40,
+					"shot": 35,
+					"fire": 5,
+					"water": 5,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 45,
+					"impact": 36,
+					"shot": 32,
+					"fire": 5,
+					"water": 5,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

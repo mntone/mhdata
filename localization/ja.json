@@ -410,6 +410,11 @@
 			]
 		},
 		{
+			"id": "odogaron",
+			"name": "オドガロン",
+			"another_name": "惨爪竜"
+		},
+		{
 			"id": "paolumu",
 			"name": "パオウルムー",
 			"another_name": "浮空竜"
