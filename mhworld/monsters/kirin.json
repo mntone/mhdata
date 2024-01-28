@@ -1,0 +1,119 @@
+{
+	"id": "kirin",
+	"version": "16.0.0",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 55,
+					"shot": 45,
+					"fire": 25,
+					"water": 20,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"upper_half"
+			],
+			"values": [
+				{
+					"slash": 31,
+					"impact": 31,
+					"shot": 22,
+					"fire": 20,
+					"water": 15,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"electricity"
+					],
+					"slash": 20,
+					"impact": 20,
+					"shot": 10,
+					"fire": 15,
+					"water": 10,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"electricity"
+					],
+					"slash": 18,
+					"impact": 18,
+					"shot": 10,
+					"fire": 15,
+					"water": 10,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"bottom_half"
+			],
+			"values": [
+				{
+					"slash": 29,
+					"impact": 29,
+					"shot": 20,
+					"fire": 20,
+					"water": 15,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"electricity"
+					],
+					"slash": 20,
+					"impact": 20,
+					"shot": 10,
+					"fire": 15,
+					"water": 10,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"electricity"
+					],
+					"slash": 18,
+					"impact": 18,
+					"shot": 10,
+					"fire": 15,
+					"water": 10,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

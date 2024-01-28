@@ -291,6 +291,11 @@
 			]
 		},
 		{
+			"id": "kirin",
+			"name": "キリン",
+			"another_name": "幻獣"
+		},
+		{
 			"id": "kulu_ya_ku",
 			"name": "クルルヤック",
 			"another_name": "掻鳥",
@@ -711,6 +716,7 @@
 		"charged_super": "超帯電状態",
 		"charging": "溜め中",
 		"cocooning": "繭化状態",
+		"electricity": "電気まとい中",
 		"enraged": "怒り状態",
 		"enraged_super": "闘気硬化状態",
 		"excited": "興奮状態",

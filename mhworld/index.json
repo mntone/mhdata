@@ -106,6 +106,12 @@
 			"weakness": " w_Id"
 		},
 		{
+			"id": "kirin",
+			"type": "elder_dragon",
+			"size": 536.26,
+			"weakness": "Fw i_"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

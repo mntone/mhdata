@@ -153,6 +153,10 @@
 			"name": "Khezu"
 		},
 		{
+			"id": "kirin",
+			"name": "Kirin"
+		},
+		{
 			"id": "kulu_ya_ku",
 			"name": "Kulu-Ya-Ku"
 		},
@@ -371,6 +375,7 @@
 		"charged_super": "Super Charged",
 		"charging": "Charging",
 		"cocooning": "Cocooning",
+		"electricity": "Electricity",
 		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
 		"excited": "Excited",
