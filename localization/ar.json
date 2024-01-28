@@ -359,6 +359,10 @@
 		{
 			"id": "zinogre_apex",
 			"name": "الوحش العلوي زينجر"
+		},
+		{
+			"id": "zorah_magdaros",
+			"name": "زوراه ماغداروس"
 		}
 	],
 	"states": {

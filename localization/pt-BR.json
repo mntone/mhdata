@@ -359,6 +359,10 @@
 		{
 			"id": "zinogre_apex",
 			"name": "Zinogre Alfa"
+		},
+		{
+			"id": "zorah_magdaros",
+			"name": "Zorah Magdaros"
 		}
 	],
 	"states": {

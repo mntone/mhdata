@@ -1,0 +1,149 @@
+{
+	"id": "zorah_magdaros",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 40,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso",
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 50,
+					"shot": 30,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 25,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 80,
+					"impact": 80,
+					"shot": 80,
+					"fire": 0,
+					"water": 30,
+					"thunder": 15,
+					"ice": 25,
+					"dragon": 30,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg",
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 20,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"exhaust_organ"
+			],
+			"values": [
+				{
+					"slash": 95,
+					"impact": 95,
+					"shot": 90,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"shell"
+			],
+			"values": [
+				{
+					"slash": 1,
+					"impact": 1,
+					"shot": 1,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"shell_weak"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 60,
+					"shot": 50,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

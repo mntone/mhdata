@@ -700,6 +700,11 @@
 			"keywords": [
 				"主雷狼竜"
 			]
+		},
+		{
+			"id": "zorah_magdaros",
+			"name": "ゾラ・マグダラオス",
+			"another_name": "熔山龍"
 		}
 	],
 	"states": {

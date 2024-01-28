@@ -359,6 +359,10 @@
 		{
 			"id": "zinogre_apex",
 			"name": "首領雷狼龍"
+		},
+		{
+			"id": "zorah_magdaros",
+			"name": "熔山龍"
 		}
 	],
 	"states": {

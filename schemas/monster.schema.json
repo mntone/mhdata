@@ -54,6 +54,7 @@
 								"fin",
 								"fin_dorsal",
 								"shell",
+								"shell_weak",
 								"wing",
 								"wingarm",
 								"wingarm_left",
@@ -90,7 +91,8 @@
 								"boulder",
 								"pod",
 								"mudball",
-								"rockball"
+								"rockball",
+								"exhaust_organ"
 							]
 						}
 					},

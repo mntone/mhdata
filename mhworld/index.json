@@ -112,6 +112,12 @@
 			"weakness": "Fw i_"
 		},
 		{
+			"id": "zorah_magdaros",
+			"type": "elder_dragon",
+			"size": 25764.59,
+			"weakness": " W_iD"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

@@ -359,6 +359,10 @@
 		{
 			"id": "zinogre_apex",
 			"name": "Высший Зиногр"
+		},
+		{
+			"id": "zorah_magdaros",
+			"name": "Дзора Магдарос"
 		}
 	],
 	"states": {
