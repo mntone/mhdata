@@ -3,12 +3,14 @@
 		{
 			"id": "mhworld",
 			"name": "월드 / 아이스본",
-			"full_name": "몬스터 헌터 월드 / 아이스본"
+			"full_name": "몬스터 헌터 월드 / 아이스본",
+			"abbreviation": "MHW"
 		},
 		{
 			"id": "mhrise",
 			"name": "라이즈 / 선브레이크",
-			"full_name": "몬스터 헌터 라이즈 / 선브레이크"
+			"full_name": "몬스터 헌터 라이즈 / 선브레이크",
+			"abbreviation": "MHR"
 		}
 	],
 	"monsters": [

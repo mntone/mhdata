@@ -3,12 +3,14 @@
 		{
 			"id": "mhworld",
 			"name": "世界‧冰原",
-			"full_name": "怪物猎人 世界‧冰原"
+			"full_name": "怪物猎人 世界‧冰原",
+			"abbreviation": "世界"
 		},
 		{
 			"id": "mhrise",
 			"name": "崛起‧曙光",
-			"full_name": "怪物猎人 崛起‧曙光"
+			"full_name": "怪物猎人 崛起‧曙光",
+			"abbreviation": "崛起"
 		}
 	],
 	"monsters": [

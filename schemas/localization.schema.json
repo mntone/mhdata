@@ -24,11 +24,18 @@
 						"title": "Full Game Name",
 						"type": "string",
 						"minLength": 1
+					},
+					"abbreviation": {
+						"title": "Game Abbreviation",
+						"type": "string",
+						"minLength": 1
 					}
 				},
 				"required": [
 					"id",
-					"name"
+					"name",
+					"full_name",
+					"abbreviation"
 				]
 			}
 		},

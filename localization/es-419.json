@@ -3,12 +3,14 @@
 		{
 			"id": "mhworld",
 			"name": "World / Iceborne",
-			"full_name": "Monster Hunter World / Iceborne"
+			"full_name": "Monster Hunter World / Iceborne",
+			"abbreviation": "MHW"
 		},
 		{
 			"id": "mhrise",
 			"name": "Rise / Sunbreak",
-			"full_name": "Monster Hunter Rise / Sunbreak"
+			"full_name": "Monster Hunter Rise / Sunbreak",
+			"abbreviation": "MHR"
 		}
 	],
 	"monsters": [

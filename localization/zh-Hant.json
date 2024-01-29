@@ -3,12 +3,14 @@
 		{
 			"id": "mhworld",
 			"name": "世界‧冰原",
-			"full_name": "魔物獵人 世界‧冰原"
+			"full_name": "魔物獵人 世界‧冰原",
+			"abbreviation": "MHW"
 		},
 		{
 			"id": "mhrise",
 			"name": "崛起‧破曉",
-			"full_name": "魔物獵人 崛起‧破曉"
+			"full_name": "魔物獵人 崛起‧破曉",
+			"abbreviation": "MHR"
 		}
 	],
 	"monsters": [

@@ -3,12 +3,14 @@
 		{
 			"id": "mhworld",
 			"name": "ワールド・アイスボーン",
-			"full_name": "モンスターハンターワールド・アイスボーン"
+			"full_name": "モンスターハンターワールド・アイスボーン",
+			"abbreviation": "MHW"
 		},
 		{
 			"id": "mhrise",
 			"name": "ライズ・サンブレイク",
-			"full_name": "モンスターハンターライズ・サンブレイク"
+			"full_name": "モンスターハンターライズ・サンブレイク",
+			"abbreviation": "MHR"
 		}
 	],
 	"monsters": [
