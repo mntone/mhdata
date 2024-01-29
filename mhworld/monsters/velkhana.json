@@ -1,0 +1,189 @@
+{
+	"id": "velkhana",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 55,
+					"shot": 45,
+					"fire": 20,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 20,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 65,
+					"impact": 65,
+					"shot": 55,
+					"fire": 20,
+					"water": 0,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 20,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 45,
+					"shot": 30,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 45,
+					"impact": 55,
+					"shot": 40,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 30,
+					"water": 10,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 40,
+					"shot": 30,
+					"fire": 30,
+					"water": 10,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 30,
+					"shot": 20,
+					"fire": 30,
+					"water": 10,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 20,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 50,
+					"impact": 50,
+					"shot": 30,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 35,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 50,
+					"impact": 45,
+					"shot": 45,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

@@ -118,6 +118,12 @@
 			"weakness": " W_iD"
 		},
 		{
+			"id": "velkhana",
+			"type": "elder_dragon",
+			"size": 2596.05,
+			"weakness": "F__ d"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
