@@ -183,6 +183,11 @@
 			]
 		},
 		{
+			"id": "dodogama",
+			"name": "ドドガマル",
+			"another_name": "岩賊竜"
+		},
+		{
 			"id": "espinas",
 			"name": "エスピナス",
 			"another_name": "棘竜",
@@ -722,6 +727,8 @@
 		"charged_electric": "電荷状態",
 		"charged_super": "超帯電状態",
 		"charging": "溜め中",
+		"chill1": "放熱状態1",
+		"chill2": "放熱状態2",
 		"cocooning": "繭化状態",
 		"electricity": "電気まとい中",
 		"enraged": "怒り状態",

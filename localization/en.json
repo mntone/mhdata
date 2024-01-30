@@ -99,6 +99,10 @@
 			"name": "Apex Diablos"
 		},
 		{
+			"id": "dodogama",
+			"name": "Dodogama"
+		},
+		{
 			"id": "espinas",
 			"name": "Espinas"
 		},
@@ -380,6 +384,8 @@
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"charging": "Charging",
+		"chill1": "Chill 1",
+		"chill2": "Chill 2",
 		"cocooning": "Cocooning",
 		"electricity": "Electricity",
 		"enraged": "Enraged",

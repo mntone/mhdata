@@ -1,0 +1,210 @@
+{
+	"id": "dodogama",
+	"version": "15.11",
+	"type": "fanged_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 35,
+					"shot": 25,
+					"fire": 0,
+					"water": 20,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"states": [
+						"chill1"
+					],
+					"slash": 75,
+					"impact": 75,
+					"shot": 65,
+					"fire": 0,
+					"water": 20,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"chill1"
+					],
+					"slash": 60,
+					"impact": 60,
+					"shot": 52,
+					"fire": 0,
+					"water": 20,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"states": [
+						"chill2"
+					],
+					"slash": 100,
+					"impact": 100,
+					"shot": 90,
+					"fire": 0,
+					"water": 20,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"chill2"
+					],
+					"slash": 80,
+					"impact": 80,
+					"shot": 72,
+					"fire": 0,
+					"water": 20,
+					"thunder": 30,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 20,
+					"fire": 0,
+					"water": 10,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"chill1"
+					],
+					"slash": 65,
+					"impact": 65,
+					"shot": 55,
+					"fire": 0,
+					"water": 10,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"chill1"
+					],
+					"slash": 52,
+					"impact": 52,
+					"shot": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"chill2"
+					],
+					"slash": 90,
+					"impact": 90,
+					"shot": 80,
+					"fire": 0,
+					"water": 10,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"chill2"
+					],
+					"slash": 72,
+					"impact": 72,
+					"shot": 64,
+					"fire": 0,
+					"water": 10,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso",
+				"foreleg",
+				"back",
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 40,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 60,
+					"shot": 50,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 48,
+					"impact": 48,
+					"shot": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

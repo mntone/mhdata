@@ -118,6 +118,12 @@
 			"weakness": " W_iD"
 		},
 		{
+			"id": "dodogama",
+			"type": "fanged_wyvern",
+			"size": 1111.11,
+			"weakness": " wTi_"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
