@@ -158,9 +158,8 @@
 		{
 			"parts": [
 				"torso",
-				"foreleg",
-				"back",
-				"hindleg"
+				"leg",
+				"back"
 			],
 			"values": [
 				{
