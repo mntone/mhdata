@@ -124,6 +124,14 @@
 			"weakness": " wTi_"
 		},
 		{
+			"id": "rathian_pink",
+			"type": "flying_wyvern",
+			"size": 1754.37,
+			"linked_id": "rathian",
+			"linked_index": 1,
+			"weakness": " _t_D"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
