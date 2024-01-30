@@ -167,6 +167,11 @@
 			]
 		},
 		{
+			"id": "deviljho",
+			"name": "イビルジョー",
+			"another_name": "恐暴竜"
+		},
+		{
 			"id": "diablos",
 			"name": "ディアブロス",
 			"another_name": "角竜",
@@ -757,6 +762,7 @@
 		"magma": "岩漿纏い状態",
 		"molten": "溶熱状態",
 		"mud": "泥まとい中",
+		"muscle": "筋肉膨張中",
 		"overheat": "過熱状態",
 		"rolling": "回転中",
 		"sleep": "自発睡眠中",

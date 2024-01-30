@@ -91,6 +91,10 @@
 			"name": "Daimyo Hermitaur"
 		},
 		{
+			"id": "deviljho",
+			"name": "Deviljho"
+		},
+		{
 			"id": "diablos",
 			"name": "Diablos"
 		},
@@ -410,6 +414,7 @@
 		"magma": "Magma",
 		"molten": "Molten",
 		"mud": "Covered in Mud",
+		"muscle": "Muscle",
 		"overheat": "Overheat",
 		"rolling": "Rolling",
 		"stealth": "Stealth",
