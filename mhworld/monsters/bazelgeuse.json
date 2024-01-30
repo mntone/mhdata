@@ -1,0 +1,115 @@
+{
+	"id": "bazelgeuse",
+	"version": "15.11",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 80,
+					"impact": 85,
+					"shot": 60,
+					"fire": 0,
+					"water": 15,
+					"thunder": 25,
+					"ice": 20,
+					"dragon": 20,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 35,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 65,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 36,
+					"impact": 34,
+					"shot": 30,
+					"fire": 0,
+					"water": 5,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 75,
+					"impact": 70,
+					"shot": 55,
+					"fire": 0,
+					"water": 10,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

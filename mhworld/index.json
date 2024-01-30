@@ -132,6 +132,12 @@
 			"weakness": " _t_D"
 		},
 		{
+			"id": "bazelgeuse",
+			"type": "flying_wyvern",
+			"size": 1928.38,
+			"weakness": " _T__"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
