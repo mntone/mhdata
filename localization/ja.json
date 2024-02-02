@@ -437,6 +437,11 @@
 			]
 		},
 		{
+			"id": "nergigante",
+			"name": "ネルギガンテ",
+			"another_name": "滅尽龍"
+		},
+		{
 			"id": "odogaron",
 			"name": "オドガロン",
 			"another_name": "惨爪竜"
@@ -788,6 +793,8 @@
 		"rolling": "回転中",
 		"sleep": "自発睡眠中",
 		"stealth": "ステルス状態",
+		"thorn_black": "黒トゲ状態",
+		"thorn_white": "白トゲ状態",
 		"wet": "泡状態"
 	}
 }

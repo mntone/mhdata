@@ -235,6 +235,10 @@
 			"name": "Lucent Nargacuga"
 		},
 		{
+			"id": "nergigante",
+			"name": "Nergigante"
+		},
+		{
 			"id": "odogaron",
 			"name": "Odogaron"
 		},
@@ -436,6 +440,8 @@
 		"rolling": "Rolling",
 		"stealth": "Stealth",
 		"sleep": "Spontaneous Sleeping",
+		"thorn_black": "Black Thorn",
+		"thorn_white": "White Thorn",
 		"wet": "Wet"
 	}
 }

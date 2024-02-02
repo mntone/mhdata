@@ -44,6 +44,8 @@
 				"rolling",
 				"sleep",
 				"stealth",
+				"thorn_black",
+				"thorn_white",
 				"wet"
 			],
 			"default": "default"

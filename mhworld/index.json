@@ -178,6 +178,12 @@
 			"weakness": " w_I "
 		},
 		{
+			"id": "nergigante",
+			"type": "elder_dragon",
+			"size": 1848.12,
+			"weakness": "__T__"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
