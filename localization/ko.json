@@ -99,6 +99,10 @@
 			"name": "디아블로스"
 		},
 		{
+			"id": "diablos_black",
+			"name": "디아블로스 아종"
+		},
+		{
 			"id": "diablos_apex",
 			"name": "주인 디아블로스"
 		},

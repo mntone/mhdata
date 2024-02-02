@@ -180,6 +180,11 @@
 			]
 		},
 		{
+			"id": "diablos_black",
+			"name": "ディアブロス亜種",
+			"another_name": "黒角竜"
+		},
+		{
 			"id": "diablos_apex",
 			"name": "ヌシ・ディアブロス",
 			"another_name": "角竜",

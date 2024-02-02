@@ -170,6 +170,14 @@
 			"weakness": " __iD"
 		},
 		{
+			"id": "diablos_black",
+			"type": "flying_wyvern",
+			"size": 2096.25,
+			"linked_id": "diablos",
+			"linked_index": 1,
+			"weakness": " w_I "
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

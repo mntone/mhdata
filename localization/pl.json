@@ -99,6 +99,10 @@
 			"name": "Diablos"
 		},
 		{
+			"id": "diablos_black",
+			"name": "Czarna Diabla"
+		},
+		{
 			"id": "diablos_apex",
 			"name": "Apeks Diablos"
 		},
