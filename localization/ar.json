@@ -183,6 +183,10 @@
 			"name": "لاجومبي"
 		},
 		{
+			"id": "lavasioth",
+			"name": "لافاسيوث"
+		},
+		{
 			"id": "legiana",
 			"name": "ليغيانا"
 		},
@@ -387,6 +391,7 @@
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"hardened": "عند التصلب",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "التغطية بالول",

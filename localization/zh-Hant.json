@@ -183,6 +183,10 @@
 			"name": "白兔獸"
 		},
 		{
+			"id": "lavasioth",
+			"name": "熔岩龍"
+		},
+		{
 			"id": "legiana",
 			"name": "風漂龍"
 		},
@@ -387,6 +391,7 @@
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"hardened": "硬化狀態時",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "泥濘狀態時",

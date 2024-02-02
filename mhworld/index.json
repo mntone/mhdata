@@ -147,6 +147,15 @@
 			}
 		},
 		{
+			"id": "lavasioth",
+			"type": "piscine_wyvern",
+			"size": 1797.24,
+			"weakness": {
+				"hardened": "fW___",
+				"heated": "_W___"
+			}
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

@@ -21,7 +21,7 @@
 				},
 				{
 					"states": [
-						"fiery"
+						"heated"
 					],
 					"slash": 80,
 					"impact": 85,
@@ -89,7 +89,7 @@
 				},
 				{
 					"states": [
-						"fiery"
+						"heated"
 					],
 					"slash": 25,
 					"impact": 25,
@@ -121,7 +121,7 @@
 				},
 				{
 					"states": [
-						"fiery"
+						"heated"
 					],
 					"slash": 36,
 					"impact": 34,
@@ -153,7 +153,7 @@
 				},
 				{
 					"states": [
-						"fiery"
+						"heated"
 					],
 					"slash": 75,
 					"impact": 70,

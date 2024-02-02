@@ -338,6 +338,11 @@
 			]
 		},
 		{
+			"id": "lavasioth",
+			"name": "ヴォルガノス",
+			"another_name": "溶岩竜"
+		},
+		{
 			"id": "legiana",
 			"name": "レイギエナ",
 			"another_name": "風漂竜"
@@ -749,11 +754,12 @@
 		"excited": "興奮状態",
 		"deposit": "付着物纏い状態",
 		"dragon_energy": "龍気解放状態",
-		"fiery": "赤熱化状態",
 		"flame": "劫炎状態",
 		"frenzy": "狂竜化状態",
 		"glowing": "熱殻状態",
 		"guarding": "防御状態",
+		"hardened": "硬化中",
+		"heated": "赤熱状態",
 		"hellfire": "鬼火臨界状態",
 		"hellfire_concentrated": "一極鬼火状態",
 		"hellfire_raging": "二極鬼火状態",

@@ -183,6 +183,10 @@
 			"name": "Lagombi"
 		},
 		{
+			"id": "lavasioth",
+			"name": "Lavasioth"
+		},
+		{
 			"id": "legiana",
 			"name": "Legiana"
 		},
@@ -401,11 +405,12 @@
 		"excited": "Excited",
 		"deposit": "Deposit",
 		"dragon_energy": "Dragon Energy",
-		"fiery": "Fiery",
 		"flame": "Flame",
 		"frenzy": "The Frenzy",
 		"glowing": "Glowing",
 		"guarding": "Guarding",
+		"hardened": "Hardened",
+		"heated": "Heated",
 		"hellfire": "Hellfire",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",

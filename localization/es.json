@@ -183,6 +183,10 @@
 			"name": "Lagombi"
 		},
 		{
+			"id": "lavasioth",
+			"name": "Lavasioth"
+		},
+		{
 			"id": "legiana",
 			"name": "Legiana"
 		},
@@ -387,6 +391,7 @@
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"hardened": "Endurecerse",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Cubierto de fango",

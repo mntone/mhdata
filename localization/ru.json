@@ -183,6 +183,10 @@
 			"name": "Лагомби"
 		},
 		{
+			"id": "lavasioth",
+			"name": "Лавасиот"
+		},
+		{
 			"id": "legiana",
 			"name": "Легиана"
 		},
@@ -387,6 +391,7 @@
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"hardened": "Закалка",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Покрытие грязью",

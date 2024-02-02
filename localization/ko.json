@@ -183,6 +183,10 @@
 			"name": "울크스스"
 		},
 		{
+			"id": "lavasioth",
+			"name": "볼가노스"
+		},
+		{
 			"id": "legiana",
 			"name": "레이기에나"
 		},
@@ -387,6 +391,7 @@
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"hardened": "경화 중",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "진흙탕 상태",
