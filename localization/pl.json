@@ -267,6 +267,10 @@
 			"name": "Rathalos"
 		},
 		{
+			"id": "rathalos_azure",
+			"name": "Lazurowy Rathalos"
+		},
+		{
 			"id": "rathalos_silver",
 			"name": "Srebrny Rathalos"
 		},

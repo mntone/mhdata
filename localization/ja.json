@@ -499,6 +499,11 @@
 			]
 		},
 		{
+			"id": "rathalos_azure",
+			"name": "リオレウス亜種",
+			"another_name": "蒼火竜"
+		},
+		{
 			"id": "rathalos_silver",
 			"name": "リオレウス希少種",
 			"another_name": "銀火竜",

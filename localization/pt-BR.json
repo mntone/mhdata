@@ -267,6 +267,10 @@
 			"name": "Rathalos"
 		},
 		{
+			"id": "rathalos_azure",
+			"name": "Rathalos Lazúli"
+		},
+		{
 			"id": "rathalos_silver",
 			"name": "Rathalos Prateado"
 		},

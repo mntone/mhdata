@@ -162,6 +162,14 @@
 			"weakness": " W_id"
 		},
 		{
+			"id": "rathalos_azure",
+			"type": "flying_wyvern",
+			"size": 1704.22,
+			"linked_id": "rathalos",
+			"linked_index": 1,
+			"weakness": " __iD"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

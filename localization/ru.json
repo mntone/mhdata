@@ -267,6 +267,10 @@
 			"name": "Раталос"
 		},
 		{
+			"id": "rathalos_azure",
+			"name": "Лазурный раталос"
+		},
+		{
 			"id": "rathalos_silver",
 			"name": "Серебристый Раталос"
 		},
