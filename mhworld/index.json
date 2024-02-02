@@ -156,6 +156,12 @@
 			}
 		},
 		{
+			"id": "uragaan",
+			"type": "brute_wyvern",
+			"size": 2058.63,
+			"weakness": " W_id"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
