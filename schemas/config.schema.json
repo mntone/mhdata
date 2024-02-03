@@ -26,6 +26,32 @@
 				"type": "string",
 				"minLength": 1
 			}
+		},
+		"source": {
+			"title": "Data Source Information",
+			"type": "object",
+			"properties": {
+				"name": {
+					"title": "Name",
+					"type": "string",
+					"minLength": 1
+				},
+				"copyright": {
+					"title": "Copyright",
+					"type": "string",
+					"minLength": 1
+				},
+				"license": {
+					"title": "License",
+					"type": "string",
+					"minLength": 1
+				}
+			},
+			"required": [
+				"name",
+				"copyright",
+				"license"
+			]
 		}
 	},
 	"required": [
