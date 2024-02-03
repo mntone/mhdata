@@ -208,6 +208,15 @@
 			"weakness": "F__id"
 		},
 		{
+			"id": "xenojiiva",
+			"type": "elder_dragon",
+			"size": 4509.10,
+			"weakness": {
+				"default": "F___D",
+				"critical": "fWTId"
+			}
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

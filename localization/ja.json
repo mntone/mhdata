@@ -741,6 +741,11 @@
 			]
 		},
 		{
+			"id": "xenojiiva",
+			"name": "ゼノ・ジーヴァ",
+			"another_name": "冥灯龍"
+		},
+		{
 			"id": "zinogre",
 			"name": "ジンオウガ",
 			"another_name": "雷狼竜",
@@ -778,6 +783,7 @@
 		"chill1": "放熱状態1",
 		"chill2": "放熱状態2",
 		"cocooning": "繭化状態",
+		"critical": "臨界状態",
 		"electricity": "電気まとい中",
 		"enraged": "怒り状態",
 		"enraged_super": "闘気硬化状態",

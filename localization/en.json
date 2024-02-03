@@ -395,6 +395,10 @@
 			"name": "Wind Serpent Ibushi"
 		},
 		{
+			"id": "xenojiiva",
+			"name": "Xeno'jiiva"
+		},
+		{
 			"id": "zinogre",
 			"name": "Zinogre"
 		},
@@ -423,6 +427,7 @@
 		"chill1": "Chill 1",
 		"chill2": "Chill 2",
 		"cocooning": "Cocooning",
+		"critical": "Critical",
 		"electricity": "Electricity",
 		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
