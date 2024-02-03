@@ -190,6 +190,12 @@
 			"weakness": " W_i_"
 		},
 		{
+			"id": "lunastra",
+			"type": "elder_dragon",
+			"size": 1828.68,
+			"weakness": " __Id"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
