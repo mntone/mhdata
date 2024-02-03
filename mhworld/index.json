@@ -196,6 +196,12 @@
 			"weakness": " __Id"
 		},
 		{
+			"id": "kushala_daora",
+			"type": "elder_dragon",
+			"size": 1913.13,
+			"weakness": "f_T d"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

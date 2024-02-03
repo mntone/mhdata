@@ -1,0 +1,187 @@
+{
+	"id": "kushala_daora",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 50,
+					"shot": 45,
+					"fire": 10,
+					"water": 5,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 25,
+					"fire": 10,
+					"water": 5,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 36,
+					"impact": 35,
+					"shot": 25,
+					"fire": 10,
+					"water": 5,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 50,
+					"shot": 30,
+					"fire": 10,
+					"water": 5,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 50,
+					"shot": 25,
+					"fire": 10,
+					"water": 5,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 25,
+					"shot": 30,
+					"fire": 10,
+					"water": 5,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 18,
+					"impact": 24,
+					"shot": 24,
+					"fire": 10,
+					"water": 5,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 15,
+					"shot": 20,
+					"fire": 10,
+					"water": 5,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 18,
+					"impact": 15,
+					"shot": 18,
+					"fire": 10,
+					"water": 5,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 10,
+					"water": 5,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 30,
+					"shot": 55,
+					"fire": 10,
+					"water": 5,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
