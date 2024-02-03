@@ -184,6 +184,12 @@
 			"weakness": "__T__"
 		},
 		{
+			"id": "teostra",
+			"type": "elder_dragon",
+			"size": 1790.15,
+			"weakness": " W_i_"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

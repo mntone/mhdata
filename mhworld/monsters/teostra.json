@@ -1,0 +1,146 @@
+{
+	"id": "teostra",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 60,
+					"shot": 50,
+					"fire": 0,
+					"water": 30,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 33,
+					"impact": 38,
+					"shot": 33,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 38,
+					"impact": 38,
+					"shot": 33,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen",
+				"back"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 20,
+					"shot": 20,
+					"fire": 0,
+					"water": 15,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 18,
+					"impact": 18,
+					"shot": 18,
+					"fire": 0,
+					"water": 15,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 30,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 25,
+					"shot": 20,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 38,
+					"impact": 33,
+					"shot": 28,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
