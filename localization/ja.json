@@ -793,8 +793,8 @@
 		"rolling": "回転中",
 		"sleep": "自発睡眠中",
 		"stealth": "ステルス状態",
-		"thorn_black": "黒トゲ状態",
-		"thorn_white": "白トゲ状態",
+		"thorn_black": "黒トゲ時",
+		"thorn_white": "白トゲ時",
 		"wet": "泡状態"
 	}
 }
