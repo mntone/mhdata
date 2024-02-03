@@ -202,6 +202,12 @@
 			"weakness": "f_T d"
 		},
 		{
+			"id": "vaal_hazak",
+			"type": "elder_dragon",
+			"size": 2095.4,
+			"weakness": "F__id"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

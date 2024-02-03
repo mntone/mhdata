@@ -692,6 +692,11 @@
 			"another_name": "爆鎚竜"
 		},
 		{
+			"id": "vaal_hazak",
+			"name": "ヴァルハザク",
+			"another_name": "屍套龍"
+		},
+		{
 			"id": "valstrax_crimson_glow",
 			"name": "奇しき赫耀のバルファルク",
 			"readable_name": "クシキカクヨウノバルファルク",

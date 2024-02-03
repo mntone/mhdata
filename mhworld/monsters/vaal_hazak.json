@@ -1,0 +1,243 @@
+{
+	"id": "vaal_hazak",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 40,
+					"shot": 50,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 70,
+					"impact": 80,
+					"shot": 60,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 40,
+					"shot": 30,
+					"fire": 15,
+					"water": 5,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 40,
+					"shot": 35,
+					"fire": 20,
+					"water": 0,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 55,
+					"impact": 50,
+					"shot": 45,
+					"fire": 20,
+					"water": 5,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 40,
+					"shot": 45,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 60,
+					"impact": 70,
+					"shot": 40,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 45,
+					"shot": 45,
+					"fire": 15,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 35,
+					"shot": 35,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 55,
+					"impact": 65,
+					"shot": 40,
+					"fire": 25,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 24,
+					"impact": 23,
+					"shot": 30,
+					"fire": 15,
+					"water": 5,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 20,
+					"fire": 5,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 30,
+					"shot": 30,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 30,
+					"shot": 50,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
