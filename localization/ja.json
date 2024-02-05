@@ -84,6 +84,11 @@
 			]
 		},
 		{
+			"id": "banbaro",
+			"name": "バフバロ",
+			"another_name": "猛牛竜"
+		},
+		{
 			"id": "barioth",
 			"name": "ベリオロス",
 			"another_name": "氷牙竜",

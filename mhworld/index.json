@@ -223,6 +223,12 @@
 			"weakness": "F__  "
 		},
 		{
+			"id": "banbaro",
+			"type": "brute_wyvern",
+			"size": 2404.84,
+			"weakness": "_ _ D"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
