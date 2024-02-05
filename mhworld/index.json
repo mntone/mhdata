@@ -261,6 +261,12 @@
 			"weakness": "f T__"
 		},
 		{
+			"id": "glavenus",
+			"type": "brute_wyvern",
+			"size": 2461.5,
+			"weakness": " W_id"
+		},
+		{
 			"id": "tigrex",
 			"type": "flying_wyvern",
 			"size": 1943.2,
