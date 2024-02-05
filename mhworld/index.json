@@ -261,6 +261,12 @@
 			"weakness": "f T__"
 		},
 		{
+			"id": "tigrex",
+			"type": "flying_wyvern",
+			"size": 1943.2,
+			"weakness": "__T_d"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
