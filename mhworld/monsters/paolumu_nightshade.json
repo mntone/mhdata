@@ -1,0 +1,133 @@
+{
+	"id": "paolumu_nightshade",
+	"version": "15.11",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 60,
+					"shot": 45,
+					"fire": 15,
+					"water": 25,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 40,
+					"shot": 30,
+					"fire": 10,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck_pouch"
+			],
+			"values": [
+				{
+					"slash": 70,
+					"impact": 75,
+					"shot": 50,
+					"fire": 15,
+					"water": 30,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 46,
+					"impact": 46,
+					"shot": 35,
+					"fire": 10,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 40,
+					"fire": 10,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 10,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 15,
+					"fire": 10,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

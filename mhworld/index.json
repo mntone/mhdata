@@ -237,6 +237,12 @@
 			"weakness": "_ Ti_"
 		},
 		{
+			"id": "paolumu_nightshade",
+			"type": "flying_wyvern",
+			"size": 1143.36,
+			"weakness": "fW__ "
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
