@@ -229,6 +229,14 @@
 			"weakness": "_ _ D"
 		},
 		{
+			"id": "tobi_kadachi_viper",
+			"type": "fanged_wyvern",
+			"size": 1300.52,
+			"linked_id": "tobi_kadachi",
+			"linked_index": 1,
+			"weakness": "_ Ti_"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
