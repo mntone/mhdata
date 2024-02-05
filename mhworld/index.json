@@ -249,6 +249,12 @@
 			"weakness": "_ tI_"
 		},
 		{
+			"id": "barioth",
+			"type": "flying_wyvern",
+			"size": 2098.3,
+			"weakness": "F__ _"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
