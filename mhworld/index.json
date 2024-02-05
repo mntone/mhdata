@@ -255,6 +255,12 @@
 			"weakness": "F__ _"
 		},
 		{
+			"id": "nargacuga",
+			"type": "flying_wyvern",
+			"size": 1914.74,
+			"weakness": "f T__"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

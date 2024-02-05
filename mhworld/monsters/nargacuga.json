@@ -1,0 +1,148 @@
+{
+	"id": "nargacuga",
+	"version": "15.11",
+	"type": "flying_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 65,
+					"impact": 70,
+					"shot": 40,
+					"fire": 20,
+					"water": 0,
+					"thunder": 30,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck",
+				"back"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 35,
+					"fire": 10,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 21,
+					"impact": 21,
+					"shot": 15,
+					"fire": 10,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 43,
+					"impact": 43,
+					"shot": 35,
+					"fire": 10,
+					"water": 0,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"abdomen"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 30,
+					"fire": 10,
+					"water": 0,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 10,
+					"water": 0,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 46,
+					"impact": 40,
+					"shot": 45,
+					"fire": 10,
+					"water": 0,
+					"thunder": 25,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 40,
+					"fire": 10,
+					"water": 0,
+					"thunder": 20,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
