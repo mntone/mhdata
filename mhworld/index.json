@@ -243,6 +243,12 @@
 			"weakness": "fW__ "
 		},
 		{
+			"id": "pukei_pukei_coral",
+			"type": "bird_wyvern",
+			"size": 1102.45,
+			"weakness": "_ tI_"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
