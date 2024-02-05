@@ -71,6 +71,10 @@
 			"name": "Seething Bazelgeuse"
 		},
 		{
+			"id": "beotodus",
+			"name": "Beotodus"
+		},
+		{
 			"id": "bishaten",
 			"name": "Bishaten"
 		},
@@ -452,6 +456,7 @@
 		"overheat": "Overheat",
 		"rolling": "Rolling",
 		"sleep": "Spontaneous Sleeping",
+		"snow": "Covered in Snow",
 		"stealth": "Stealth",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn",

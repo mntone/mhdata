@@ -71,6 +71,10 @@
 			"name": "Bazelgeuse Magma"
 		},
 		{
+			"id": "beotodus",
+			"name": "Beotodus"
+		},
+		{
 			"id": "bishaten",
 			"name": "Bishaten"
 		},
@@ -424,6 +428,7 @@
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Cubierto de fango",
 		"sleep": "Spontaneous Sleeping",
+		"snow": "Cubierto de nieve",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn"
 	}

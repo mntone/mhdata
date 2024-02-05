@@ -71,6 +71,10 @@
 			"name": "Rozzłoszczony Bazelgez"
 		},
 		{
+			"id": "beotodus",
+			"name": "Beotodus"
+		},
+		{
 			"id": "bishaten",
 			"name": "Bishaten"
 		},
@@ -422,8 +426,9 @@
 		"hardened": "Utwardzanie",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
-		"mud": "Wymazana błotem",
+		"mud": "Wymazanie błotem",
 		"sleep": "Spontaneous Sleeping",
+		"snow": "Pokryte śniegiem",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn"
 	}

@@ -217,6 +217,12 @@
 			}
 		},
 		{
+			"id": "beotodus",
+			"type": "piscine_wyvern",
+			"size": 1661.99,
+			"weakness": "F__  "
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

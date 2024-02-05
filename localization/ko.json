@@ -71,6 +71,10 @@
 			"name": "홍련의 솟구치는 바젤기우스"
 		},
 		{
+			"id": "beotodus",
+			"name": "브란토도스"
+		},
+		{
 			"id": "bishaten",
 			"name": "비슈텐고"
 		},
@@ -424,6 +428,7 @@
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "진흙탕 상태",
 		"sleep": "Spontaneous Sleeping",
+		"snow": "눈 상태",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn"
 	}

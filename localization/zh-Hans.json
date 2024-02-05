@@ -71,6 +71,10 @@
 			"name": "红莲爆鳞龙"
 		},
 		{
+			"id": "beotodus",
+			"name": "冰鱼龙"
+		},
+		{
 			"id": "bishaten",
 			"name": "天狗兽"
 		},
@@ -419,11 +423,12 @@
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
-		"hardened": "硬化状态时",
+		"hardened": "硬化状态",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
-		"mud": "泥泞状态时",
+		"mud": "泥泞状态",
 		"sleep": "Spontaneous Sleeping",
+		"snow": "雪状态",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn"
 	}

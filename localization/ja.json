@@ -126,6 +126,11 @@
 			]
 		},
 		{
+			"id": "beotodus",
+			"name": "ブラントドス",
+			"another_name": "凍魚竜"
+		},
+		{
 			"id": "bishaten",
 			"name": "ビシュテンゴ",
 			"another_name": "天狗獣",
@@ -808,6 +813,7 @@
 		"overheat": "過熱状態",
 		"rolling": "回転中",
 		"sleep": "自発睡眠中",
+		"snow": "雪まとい中",
 		"stealth": "ステルス状態",
 		"thorn_black": "黒トゲ時",
 		"thorn_white": "白トゲ時",

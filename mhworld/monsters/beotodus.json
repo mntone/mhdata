@@ -1,0 +1,121 @@
+{
+	"id": "beotodus",
+	"version": "15.11",
+	"type": "piscine_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 46,
+					"impact": 50,
+					"shot": 45,
+					"fire": 25,
+					"water": 10,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"states": [
+						"snow"
+					],
+					"slash": 30,
+					"impact": 34,
+					"shot": 25,
+					"fire": 25,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 35,
+					"shot": 35,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"snow"
+					],
+					"slash": 30,
+					"impact": 30,
+					"shot": 25,
+					"fire": 20,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 70,
+					"impact": 65,
+					"shot": 50,
+					"fire": 30,
+					"water": 10,
+					"thunder": 15,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 35,
+					"fire": 20,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"snow"
+					],
+					"slash": 34,
+					"impact": 30,
+					"shot": 25,
+					"fire": 20,
+					"water": 0,
+					"thunder": 5,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}
