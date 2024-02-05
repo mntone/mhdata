@@ -241,6 +241,11 @@
 			]
 		},
 		{
+			"id": "glavenus",
+			"name": "ディノバルド",
+			"another_name": "斬竜"
+		},
+		{
 			"id": "gore_magala",
 			"name": "ゴア・マガラ",
 			"another_name": "黒蝕竜",
@@ -832,6 +837,7 @@
 		"muscle": "筋肉膨張中",
 		"overheat": "過熱状態",
 		"rolling": "回転中",
+		"rusted": "錆び状態",
 		"sleep": "自発睡眠中",
 		"snow": "雪まとい中",
 		"stealth": "ステルス状態",

@@ -1,0 +1,197 @@
+{
+	"id": "glavenus",
+	"version": "15.11",
+	"type": "brute_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 55,
+					"shot": 30,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 37,
+					"impact": 37,
+					"shot": 25,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 13,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"throat"
+			],
+			"values": [
+				{
+					"slash": 65,
+					"impact": 65,
+					"shot": 45,
+					"fire": 0,
+					"water": 30,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 20,
+					"shot": 30,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 20,
+					"shot": 18,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 35,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 37,
+					"impact": 35,
+					"shot": 25,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_base"
+			],
+			"values": [
+				{
+					"slash": 37,
+					"impact": 35,
+					"shot": 25,
+					"fire": 0,
+					"water": 20,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 37,
+					"impact": 35,
+					"shot": 25,
+					"fire": 0,
+					"water": 20,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"heated"
+					],
+					"slash": 65,
+					"impact": 60,
+					"shot": 45,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"rusted"
+					],
+					"slash": 20,
+					"impact": 20,
+					"shot": 15,
+					"fire": 0,
+					"water": 15,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

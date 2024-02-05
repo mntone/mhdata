@@ -135,6 +135,10 @@
 			"name": "Garangolm"
 		},
 		{
+			"id": "glavenus",
+			"name": "Glavenus"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -471,6 +475,7 @@
 		"muscle": "Muscle",
 		"overheat": "Overheat",
 		"rolling": "Rolling",
+		"rusted": "Rusted",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "Covered in Snow",
 		"stealth": "Stealth",
