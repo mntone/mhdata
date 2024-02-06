@@ -211,6 +211,10 @@
 			"name": "Legiana"
 		},
 		{
+			"id": "legiana_shrieking",
+			"name": "Schneesturm-Legiana"
+		},
+		{
 			"id": "lunagaron",
 			"name": "Lunagaron"
 		},

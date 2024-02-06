@@ -279,6 +279,14 @@
 			"weakness": " w_I_"
 		},
 		{
+			"id": "legiana_shrieking",
+			"type": "flying_wyvern",
+			"size": 1831.69,
+			"linked_id": "legiana",
+			"linked_index": 1,
+			"weakness": "F_t _"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

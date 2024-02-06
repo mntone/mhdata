@@ -211,6 +211,10 @@
 			"name": "Легиана"
 		},
 		{
+			"id": "legiana_shrieking",
+			"name": "Визжащая легиана"
+		},
+		{
 			"id": "lunagaron",
 			"name": "Лунагарон"
 		},

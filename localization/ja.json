@@ -373,6 +373,12 @@
 			"another_name": "風漂竜"
 		},
 		{
+			"id": "legiana_shrieking",
+			"name": "凍て刺すレイギエナ",
+			"readable_name": "イテサスレイギエナ",
+			"another_name": "風漂竜"
+		},
+		{
 			"id": "lunagaron",
 			"name": "ルナガロン",
 			"another_name": "氷狼竜",
