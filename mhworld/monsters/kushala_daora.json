@@ -2,6 +2,7 @@
 	"id": "kushala_daora",
 	"version": "15.11",
 	"type": "elder_dragon",
+	"default_mode": "high",
 	"physiologies": [
 		{
 			"parts": [

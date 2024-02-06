@@ -2,6 +2,7 @@
 	"id": "lavasioth",
 	"version": "15.11",
 	"type": "piscine_wyvern",
+	"default_mode": "high",
 	"physiologies": [
 		{
 			"parts": [

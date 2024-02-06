@@ -2,6 +2,7 @@
 	"id": "uragaan",
 	"version": "15.11",
 	"type": "brute_wyvern",
+	"default_mode": "high",
 	"physiologies": [
 		{
 			"parts": [

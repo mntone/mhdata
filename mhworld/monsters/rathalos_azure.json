@@ -2,6 +2,7 @@
 	"id": "rathalos_azure",
 	"version": "15.11",
 	"type": "flying_wyvern",
+	"default_mode": "high",
 	"physiologies": [
 		{
 			"parts": [

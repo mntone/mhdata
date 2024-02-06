@@ -1,0 +1,14 @@
+{
+	"$defs": {
+		"mode": {
+			"title": "Game Mode",
+			"type": "string",
+			"enum": [
+				"default",
+				"high",
+				"master",
+				"rank_g"
+			]
+		}
+	}
+}

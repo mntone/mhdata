@@ -2,6 +2,7 @@
 	"id": "rathian_pink",
 	"version": "15.11",
 	"type": "flying_wyvern",
+	"default_mode": "high",
 	"physiologies": [
 		{
 			"parts": [

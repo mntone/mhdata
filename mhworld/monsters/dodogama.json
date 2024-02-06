@@ -2,6 +2,7 @@
 	"id": "dodogama",
 	"version": "15.11",
 	"type": "fanged_wyvern",
+	"default_mode": "high",
 	"physiologies": [
 		{
 			"parts": [
