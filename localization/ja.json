@@ -153,6 +153,11 @@
 			]
 		},
 		{
+			"id": "brachydios",
+			"name": "ブラキディオス",
+			"another_name": "砕竜"
+		},
+		{
 			"id": "chameleos",
 			"name": "オオナズチ",
 			"another_name": "霞龍",

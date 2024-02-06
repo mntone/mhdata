@@ -273,6 +273,12 @@
 			"weakness": "__T_d"
 		},
 		{
+			"id": "brachydios",
+			"type": "flying_wyvern",
+			"size": 1630.55,
+			"weakness": " w_I_"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
