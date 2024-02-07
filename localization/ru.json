@@ -76,7 +76,10 @@
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "Вспыльчивый Базел."
+			"name": "Вспыльчивый Базел.",
+			"overrides": {
+				"mhworld": "Вспыльчивый базельгейс"
+			}
 		},
 		{
 			"id": "beotodus",
@@ -200,7 +203,10 @@
 		},
 		{
 			"id": "kushala_daora",
-			"name": "Кушала Даора"
+			"name": "Кушала Даора",
+			"overrides": {
+				"mhworld": "Кушала-даора"
+			}
 		},
 		{
 			"id": "kushala_daora_risen",

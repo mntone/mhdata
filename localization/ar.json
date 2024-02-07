@@ -72,11 +72,17 @@
 		},
 		{
 			"id": "bazelgeuse",
-			"name": "بازيلجيس"
+			"name": "بازيلجيس",
+			"overrides": {
+				"mhworld": "بازيلغيس"
+			}
 		},
 		{
 			"id": "bazelgeuse_seething",
-			"name": "بازيلجيس الثائر"
+			"name": "بازيلجيس الثائر",
+			"overrides": {
+				"mhworld": "بازيلغيس متأجج"
+			}
 		},
 		{
 			"id": "beotodus",
@@ -260,7 +266,10 @@
 		},
 		{
 			"id": "nargacuga",
-			"name": "نارجاكوجا"
+			"name": "نارجاكوجا",
+			"overrides": {
+				"mhworld": "نارغاكوغا"
+			}
 		},
 		{
 			"id": "nargacuga_lucent",
@@ -396,11 +405,17 @@
 		},
 		{
 			"id": "tigrex",
-			"name": "تجريكس"
+			"name": "تجريكس",
+			"overrides": {
+				"mhworld": "تغريكس"
+			}
 		},
 		{
 			"id": "tobi_kadachi",
-			"name": "توبي كاداتشي"
+			"name": "توبي كاداتشي",
+			"overrides": {
+				"mhworld": "توبي-كاداتشي"
+			}
 		},
 		{
 			"id": "tobi_kadachi_viper",

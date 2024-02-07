@@ -76,6 +76,11 @@
 							"type": "string",
 							"minLength": 1
 						}
+					},
+					"overrides": {
+						"title": "Monster Override Names for Game",
+						"type": "object",
+						"minItems": 1
 					}
 				},
 				"required": [
