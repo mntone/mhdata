@@ -147,6 +147,10 @@
 			"name": "غلافنيوس"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "غلافنيوس الحمضي"
+		},
+		{
 			"id": "gore_magala",
 			"name": "جور ماجالا"
 		},
@@ -454,6 +458,8 @@
 		"charged": "حالة الشحن",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "حالة التبلور",
+		"crystallized_sharp": "حالة شحذ التبلور",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "عند التصلب",

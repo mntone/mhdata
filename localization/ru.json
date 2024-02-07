@@ -147,6 +147,10 @@
 			"name": "Главенус"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Кислотный главенус"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Кровавая Магала"
 		},
@@ -454,6 +458,8 @@
 		"charged": "При зарядке",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "При кристаллизации",
+		"crystallized_sharp": "При резкой кристаллизации",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Закалка",

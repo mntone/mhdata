@@ -147,6 +147,10 @@
 			"name": "Glavenus"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Glavenus acide"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -454,6 +458,8 @@
 		"charged": "Électrisation",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "Quand cristallisé",
+		"crystallized_sharp": "Quand pointu cristallisé",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Carapace renforcée",

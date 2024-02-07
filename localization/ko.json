@@ -147,6 +147,10 @@
 			"name": "디노발드"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "디노발드 아종"
+		},
+		{
 			"id": "gore_magala",
 			"name": "고어-마가라"
 		},
@@ -454,6 +458,8 @@
 		"charged": "대전 상태",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "결정 상태",
+		"crystallized_sharp": "결정 증가 상태",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "경화 중",

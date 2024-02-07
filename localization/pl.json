@@ -147,6 +147,10 @@
 			"name": "Glavenus"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Kwasowy Glavenus"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -454,6 +458,8 @@
 		"charged": "Kiedy naładowaniu",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "Kiedy krystaliczne",
+		"crystallized_sharp": "Kiedy ostry krystaliczne",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Utwardzanie",

@@ -147,6 +147,10 @@
 			"name": "Glavenus"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Glavenus Acídico"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -454,6 +458,8 @@
 		"charged": "Estado cargado",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "Estado cristaliza",
+		"crystallized_sharp": "Estado cristaliza agudamente",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Endurecerse",

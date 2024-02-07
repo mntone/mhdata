@@ -298,6 +298,12 @@
 			}
 		},
 		{
+			"id": "glavenus_acidic",
+			"type": "brute_wyvern",
+			"size": 2372.44,
+			"weakness": "F_t_d"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

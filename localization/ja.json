@@ -256,6 +256,11 @@
 			"another_name": "斬竜"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "ディノバルド亜種",
+			"another_name": "硫斬竜"
+		},
+		{
 			"id": "gore_magala",
 			"name": "ゴア・マガラ",
 			"another_name": "黒蝕竜",
@@ -830,6 +835,8 @@
 		"chill2": "放熱状態2",
 		"cocooning": "繭化状態",
 		"critical": "臨界状態",
+		"crystallized": "結晶状態",
+		"crystallized_sharp": "結晶増加状態",
 		"electricity": "電気まとい状態",
 		"enraged": "怒り状態",
 		"enraged_super": "闘気硬化状態",

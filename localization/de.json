@@ -147,6 +147,10 @@
 			"name": "Glavenus"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Säure-Glavenus"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -454,6 +458,8 @@
 		"charged": "Aufgeladen Status",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "Kristallstatus",
+		"crystallized_sharp": "Scharfer Kristallstatus",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Gehärtet",

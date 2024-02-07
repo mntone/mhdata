@@ -147,6 +147,10 @@
 			"name": "Glavenus"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Acidic Glavenus"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -464,6 +468,8 @@
 		"chill2": "Chill 2",
 		"cocooning": "Cocooning",
 		"critical": "Critical",
+		"crystallized": "Crystallized",
+		"crystallized_sharp": "Sharp Crystallized",
 		"electricity": "Electricity",
 		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",

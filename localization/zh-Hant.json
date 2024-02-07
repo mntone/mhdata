@@ -147,6 +147,10 @@
 			"name": "斬龍"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "硫斬龍"
+		},
+		{
 			"id": "gore_magala",
 			"name": "黑蝕龍"
 		},
@@ -454,6 +458,8 @@
 		"charged": "帶電狀態",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "結晶狀態",
+		"crystallized_sharp": "結晶增加狀態",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "硬化狀態",

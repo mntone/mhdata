@@ -147,6 +147,10 @@
 			"name": "Glavenus"
 		},
 		{
+			"id": "glavenus_acidic",
+			"name": "Glavenus caustico"
+		},
+		{
 			"id": "gore_magala",
 			"name": "Gore Magala"
 		},
@@ -454,6 +458,8 @@
 		"charged": "Quando caricato",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
+		"crystallized": "Forma cristallizzata",
+		"crystallized_sharp": "Forma cristallizzata tagliente",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Indurito",
