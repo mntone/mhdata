@@ -304,6 +304,14 @@
 			"weakness": "F_t_d"
 		},
 		{
+			"id": "odogaron_ebony",
+			"type": "fanged_wyvern",
+			"size": 1388.75,
+			"linked_id": "odogaron",
+			"linked_index": 1,
+			"weakness": "fWti_"
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,
