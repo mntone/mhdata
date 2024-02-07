@@ -39,6 +39,10 @@
 			"name": "Anjanath"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "Anjanath tonnerre"
+		},
+		{
 			"id": "arzuros",
 			"name": "Arzuros"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "Actif : Dragon",
 		"active_fire": "Actif : Feu",
 		"active_ice": "Actif : Glace",
+		"charged": "Électrisation",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

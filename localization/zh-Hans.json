@@ -39,6 +39,10 @@
 			"name": "蛮颚龙"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "雷颚龙"
+		},
+		{
 			"id": "arzuros",
 			"name": "青熊兽"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "龙活性状态",
 		"active_fire": "炎活性状态",
 		"active_ice": "冰活性状态",
+		"charged": "带电状态",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

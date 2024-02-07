@@ -39,6 +39,10 @@
 			"name": "Аньянат"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "Громовой аньянат"
+		},
+		{
 			"id": "arzuros",
 			"name": "Арзурос"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "Стадия — дракон",
 		"active_fire": "Стадия — огонь",
 		"active_ice": "Стадия — лед",
+		"charged": "При зарядке",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

@@ -39,6 +39,10 @@
 			"name": "Anjanath"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "Fulgur-Anjanath"
+		},
+		{
 			"id": "arzuros",
 			"name": "Arzuros"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "Drache aktiviert",
 		"active_fire": "Feuer aktiviert",
 		"active_ice": "Eis aktiviert",
+		"charged": "Aufgeladen Status",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

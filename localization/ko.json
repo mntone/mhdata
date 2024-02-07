@@ -39,6 +39,10 @@
 			"name": "안쟈나프"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "안쟈나프 아종"
+		},
+		{
 			"id": "arzuros",
 			"name": "아오아시라"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "용활성 상태",
 		"active_fire": "불활성 상태",
 		"active_ice": "얼음활성 상태",
+		"charged": "대전 상태",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",

@@ -287,6 +287,17 @@
 			"weakness": "F_t _"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"type": "brute_wyvern",
+			"size": 1646.46,
+			"linked_id": "anjanath",
+			"linked_index": 1,
+			"weakness": {
+				"default": "_w I_",
+				"charged": "_W i_"
+			}
+		},
+		{
 			"id": "velkhana",
 			"type": "elder_dragon",
 			"size": 2596.05,

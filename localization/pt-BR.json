@@ -39,6 +39,10 @@
 			"name": "Anjanath"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "Anjanath Fulgurante"
+		},
+		{
 			"id": "arzuros",
 			"name": "Arzuros"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "Dragão Ativo",
 		"active_fire": "Fogo Ativo",
 		"active_ice": "Gelo Ativo",
+		"charged": "Quando Energizado",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
@@ -454,9 +459,9 @@
 		"hardened": "Endurecido",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
-		"mud": "Quando em lama",
+		"mud": "Quando em Lama",
 		"sleep": "Spontaneous Sleeping",
-		"snow": "Quando na neve",
+		"snow": "Quando na Neve",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn"
 	}

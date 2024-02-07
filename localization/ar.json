@@ -39,6 +39,10 @@
 			"name": "أنجاناث"
 		},
 		{
+			"id": "anjanath_fulgur",
+			"name": "أنجاناث رعدي"
+		},
+		{
 			"id": "arzuros",
 			"name": "أرزوروس"
 		},
@@ -447,6 +451,7 @@
 		"active_dragon": "التنين مفعل",
 		"active_fire": "النار مفعلة",
 		"active_ice": "الجليد مفعل",
+		"charged": "حالة الشحن",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",
 		"enraged_super": "Super Enraged",
