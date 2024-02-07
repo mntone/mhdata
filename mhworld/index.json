@@ -326,6 +326,14 @@
 			"weakness": " _tI_"
 		},
 		{
+			"id": "vaal_hazak_blackveil",
+			"type": "elder_dragon",
+			"size": 2095.4,
+			"linked_id": "vaal_hazak",
+			"linked_index": 1,
+			"weakness": "F__id"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

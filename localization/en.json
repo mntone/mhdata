@@ -419,6 +419,10 @@
 			"name": "Vaal Hazak"
 		},
 		{
+			"id": "vaal_hazak_blackveil",
+			"name": "Blackveil Vaal Hazak"
+		},
+		{
 			"id": "valstrax_crimson_glow",
 			"name": "Crimson Glow Valstrax"
 		},
