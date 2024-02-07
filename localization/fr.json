@@ -259,6 +259,10 @@
 			"name": "Mizutsune supérieur"
 		},
 		{
+			"id": "namielle",
+			"name": "Namielle"
+		},
+		{
 			"id": "nargacuga",
 			"name": "Nargacuga"
 		},
@@ -477,6 +481,7 @@
 		"sleep": "Spontaneous Sleeping",
 		"snow": "Recouvert de neige",
 		"thorn_black": "Black Thorn",
-		"thorn_white": "White Thorn"
+		"thorn_white": "White Thorn",
+		"water": "Recouvert d'eau"
 	}
 }

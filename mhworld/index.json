@@ -334,6 +334,15 @@
 			"weakness": "F__id"
 		},
 		{
+			"id": "namielle",
+			"type": "elder_dragon",
+			"size": 2048.25,
+			"weakness": {
+				"default": "_  _d",
+				"water": "F  id"
+			}
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

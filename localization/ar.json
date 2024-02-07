@@ -265,6 +265,10 @@
 			"name": "الوحش العلوي ميزوتسوني"
 		},
 		{
+			"id": "namielle",
+			"name": "ناميال"
+		},
+		{
 			"id": "nargacuga",
 			"name": "نارجاكوجا",
 			"overrides": {
@@ -492,6 +496,7 @@
 		"sleep": "Spontaneous Sleeping",
 		"snow": "التغطية بالثلج",
 		"thorn_black": "Black Thorn",
-		"thorn_white": "White Thorn"
+		"thorn_white": "White Thorn",
+		"water": "التغطية بالماء"
 	}
 }

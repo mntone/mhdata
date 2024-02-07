@@ -259,6 +259,10 @@
 			"name": "주인 타마미츠네"
 		},
 		{
+			"id": "namielle",
+			"name": "네로미에르"
+		},
+		{
 			"id": "nargacuga",
 			"name": "나르가쿠르가"
 		},
@@ -475,8 +479,9 @@
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "진흙탕 상태",
 		"sleep": "Spontaneous Sleeping",
-		"snow": "눈 상태",
+		"snow": "눈에 덮여 상태",
 		"thorn_black": "Black Thorn",
-		"thorn_white": "White Thorn"
+		"thorn_white": "White Thorn",
+		"water": "물에 덮여 상태"
 	}
 }

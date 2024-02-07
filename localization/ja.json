@@ -468,6 +468,11 @@
 			]
 		},
 		{
+			"id": "namielle",
+			"name": "ネロミェール",
+			"another_name": "溟龍"
+		},
+		{
 			"id": "nargacuga",
 			"name": "ナルガクルガ",
 			"another_name": "迅竜",
@@ -899,6 +904,7 @@
 		"stealth": "ステルス状態",
 		"thorn_black": "黒トゲ時",
 		"thorn_white": "白トゲ時",
+		"water": "水まとい状態",
 		"wet": "泡状態"
 	}
 }

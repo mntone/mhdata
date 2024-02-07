@@ -259,6 +259,10 @@
 			"name": "首領泡狐龍"
 		},
 		{
+			"id": "namielle",
+			"name": "溟波龍"
+		},
+		{
 			"id": "nargacuga",
 			"name": "迅龍"
 		},
@@ -475,8 +479,9 @@
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "泥濘狀態",
 		"sleep": "Spontaneous Sleeping",
-		"snow": "雪狀態",
+		"snow": "被雪覆蓋狀態",
 		"thorn_black": "Black Thorn",
-		"thorn_white": "White Thorn"
+		"thorn_white": "White Thorn",
+		"water": "被水覆蓋狀態"
 	}
 }
