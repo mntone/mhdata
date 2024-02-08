@@ -406,6 +406,12 @@
 			"weakness": " Wt_ "
 		},
 		{
+			"id": "rajang",
+			"type": "fanged_beast",
+			"size": 829.11,
+			"weakness": " _ I "
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

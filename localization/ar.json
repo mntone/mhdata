@@ -321,7 +321,10 @@
 		},
 		{
 			"id": "rajang",
-			"name": "راجانج"
+			"name": "راجانج",
+			"overrides": {
+				"mhworld": "راجانغ"
+			}
 		},
 		{
 			"id": "rajang_furious",
