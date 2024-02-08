@@ -398,6 +398,14 @@
 			"weakness": "_wT_ "
 		},
 		{
+			"id": "rathalos_silver",
+			"type": "flying_wyvern",
+			"size": 1704.22,
+			"linked_id": "rathalos",
+			"linked_index": 2,
+			"weakness": " Wt_ "
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
