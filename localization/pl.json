@@ -475,6 +475,10 @@
 			"name": "Zinogr"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "Stygijski Zinogr"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "Apeks Zinogr"
 		},
@@ -492,6 +496,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "Kiedy krystaliczne",
 		"crystallized_sharp": "Kiedy ostry krystaliczne",
+		"emitting_light": "Emitujące światło",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Utwardzanie",

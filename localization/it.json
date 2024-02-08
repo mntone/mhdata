@@ -475,6 +475,10 @@
 			"name": "Zinogre"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "Zinogre stigeo"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "Zinogre Apex"
 		},
@@ -492,6 +496,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "Forma cristallizzata",
 		"crystallized_sharp": "Forma cristallizzata tagliente",
+		"emitting_light": "Quando emette luce",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Indurito",

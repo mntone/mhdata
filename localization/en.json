@@ -475,6 +475,10 @@
 			"name": "Zinogre"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "Stygian Zinogre"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "Apex Zinogre"
 		},
@@ -503,6 +507,7 @@
 		"crystallized": "Crystallized",
 		"crystallized_sharp": "Sharp Crystallized",
 		"electricity": "Electricity",
+		"emitting_light": "Emitting Light",
 		"enraged": "Enraged",
 		"enraged_super": "Super Enraged",
 		"excited": "Excited",

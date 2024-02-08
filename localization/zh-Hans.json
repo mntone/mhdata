@@ -475,6 +475,10 @@
 			"name": "雷狼龙"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "狱狼龙"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "霸主・雷狼龙"
 		},
@@ -492,6 +496,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "结晶状态",
 		"crystallized_sharp": "结晶增加状态",
+		"emitting_light": "龙光状态",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "硬化状态",

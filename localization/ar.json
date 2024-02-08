@@ -499,6 +499,10 @@
 			}
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "زينغر جهنمي"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "الوحش العلوي زينجر"
 		},
@@ -516,6 +520,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "حالة التبلور",
 		"crystallized_sharp": "حالة شحذ التبلور",
+		"emitting_light": "عند انبعاث الضوء",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "عند التصلب",

@@ -475,6 +475,10 @@
 			"name": "Zinogre"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "Zinogre stygien"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "Zinogre supérieur"
 		},
@@ -492,6 +496,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "Quand cristallisé",
 		"crystallized_sharp": "Quand pointu cristallisé",
+		"emitting_light": "L'aura lumineux",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Carapace renforcée",

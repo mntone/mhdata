@@ -877,6 +877,11 @@
 			]
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "ジンオウガ亜種",
+			"another_name": "獄狼竜"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "ヌシ・ジンオウガ",
 			"another_name": "雷狼竜",
@@ -910,6 +915,7 @@
 		"crystallized": "結晶状態",
 		"crystallized_sharp": "結晶増加状態",
 		"electricity": "電気まとい状態",
+		"emitting_light": "龍光まとい状態",
 		"enraged": "怒り状態",
 		"enraged_super": "闘気硬化状態",
 		"excited": "興奮状態",

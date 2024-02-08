@@ -412,6 +412,15 @@
 			"weakness": " _ I "
 		},
 		{
+			"id": "zinogre_stygian",
+			"type": "fanged_wyvern",
+			"size": 1743.49,
+			"weakness": {
+				"default": "_wT_ ",
+				"emitting_light": "fwTi "
+			}
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

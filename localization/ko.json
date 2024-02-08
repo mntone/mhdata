@@ -475,6 +475,10 @@
 			"name": "진오우거"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "진오우거 아종"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "주인 진오우거"
 		},
@@ -492,6 +496,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "결정 상태",
 		"crystallized_sharp": "결정 증가 상태",
+		"emitting_light": "용빛을 두른 상태",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "경화 중",

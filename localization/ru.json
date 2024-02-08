@@ -481,6 +481,10 @@
 			"name": "Зиногр"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "Стигийский зиногр"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "Высший Зиногр"
 		},
@@ -498,6 +502,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "При кристаллизации",
 		"crystallized_sharp": "При резкой кристаллизации",
+		"emitting_light": "При испускании света",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Закалка",

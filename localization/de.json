@@ -475,6 +475,10 @@
 			"name": "Zinogre"
 		},
 		{
+			"id": "zinogre_stygian",
+			"name": "Höllen-Zinogre"
+		},
+		{
 			"id": "zinogre_apex",
 			"name": "Apex-Zinogre"
 		},
@@ -492,6 +496,7 @@
 		"charged_super": "Super Charged",
 		"crystallized": "Kristallstatus",
 		"crystallized_sharp": "Scharfer Kristallstatus",
+		"emitting_light": "Licht aussenden",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
 		"hardened": "Gehärtet",
