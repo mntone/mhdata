@@ -351,6 +351,14 @@
 			"weakness": "fwTiD"
 		},
 		{
+			"id": "nergigante_ruiner",
+			"type": "elder_dragon",
+			"size": 1848.12,
+			"linked_id": "nergigante",
+			"linked_index": 1,
+			"weakness": "__t_D"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

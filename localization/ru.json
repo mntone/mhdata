@@ -285,6 +285,10 @@
 			"name": "Нергигант"
 		},
 		{
+			"id": "nergigante_ruiner",
+			"name": "Нергигант-губитель"
+		},
+		{
 			"id": "odogaron",
 			"name": "Одогарон"
 		},
