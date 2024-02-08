@@ -390,6 +390,14 @@
 			"weakness": "_Wt_d"
 		},
 		{
+			"id": "rathian_gold",
+			"type": "flying_wyvern",
+			"size": 1754.37,
+			"linked_id": "rathian",
+			"linked_index": 2,
+			"weakness": "_wT_ "
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
