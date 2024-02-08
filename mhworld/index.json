@@ -359,6 +359,15 @@
 			"weakness": "__t_D"
 		},
 		{
+			"id": "zinogre",
+			"type": "fanged_wyvern",
+			"size": 1743.49,
+			"weakness": {
+				"default": "__ I_",
+				"charged_super": "_w I_"
+			}
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

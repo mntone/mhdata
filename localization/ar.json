@@ -475,7 +475,10 @@
 		},
 		{
 			"id": "zinogre",
-			"name": "زينجر"
+			"name": "زينجر",
+			"overrides": {
+				"mhworld": "زينغر"
+			}
 		},
 		{
 			"id": "zinogre_apex",
