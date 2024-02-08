@@ -411,6 +411,10 @@
 			"name": "Tigrex"
 		},
 		{
+			"id": "tigrex_brute",
+			"name": "Tigrex Pardo"
+		},
+		{
 			"id": "tobi_kadachi",
 			"name": "Tobi-Kadachi"
 		},

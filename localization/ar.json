@@ -423,6 +423,10 @@
 			}
 		},
 		{
+			"id": "tigrex_brute",
+			"name": "تغريكس غاشم"
+		},
+		{
 			"id": "tobi_kadachi",
 			"name": "توبي كاداتشي",
 			"overrides": {

@@ -382,6 +382,14 @@
 			"weakness": " W _d"
 		},
 		{
+			"id": "tigrex_brute",
+			"type": "flying_wyvern",
+			"size": 1943.2,
+			"linked_id": "tigrex",
+			"linked_index": 1,
+			"weakness": "_Wt_d"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

@@ -771,6 +771,11 @@
 			]
 		},
 		{
+			"id": "tigrex_brute",
+			"name": "ティガレックス亜種",
+			"another_name": "黒轟竜"
+		},
+		{
 			"id": "tobi_kadachi",
 			"name": "トビカガチ",
 			"another_name": "飛雷竜",
