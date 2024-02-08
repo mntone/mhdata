@@ -438,6 +438,14 @@
 			"weakness": "FWTID"
 		},
 		{
+			"id": "rajang_furious",
+			"type": "fanged_beast",
+			"size": 829.11,
+			"linked_id": "rajang",
+			"linked_index": 1,
+			"weakness": " _ I "
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

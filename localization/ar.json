@@ -332,7 +332,10 @@
 		},
 		{
 			"id": "rajang_furious",
-			"name": "راجانج الغاضب"
+			"name": "راجانج الغاضب",
+			"overrides": {
+				"mhworld": "راجانغ الغاضب"
+			}
 		},
 		{
 			"id": "rakna_kadaki",
@@ -529,7 +532,7 @@
 		"crystallized": "حالة التبلور",
 		"crystallized_sharp": "حالة شحذ التبلور",
 		"emitting_light": "عند انبعاث الضوء",
-		"enraged_super": "Super Enraged",
+		"enraged_super": "عند الغضب",
 		"frenzy": "The Frenzy",
 		"gold": "الغمر بالذهب",
 		"hardened": "عند التصلب",
