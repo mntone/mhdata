@@ -368,6 +368,12 @@
 			}
 		},
 		{
+			"id": "yian_garuga",
+			"type": "bird_wyvern",
+			"size": 1389.01,
+			"weakness": " W _d"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
