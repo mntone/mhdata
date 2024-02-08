@@ -1,0 +1,175 @@
+{
+	"id": "deviljho_savage",
+	"version": "15.11",
+	"type": "brute_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 45,
+					"shot": 25,
+					"fire": 20,
+					"water": 25,
+					"thunder": 25,
+					"ice": 10,
+					"dragon": 30,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 55,
+					"impact": 60,
+					"shot": 40,
+					"fire": 20,
+					"water": 25,
+					"thunder": 25,
+					"ice": 15,
+					"dragon": 30,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 22,
+					"impact": 22,
+					"shot": 15,
+					"fire": 10,
+					"water": 10,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 40,
+					"shot": 25,
+					"fire": 25,
+					"water": 20,
+					"thunder": 30,
+					"ice": 10,
+					"dragon": 25,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 60,
+					"impact": 55,
+					"shot": 45,
+					"fire": 25,
+					"water": 20,
+					"thunder": 30,
+					"ice": 15,
+					"dragon": 25,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 25,
+					"shot": 15,
+					"fire": 5,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 25,
+					"shot": 45,
+					"fire": 5,
+					"water": 15,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 20,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 33,
+					"impact": 36,
+					"shot": 20,
+					"fire": 15,
+					"water": 5,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 36,
+					"impact": 33,
+					"shot": 20,
+					"fire": 15,
+					"water": 5,
+					"thunder": 20,
+					"ice": 10,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 40,
+					"impact": 40,
+					"shot": 25,
+					"fire": 15,
+					"water": 5,
+					"thunder": 20,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

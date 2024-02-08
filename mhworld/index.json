@@ -343,6 +343,14 @@
 			}
 		},
 		{
+			"id": "deviljho_savage",
+			"type": "brute_wyvern",
+			"size": 2063.82,
+			"linked_id": "deviljho",
+			"linked_index": 1,
+			"weakness": "fwTiD"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

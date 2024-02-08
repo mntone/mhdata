@@ -193,6 +193,15 @@
 			"another_name": "恐暴竜"
 		},
 		{
+			"id": "deviljho_savage",
+			"name": "怒り喰らうイビルジョー",
+			"readable_name": "イカリクラウイビルジョー",
+			"another_name": "恐暴竜",
+			"keywords": [
+				"怒喰恐暴竜"
+			]
+		},
+		{
 			"id": "diablos",
 			"name": "ディアブロス",
 			"another_name": "角竜",
