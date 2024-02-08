@@ -363,6 +363,10 @@
 			"name": "水獸"
 		},
 		{
+			"id": "safijiiva",
+			"name": "冥赤龍"
+		},
+		{
 			"id": "seregios",
 			"name": "千刃龍"
 		},
@@ -491,6 +495,7 @@
 		"active_dragon": "龍活性狀態",
 		"active_fire": "炎活性狀態",
 		"active_ice": "冰活性狀態",
+		"broken": "破壞後",
 		"charged": "帶電狀態",
 		"charged_electric": "Charged",
 		"charged_super": "Super Charged",

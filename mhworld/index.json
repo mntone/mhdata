@@ -421,6 +421,14 @@
 			}
 		},
 		{
+			"id": "safijiiva",
+			"type": "elder_dragon",
+			"size": 4799.78,
+			"linked_id": "xenojiiva",
+			"linked_index": 1,
+			"weakness": "FWTID"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
