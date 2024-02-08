@@ -478,6 +478,10 @@
 			"name": "إيان غاروغا"
 		},
 		{
+			"id": "yian_garuga_scarred",
+			"name": "إيان غاروغا ذو الندبات"
+		},
+		{
 			"id": "zinogre",
 			"name": "زينجر",
 			"overrides": {

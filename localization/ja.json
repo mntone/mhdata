@@ -858,6 +858,12 @@
 			"another_name": "黒狼鳥"
 		},
 		{
+			"id": "yian_garuga_scarred",
+			"name": "傷ついたイャンガルルガ",
+			"readable_name": "キズツイタイャンガルルガ",
+			"another_name": "黒狼鳥"
+		},
+		{
 			"id": "zinogre",
 			"name": "ジンオウガ",
 			"another_name": "雷狼竜",

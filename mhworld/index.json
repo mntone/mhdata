@@ -374,6 +374,14 @@
 			"weakness": " W _d"
 		},
 		{
+			"id": "yian_garuga_scarred",
+			"type": "bird_wyvern",
+			"size": 1395.6,
+			"linked_id": "yian_garuga",
+			"linked_index": 1,
+			"weakness": " W _d"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,
