@@ -208,6 +208,15 @@
 			"weakness": "F__id"
 		},
 		{
+			"id": "kulve_taroth",
+			"type": "elder_dragon",
+			"size": 4573.25,
+			"weakness": {
+				"default": " w Id",
+				"gold": "_wTid"
+			}
+		},
+		{
 			"id": "xenojiiva",
 			"type": "elder_dragon",
 			"size": 4509.10,

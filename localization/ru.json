@@ -206,6 +206,10 @@
 			"name": "Кулу-Йа-Ку"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "Кулве тарот"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "Кушала Даора",
 			"overrides": {
@@ -509,6 +513,7 @@
 		"emitting_light": "При испускании света",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"gold": "Покрытием золотом",
 		"hardened": "Закалка",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",

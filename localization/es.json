@@ -203,6 +203,10 @@
 			"name": "Kulu-Ya-Ku"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "Kulve Taroth"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "Kushala Daora"
 		},
@@ -503,6 +507,7 @@
 		"emitting_light": "Emitiendo luz",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"gold": "Cubierta de oro",
 		"hardened": "Endurecerse",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",

@@ -1,0 +1,343 @@
+{
+	"id": "kulve_taroth",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"default_mode": "high",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 80,
+					"impact": 85,
+					"shot": 25,
+					"fire": 0,
+					"water": 30,
+					"thunder": 0,
+					"ice": 50,
+					"dragon": 35,
+					"stun": 100
+				},
+				{
+					"states": [
+						"gold"
+					],
+					"slash": 25,
+					"impact": 30,
+					"shot": 10,
+					"fire": 5,
+					"water": 10,
+					"thunder": 25,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"gold",
+						"heated"
+					],
+					"slash": 60,
+					"impact": 75,
+					"shot": 30,
+					"fire": 25,
+					"water": 30,
+					"thunder": 50,
+					"ice": 0,
+					"dragon": 25,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"slash": 90,
+					"impact": 95,
+					"shot": 20,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"gold"
+					],
+					"slash": 20,
+					"impact": 25,
+					"shot": 10,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 100
+				},
+				{
+					"mode": "master",
+					"states": [
+						"gold",
+						"heated"
+					],
+					"slash": 80,
+					"impact": 85,
+					"shot": 30,
+					"fire": 10,
+					"water": 15,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 35,
+					"impact": 35,
+					"shot": 20,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 30,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"gold"
+					],
+					"slash": 25,
+					"impact": 30,
+					"shot": 10,
+					"fire": 5,
+					"water": 10,
+					"thunder": 25,
+					"ice": 0,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"gold",
+						"heated"
+					],
+					"slash": 60,
+					"impact": 75,
+					"shot": 30,
+					"fire": 25,
+					"water": 30,
+					"thunder": 50,
+					"ice": 0,
+					"dragon": 25,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 35,
+					"impact": 35,
+					"shot": 20,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"gold"
+					],
+					"slash": 20,
+					"impact": 25,
+					"shot": 10,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"gold",
+						"heated"
+					],
+					"slash": 80,
+					"impact": 85,
+					"shot": 30,
+					"fire": 10,
+					"water": 15,
+					"thunder": 20,
+					"ice": 0,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 45,
+					"shot": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 40,
+					"dragon": 25,
+					"stun": 0
+				},
+				{
+					"states": [
+						"gold"
+					],
+					"slash": 50,
+					"impact": 45,
+					"shot": 45,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 40,
+					"dragon": 25,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 65,
+					"impact": 65,
+					"shot": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"states": [
+						"gold"
+					],
+					"slash": 65,
+					"impact": 65,
+					"shot": 45,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 40,
+					"shot": 30,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 40,
+					"dragon": 25,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 70,
+					"impact": 65,
+					"shot": 25,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 35,
+					"shot": 15,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 30,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 50,
+					"impact": 50,
+					"shot": 15,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 45,
+					"shot": 20,
+					"fire": 0,
+					"water": 10,
+					"thunder": 0,
+					"ice": 30,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"mode": "master",
+					"slash": 50,
+					"impact": 40,
+					"shot": 20,
+					"fire": 0,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	],
+	"states": [
+		{
+			"id": "gold",
+			"parent_state": null
+		}
+	]
+}

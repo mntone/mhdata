@@ -365,6 +365,11 @@
 			]
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "マム・タロト",
+			"another_name": "爛輝龍"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "クシャルダオラ",
 			"another_name": "鋼龍",
@@ -929,6 +934,7 @@
 		"flame": "劫炎状態",
 		"frenzy": "狂竜化状態",
 		"glowing": "熱殻状態",
+		"gold": "金属付着状態",
 		"guarding": "防御状態",
 		"hardened": "硬化状態",
 		"heated": "赤熱状態",
@@ -937,7 +943,7 @@
 		"hellfire_raging": "二極鬼火状態",
 		"ice": "氷衣状態",
 		"inflated": "膨腹状態",
-		"magma": "岩漿纏い状態",
+		"magma": "岩漿まとい状態",
 		"molten": "溶熱状態",
 		"mud": "泥まとい状態",
 		"muscle": "筋肉膨張状態",

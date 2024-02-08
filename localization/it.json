@@ -203,6 +203,10 @@
 			"name": "Kulu-Ya-Ku"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "Kulve Taroth"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "Kushala Daora"
 		},
@@ -503,14 +507,15 @@
 		"emitting_light": "Quando emette luce",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"gold": "Ricoperto d'oro",
 		"hardened": "Indurito",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
-		"mud": "Coperto di fango",
+		"mud": "Ricoperto di fango",
 		"sleep": "Spontaneous Sleeping",
-		"snow": "Coperto di neve",
+		"snow": "Ricoperto di neve",
 		"thorn_black": "Black Thorn",
 		"thorn_white": "White Thorn",
-		"water": "Coperto d'acqua"
+		"water": "Ricoperto d'acqua"
 	}
 }

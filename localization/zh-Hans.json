@@ -203,6 +203,10 @@
 			"name": "搔鸟"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "绚辉龙"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "钢龙"
 		},
@@ -504,6 +508,7 @@
 		"emitting_light": "龙光状态",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"gold": "金属附着状态",
 		"hardened": "硬化状态",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",

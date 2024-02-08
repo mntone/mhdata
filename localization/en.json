@@ -203,6 +203,10 @@
 			"name": "Kulu-Ya-Ku"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "Kulve Taroth"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "Kushala Daora"
 		},
@@ -520,6 +524,7 @@
 		"flame": "Flame",
 		"frenzy": "The Frenzy",
 		"glowing": "Glowing",
+		"gold": "Covered in Gold",
 		"guarding": "Guarding",
 		"hardened": "Hardened",
 		"heated": "Heated",

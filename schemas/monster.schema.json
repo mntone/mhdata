@@ -195,6 +195,32 @@
 					}
 				}
 			}
+		},
+		"states": {
+			"title": "State Configs",
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"title": "State Config",
+				"type": "object",
+				"properties": {
+					"id": {
+						"$ref": "states.schema.json#/$defs/state"
+					},
+					"parent_state": {
+						"title": "Parent State",
+						"oneOf": [
+							{
+								"type": "null"
+							},
+							{
+								"$ref": "states.schema.json#/$defs/state",
+								"default": "default"
+							}
+						]
+					}
+				}
+			}
 		}
 	},
 	"required": [

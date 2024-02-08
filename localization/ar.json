@@ -209,6 +209,10 @@
 			"name": "كولو-يا-كو"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "كولف تاروث"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "كوشالا داورا"
 		},
@@ -527,6 +531,7 @@
 		"emitting_light": "عند انبعاث الضوء",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"gold": "الغمر بالذهب",
 		"hardened": "عند التصلب",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",

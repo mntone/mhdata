@@ -203,6 +203,10 @@
 			"name": "쿠루루야크"
 		},
 		{
+			"id": "kulve_taroth",
+			"name": "맘-타로트"
+		},
+		{
 			"id": "kushala_daora",
 			"name": "크샬다오라"
 		},
@@ -503,6 +507,7 @@
 		"emitting_light": "용빛을 두른 상태",
 		"enraged_super": "Super Enraged",
 		"frenzy": "The Frenzy",
+		"gold": "금속 부착 상태",
 		"hardened": "경화 중",
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
