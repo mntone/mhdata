@@ -1,0 +1,165 @@
+{
+	"id": "fatalis",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 75,
+					"impact": 75,
+					"shot": 33,
+					"fire": 17,
+					"water": 5,
+					"thunder": 5,
+					"ice": 12,
+					"dragon": 25,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 40,
+					"impact": 40,
+					"shot": 7,
+					"fire": 10,
+					"water": 5,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 13,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"chest"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 45,
+					"fire": 13,
+					"water": 5,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"heated"
+					],
+					"slash": 70,
+					"impact": 70,
+					"shot": 48,
+					"fire": 5,
+					"water": 5,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 5,
+					"fire": 7,
+					"water": 5,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 45,
+					"fire": 15,
+					"water": 5,
+					"thunder": 5,
+					"ice": 12,
+					"dragon": 17,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 5,
+					"fire": 10,
+					"water": 5,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 13,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 30,
+					"shot": 35,
+					"fire": 10,
+					"water": 5,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 13,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 20,
+					"shot": 5,
+					"fire": 10,
+					"water": 5,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 13,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

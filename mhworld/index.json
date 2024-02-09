@@ -476,6 +476,12 @@
 				"active_ice": "F_t _",
 				"active_dragon": "____"
 			}
+		},
+		{
+			"id": "fatalis",
+			"type": "elder_dragon",
+			"size": 4137.17,
+			"weakness": "f___D"
 		}
 	]
 }

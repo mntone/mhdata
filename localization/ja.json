@@ -264,6 +264,11 @@
 			]
 		},
 		{
+			"id": "fatalis",
+			"name": "ミラボレアス",
+			"another_name": "黒龍"
+		},
+		{
 			"id": "gaismagorm",
 			"name": "ガイアデルム",
 			"another_name": "冥淵龍",
