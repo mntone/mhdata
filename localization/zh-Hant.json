@@ -95,6 +95,10 @@
 			"name": "碎龍"
 		},
 		{
+			"id": "brachydios_raging",
+			"name": "猛爆碎龍"
+		},
+		{
 			"id": "chameleos",
 			"name": "霞龍"
 		},
@@ -496,6 +500,7 @@
 		}
 	],
 	"states": {
+		"activated_slime": "粘菌變異活躍狀態",
 		"active_dragon": "龍活性狀態",
 		"active_fire": "炎活性狀態",
 		"active_ice": "冰活性狀態",

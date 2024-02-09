@@ -1,0 +1,193 @@
+{
+	"id": "brachydios_raging",
+	"version": "15.11",
+	"type": "brute_wyvern",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 65,
+					"shot": 50,
+					"fire": 0,
+					"water": 5,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"activated_slime"
+					],
+					"slash": 75,
+					"impact": 75,
+					"shot": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"horn"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 65,
+					"shot": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"neck"
+			],
+			"values": [
+				{
+					"slash": 32,
+					"impact": 32,
+					"shot": 30,
+					"fire": 0,
+					"water": 5,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 32,
+					"impact": 32,
+					"shot": 30,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 15,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 55,
+					"impact": 50,
+					"shot": 45,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 25,
+					"dragon": 0,
+					"stun": 0
+				},
+				{
+					"states": [
+						"activated_slime"
+					],
+					"slash": 75,
+					"impact": 75,
+					"shot": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 32,
+					"impact": 32,
+					"shot": 30,
+					"fire": 0,
+					"water": 5,
+					"thunder": 5,
+					"ice": 10,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_base"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 45,
+					"shot": 55,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 18,
+					"impact": 30,
+					"shot": 10,
+					"fire": 0,
+					"water": 10,
+					"thunder": 5,
+					"ice": 25,
+					"dragon": 10,
+					"stun": 0
+				},
+				{
+					"states": [
+						"activated_slime"
+					],
+					"slash": 75,
+					"impact": 75,
+					"shot": 10,
+					"fire": 0,
+					"water": 20,
+					"thunder": 0,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

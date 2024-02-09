@@ -164,6 +164,16 @@
 			"another_name": "砕竜"
 		},
 		{
+			"id": "brachydios_raging",
+			"name": "猛り爆ぜるブラキディオス",
+			"readable_name": "タケリハゼルブラキディオス",
+			"another_name": "砕竜",
+			"keywords": [
+				"猛爆砕竜",
+				"臨界ブラキディオス"
+			]
+		},
+		{
 			"id": "chameleos",
 			"name": "オオナズチ",
 			"another_name": "霞龍",
@@ -907,6 +917,7 @@
 	],
 	"states": {
 		"default": "通常状態",
+		"activated_slime": "粘菌変異活性状態",
 		"active_dragon": "龍活性状態",
 		"active_fire": "炎活性状態",
 		"active_ice": "氷活性状態",

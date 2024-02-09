@@ -446,6 +446,17 @@
 			"weakness": " _ I "
 		},
 		{
+			"id": "brachydios_raging",
+			"type": "brute_wyvern",
+			"size": 2282.77,
+			"linked_id": "brachydios",
+			"linked_index": 1,
+			"weakness": {
+				"default": " __I_",
+				"activated_slime": " W _ "
+			}
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 3105.8,

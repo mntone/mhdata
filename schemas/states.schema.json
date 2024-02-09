@@ -5,6 +5,7 @@
 			"type": "string",
 			"enum": [
 				"default",
+				"activated_slime",
 				"active_dragon",
 				"active_fire",
 				"active_ice",

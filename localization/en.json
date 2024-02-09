@@ -95,6 +95,10 @@
 			"name": "Brachydios"
 		},
 		{
+			"id": "brachydios_raging",
+			"name": "Raging Brachydios"
+		},
+		{
 			"id": "chameleos",
 			"name": "Chameleos"
 		},
@@ -497,6 +501,7 @@
 	],
 	"states": {
 		"default": "Default",
+		"activated_slime": "Activated Slime",
 		"active_dragon": "Dragon Active",
 		"active_fire": "Fire Active",
 		"active_ice": "Ice Active",
