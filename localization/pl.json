@@ -407,6 +407,10 @@
 			"name": "Wzniesiony Shagaru Magala"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "Shar Ishvald"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "Szogun Ceanataur"
 		},
@@ -536,6 +540,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Wymazanie błotem",
+		"rock": "Pokryte skałą",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "Pokryte śniegiem",
 		"thorn_black": "Black Thorn",

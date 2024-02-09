@@ -407,6 +407,10 @@
 			"name": "괴이 극복 샤가르마가라"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "안-이슈왈다"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "쇼군기자미"
 		},
@@ -536,6 +540,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "진흙탕 상태",
+		"rock": "암석 덮여 상태",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "눈에 덮여 상태",
 		"thorn_black": "Black Thorn",

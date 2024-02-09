@@ -407,6 +407,10 @@
 			"name": "怪异克服天廻龙"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "天地煌啼龙"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "将军镰蟹"
 		},
@@ -538,6 +542,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "泥泞状态",
+		"rock": "被岩石覆盖状态",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "被雪覆盖状态",
 		"thorn_black": "Black Thorn",

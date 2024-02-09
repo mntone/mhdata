@@ -744,6 +744,11 @@
 			]
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "アン・イシュワルダ",
+			"another_name": "地啼龍"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "ショウグンギザミ",
 			"another_name": "鎌蟹",
@@ -983,6 +988,7 @@
 		"mud": "泥まとい状態",
 		"muscle": "筋肉膨張状態",
 		"overheat": "過熱状態",
+		"rock": "岩まとい状態",
 		"rolling": "回転中",
 		"rusted": "錆び状態",
 		"sleep": "自発睡眠状態",

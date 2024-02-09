@@ -407,6 +407,10 @@
 			"name": "Risen Shagaru Magala"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "Shara Ishvalda"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "Shogun Ceanataur"
 		},
@@ -563,6 +567,7 @@
 		"mud": "Covered in Mud",
 		"muscle": "Muscle",
 		"overheat": "Overheat",
+		"rock": "Covered in Rock",
 		"rolling": "Rolling",
 		"rusted": "Rusted",
 		"sleep": "Spontaneous Sleeping",

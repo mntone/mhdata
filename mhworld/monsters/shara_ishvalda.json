@@ -1,0 +1,293 @@
+{
+	"id": "shara_ishvalda",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 70,
+					"impact": 75,
+					"shot": 35,
+					"fire": 10,
+					"water": 20,
+					"thunder": 0,
+					"ice": 25,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 50,
+					"impact": 55,
+					"shot": 45,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken",
+						"rock"
+					],
+					"slash": 50,
+					"impact": 55,
+					"shot": 30,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"head_casing"
+			],
+			"values": [
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 55,
+					"impact": 60,
+					"shot": 35,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken",
+						"rock"
+					],
+					"slash": 50,
+					"impact": 50,
+					"shot": 30,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 48,
+					"impact": 44,
+					"shot": 20,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 44,
+					"impact": 48,
+					"shot": 25,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 19,
+					"impact": 20,
+					"shot": 20,
+					"fire": 5,
+					"water": 10,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken",
+						"rock"
+					],
+					"slash": 10,
+					"impact": 10,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 19,
+					"impact": 20,
+					"shot": 15,
+					"fire": 5,
+					"water": 10,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken",
+						"rock"
+					],
+					"slash": 10,
+					"impact": 10,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"wing"
+			],
+			"values": [
+				{
+					"slash": 48,
+					"impact": 48,
+					"shot": 45,
+					"fire": 5,
+					"water": 15,
+					"thunder": 0,
+					"ice": 20,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 10,
+					"impact": 10,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 25,
+					"impact": 25,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				},
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 10,
+					"impact": 10,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"states": [
+						"rock"
+					],
+					"slash": 25,
+					"impact": 25,
+					"shot": 10,
+					"fire": 5,
+					"water": 5,
+					"thunder": 0,
+					"ice": 15,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		}
+	],
+	"states": [
+		{
+			"id": "rock",
+			"parent_state": null
+		}
+	]
+}

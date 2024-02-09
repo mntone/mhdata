@@ -407,6 +407,10 @@
 			"name": "Shagaru Magala risorto"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "Shara Ishvalda"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "Shogun Ceanataur"
 		},
@@ -536,6 +540,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Ricoperto di fango",
+		"rock": "Ricoperto di roccia",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "Ricoperto di neve",
 		"thorn_black": "Black Thorn",

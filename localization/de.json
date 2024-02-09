@@ -407,6 +407,10 @@
 			"name": "Erhobener Shagaru Magala"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "Shara Ishvalda"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "Shogun Ceanataur"
 		},
@@ -536,6 +540,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Schlamm bedeckt",
+		"rock": "Stein bedeckt",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "Schneebedeckt",
 		"thorn_black": "Black Thorn",

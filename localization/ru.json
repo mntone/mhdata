@@ -413,6 +413,10 @@
 			"name": "Восставшая Шагару Магала"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "Шара-ишвалда"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "Цинатавр Сёгун"
 		},
@@ -542,6 +546,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "Покрытый грязью",
+		"rock": "Покрытый камнем",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "Покрытый снегом",
 		"thorn_black": "Black Thorn",

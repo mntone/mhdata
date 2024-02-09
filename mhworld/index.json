@@ -374,6 +374,12 @@
 			"weakness": "__t_D"
 		},
 		{
+			"id": "shara_ishvalda",
+			"type": "elder_dragon",
+			"size": 2910.91,
+			"weakness": "_w I_"
+		},
+		{
 			"id": "zinogre",
 			"type": "fanged_wyvern",
 			"size": 1743.49,

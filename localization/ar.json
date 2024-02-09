@@ -425,6 +425,10 @@
 			"name": "شاجارو ماجالا رايزن"
 		},
 		{
+			"id": "shara_ishvalda",
+			"name": "شارا إشفالدا"
+		},
+		{
 			"id": "shogun_ceanataur",
 			"name": "شوغون قنطور"
 		},
@@ -563,6 +567,7 @@
 		"hellfire_concentrated": "Concentrated Hellfire",
 		"hellfire_raging": "Raging Hellfire",
 		"mud": "التغطية بالول",
+		"rock": "التغطية بالصخور",
 		"sleep": "Spontaneous Sleeping",
 		"snow": "التغطية بالثلج",
 		"thorn_black": "Black Thorn",
