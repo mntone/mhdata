@@ -247,6 +247,14 @@
 			"name": "Legiana glaciale"
 		},
 		{
+			"id": "leshen",
+			"name": "Leshen"
+		},
+		{
+			"id": "leshen_ancient",
+			"name": "Leshen antico"
+		},
+		{
 			"id": "lunagaron",
 			"name": "Lunagaron"
 		},

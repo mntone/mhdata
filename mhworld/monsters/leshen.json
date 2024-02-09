@@ -1,0 +1,62 @@
+{
+	"id": "leshen",
+	"version": "15.11",
+	"type": "relict",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 65,
+					"impact": 65,
+					"shot": 60,
+					"fire": 25,
+					"water": 0,
+					"thunder": 15,
+					"ice": 10,
+					"dragon": 15,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 45,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"arm",
+				"leg"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 45,
+					"shot": 50,
+					"fire": 20,
+					"water": 0,
+					"thunder": 10,
+					"ice": 5,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

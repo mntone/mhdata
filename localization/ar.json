@@ -253,6 +253,14 @@
 			"name": "ليغيانا الصارخ"
 		},
 		{
+			"id": "leshen",
+			"name": "ليشين"
+		},
+		{
+			"id": "leshen_ancient",
+			"name": "وحش ليشين قديم"
+		},
+		{
 			"id": "lunagaron",
 			"name": "لوناجارون"
 		},

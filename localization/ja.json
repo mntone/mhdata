@@ -434,6 +434,14 @@
 			"another_name": "風漂竜"
 		},
 		{
+			"id": "leshen",
+			"name": "レーシェン"
+		},
+		{
+			"id": "leshen_ancient",
+			"name": "エンシェント・レーシェン"
+		},
+		{
 			"id": "lunagaron",
 			"name": "ルナガロン",
 			"another_name": "氷狼竜",

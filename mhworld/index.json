@@ -488,6 +488,18 @@
 			"type": "elder_dragon",
 			"size": 3423.65,
 			"weakness": "_wtiD"
+		},
+		{
+			"id": "leshen",
+			"type": "relict",
+			"size": 549.7,
+			"weakness": "F t_d"
+		},
+		{
+			"id": "leshen_ancient",
+			"type": "relict",
+			"size": 633.81,
+			"weakness": "F t_d"
 		}
 	]
 }

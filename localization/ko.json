@@ -247,6 +247,14 @@
 			"name": "얼려 찌르는 레이기에나"
 		},
 		{
+			"id": "leshen",
+			"name": "레셴"
+		},
+		{
+			"id": "leshen_ancient",
+			"name": "고대 레셴"
+		},
+		{
 			"id": "lunagaron",
 			"name": "루나가론"
 		},

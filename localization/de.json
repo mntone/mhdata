@@ -247,6 +247,14 @@
 			"name": "Schneesturm-Legiana"
 		},
 		{
+			"id": "leshen",
+			"name": "Waldschrat"
+		},
+		{
+			"id": "leshen_ancient",
+			"name": "Uralter Waldschrat"
+		},
+		{
 			"id": "lunagaron",
 			"name": "Lunagaron"
 		},

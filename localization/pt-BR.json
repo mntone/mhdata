@@ -247,6 +247,14 @@
 			"name": "Legiana Estridente"
 		},
 		{
+			"id": "leshen",
+			"name": "Liche"
+		},
+		{
+			"id": "leshen_ancient",
+			"name": "Liche Ancião"
+		},
+		{
 			"id": "lunagaron",
 			"name": "Lunagaron"
 		},
