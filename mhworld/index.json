@@ -460,6 +460,14 @@
 			"weakness": " w_I_"
 		},
 		{
+			"id": "barioth_frostfang",
+			"type": "flying_wyvern",
+			"size": 2098.3,
+			"linked_id": "barioth",
+			"linked_index": 1,
+			"weakness": "F__ _"
+		},
+		{
 			"id": "alatreon",
 			"type": "elder_dragon",
 			"size": 2969.63,

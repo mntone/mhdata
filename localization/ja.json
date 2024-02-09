@@ -102,6 +102,12 @@
 			]
 		},
 		{
+			"id": "barioth_frostfang",
+			"name": "氷刃佩くベリオロス",
+			"readable_name": "ヒョウジンハクベリオロス",
+			"another_name": "氷牙竜"
+		},
+		{
 			"id": "barroth",
 			"name": "ボルボロス",
 			"another_name": "土砂竜",
