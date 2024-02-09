@@ -86,6 +86,10 @@
 			}
 		},
 		{
+			"id": "behemoth",
+			"name": "Бахамут"
+		},
+		{
 			"id": "beotodus",
 			"name": "Беотод"
 		},

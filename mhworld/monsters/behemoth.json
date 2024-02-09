@@ -1,0 +1,179 @@
+{
+	"id": "behemoth",
+	"version": "15.11",
+	"type": "elder_dragon",
+	"physiologies": [
+		{
+			"parts": [
+				"head"
+			],
+			"values": [
+				{
+					"slash": 60,
+					"impact": 55,
+					"shot": 50,
+					"fire": 0,
+					"water": 25,
+					"thunder": 10,
+					"ice": 10,
+					"dragon": 5,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"horn"
+			],
+			"values": [
+				{
+					"slash": 20,
+					"impact": 30,
+					"shot": 5,
+					"fire": 15,
+					"water": 50,
+					"thunder": 35,
+					"ice": 40,
+					"dragon": 85,
+					"stun": 100
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 10,
+					"impact": 15,
+					"shot": 5,
+					"fire": 5,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 25,
+					"stun": 100
+				}
+			]
+		},
+		{
+			"parts": [
+				"torso"
+			],
+			"values": [
+				{
+					"slash": 15,
+					"impact": 22,
+					"shot": 8,
+					"fire": 0,
+					"water": 5,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"back"
+			],
+			"values": [
+				{
+					"slash": 22,
+					"impact": 15,
+					"shot": 5,
+					"fire": 0,
+					"water": 0,
+					"thunder": 0,
+					"ice": 0,
+					"dragon": 0,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"foreleg"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 40,
+					"shot": 15,
+					"fire": 5,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				},
+				{
+					"states": [
+						"broken"
+					],
+					"slash": 50,
+					"impact": 40,
+					"shot": 45,
+					"fire": 5,
+					"water": 10,
+					"thunder": 5,
+					"ice": 5,
+					"dragon": 15,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"hindleg"
+			],
+			"values": [
+				{
+					"slash": 30,
+					"impact": 55,
+					"shot": 10,
+					"fire": 0,
+					"water": 10,
+					"thunder": 10,
+					"ice": 25,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail"
+			],
+			"values": [
+				{
+					"slash": 45,
+					"impact": 25,
+					"shot": 15,
+					"fire": 25,
+					"water": 5,
+					"thunder": 15,
+					"ice": 5,
+					"dragon": 5,
+					"stun": 0
+				}
+			]
+		},
+		{
+			"parts": [
+				"tail_tip"
+			],
+			"values": [
+				{
+					"slash": 50,
+					"impact": 25,
+					"shot": 35,
+					"fire": 25,
+					"water": 20,
+					"thunder": 20,
+					"ice": 20,
+					"dragon": 10,
+					"stun": 0
+				}
+			]
+		}
+	]
+}

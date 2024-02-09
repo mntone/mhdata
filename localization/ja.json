@@ -143,6 +143,11 @@
 			]
 		},
 		{
+			"id": "behemoth",
+			"name": "ベヒーモス",
+			"another_name": "魔獣"
+		},
+		{
 			"id": "beotodus",
 			"name": "ブラントドス",
 			"another_name": "凍魚竜"

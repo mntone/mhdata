@@ -482,6 +482,12 @@
 			"type": "elder_dragon",
 			"size": 4137.17,
 			"weakness": "f___D"
+		},
+		{
+			"id": "behemoth",
+			"type": "elder_dragon",
+			"size": 3423.65,
+			"weakness": "_wtiD"
 		}
 	]
 }
