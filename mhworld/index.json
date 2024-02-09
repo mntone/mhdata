@@ -78,7 +78,7 @@
 		{
 			"id": "radobaan",
 			"type": "brute_wyvern",
-			"size": 2071.09,
+			"size": 1803.47,
 			"weakness": "___iD"
 		},
 		{
@@ -219,7 +219,7 @@
 		{
 			"id": "xenojiiva",
 			"type": "elder_dragon",
-			"size": 4509.10,
+			"size": 4509.1,
 			"weakness": {
 				"default": "F___D",
 				"critical": "fWTId"
@@ -249,12 +249,16 @@
 			"id": "paolumu_nightshade",
 			"type": "flying_wyvern",
 			"size": 1143.36,
+			"linked_id": "paolumu",
+			"linked_index": 1,
 			"weakness": "fW__ "
 		},
 		{
 			"id": "pukei_pukei_coral",
 			"type": "bird_wyvern",
 			"size": 1102.45,
+			"linked_id": "pukei_pukei",
+			"linked_index": 1,
 			"weakness": "_ tI_"
 		},
 		{
@@ -310,7 +314,9 @@
 			"id": "glavenus_acidic",
 			"type": "brute_wyvern",
 			"size": 2372.44,
-			"weakness": "F_t_d"
+			"linked_id": "glavenus",
+			"linked_index": 1,
+			"weakness": "F_t__"
 		},
 		{
 			"id": "odogaron_ebony",
@@ -357,7 +363,7 @@
 			"size": 2063.82,
 			"linked_id": "deviljho",
 			"linked_index": 1,
-			"weakness": "fwTiD"
+			"weakness": "fwTid"
 		},
 		{
 			"id": "nergigante_ruiner",
@@ -385,7 +391,7 @@
 		{
 			"id": "yian_garuga_scarred",
 			"type": "bird_wyvern",
-			"size": 1395.6,
+			"size": 1389.01,
 			"linked_id": "yian_garuga",
 			"linked_index": 1,
 			"weakness": " W _d"
@@ -451,15 +457,12 @@
 			"size": 2282.77,
 			"linked_id": "brachydios",
 			"linked_index": 1,
-			"weakness": {
-				"default": " __I_",
-				"activated_slime": " W _ "
-			}
+			"weakness": " w_I_"
 		},
 		{
 			"id": "alatreon",
 			"type": "elder_dragon",
-			"size": 3105.8,
+			"size": 2969.63,
 			"weakness": {
 				"active_fire": " w_I_",
 				"active_ice": "F_t _",
