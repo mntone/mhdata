@@ -353,7 +353,7 @@
 			"type": "elder_dragon",
 			"size": 2048.25,
 			"weakness": {
-				"default": "_  _d",
+				"default": "_  _D",
 				"water": "F  id"
 			}
 		},
@@ -505,6 +505,8 @@
 			"id": "leshen_ancient",
 			"type": "relict",
 			"size": 633.81,
+			"linked_id": "leshen",
+			"linked_index": 1,
 			"weakness": "F t_d"
 		}
 	]
